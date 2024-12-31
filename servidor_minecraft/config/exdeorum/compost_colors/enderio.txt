@@ -49,6 +49,7 @@ energetic_alloy_ingot, #ffda89
 energetic_alloy_nugget, #ffbe34
 energized_gear, #c69372
 enticing_crystal, #ffffff
+entity_filter, #eeeeed
 experience_rod, #fffcee
 extraction_speed_upgrade_1, #a49696
 extraction_speed_upgrade_2, #a2a0a0

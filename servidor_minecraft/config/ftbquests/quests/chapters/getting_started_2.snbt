@@ -72,27 +72,13 @@
 			x: -22.98d
 			y: -0.25d
 		}
-		{
-			height: 0.5d
-			image: "allthetweaks:item/atm_star"
-			rotation: 0.0d
-			width: 0.5d
-			x: -2.45d
-			y: 2.7d
-		}
-		{
-			height: 0.5d
-			image: "allthetweaks:item/atm_star"
-			rotation: 0.0d
-			width: 0.5d
-			x: 15.57d
-			y: 1.2d
-		}
 	]
 	order_index: 1
+	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["162AB6F9257EB71E"]
 			description: ["{atm9.quest.start2.desc.infuser}"]
 			id: "59B3C2AF620547E0"
 			rewards: [
@@ -133,34 +119,15 @@
 				{
 					id: "30277E05FF6E67D4"
 					type: "xp"
-					xp: 10
+					xp: 100
 				}
 			]
 			subtitle: "{atm9.quest.start2.subt.wind}"
-			tasks: [
-				{
-					count: 5L
-					id: "568260644F99CE83"
-					item: "mekanism:alloy_infused"
-					type: "item"
-				}
-				{
-					id: "03118FCD2EFD5A30"
-					item: "mekanism:basic_control_circuit"
-					type: "item"
-				}
-				{
-					id: "25B2004192CD0C44"
-					item: "mekanism:energy_tablet"
-					type: "item"
-				}
-				{
-					id: "6186D1DEB76B8C0A"
-					item: "mekanism:energy_tablet"
-					type: "item"
-				}
-			]
-			title: "{atm9.quest.start2.wind}"
+			tasks: [{
+				id: "0C2AB4FD5D6525EA"
+				item: "mekanismgenerators:wind_generator"
+				type: "item"
+			}]
 			x: -17.0d
 			y: 0.5d
 		}
@@ -421,7 +388,8 @@
 			y: 4.5d
 		}
 		{
-			description: [""]
+			dependencies: ["162AB6F9257EB71E"]
+			description: ["{atm9.quest.start2.desc.cake}"]
 			id: "1ECF6495A3D77E27"
 			min_width: 300
 			rewards: [{
@@ -431,7 +399,6 @@
 			}]
 			shape: "square"
 			size: 1.0d
-			subtitle: "{atm9.quest.start2.subt.cake}"
 			tasks: [{
 				id: "3EDD7F00E94F9F28"
 				item: "exdeorum:end_cake"
@@ -609,7 +576,7 @@
 				type: "item"
 			}]
 			title: "{atm9.quest.start2.enrichment}"
-			x: -12.0d
+			x: -13.0d
 			y: -1.0d
 		}
 		{
@@ -629,7 +596,7 @@
 				type: "checkmark"
 			}]
 			title: "{atm9.quest.start2.mekanism}"
-			x: -10.0d
+			x: -11.0d
 			y: -1.0d
 		}
 		{
@@ -656,7 +623,7 @@
 				type: "item"
 			}]
 			title: "{atm9.quest.start2.storage}"
-			x: -10.0d
+			x: -11.0d
 			y: 2.0d
 		}
 		{
@@ -901,7 +868,7 @@
 					type: "item"
 				}
 			]
-			x: -12.5d
+			x: -13.5d
 			y: -3.0d
 		}
 		{
@@ -919,7 +886,7 @@
 				item: "mekanism:basic_tier_installer"
 				type: "item"
 			}]
-			x: -11.5d
+			x: -12.5d
 			y: -3.0d
 		}
 		{
@@ -1129,7 +1096,7 @@
 				title: "{atm9.quest.start2.projecte}"
 				type: "checkmark"
 			}]
-			x: -2.5d
+			x: -3.5d
 			y: 2.0d
 		}
 		{
@@ -1253,7 +1220,7 @@
 				item: "minecraft:netherite_upgrade_smithing_template"
 				type: "item"
 			}]
-			x: 7.5d
+			x: 6.5d
 			y: 2.0d
 		}
 		{
@@ -1444,7 +1411,7 @@
 				type: "item"
 			}]
 			x: 12.5d
-			y: -0.5d
+			y: -1.0d
 		}
 		{
 			dependencies: ["5020F092319157B7"]
@@ -1624,7 +1591,7 @@
 				type: "item"
 			}]
 			x: -8.5d
-			y: -0.5d
+			y: -1.0d
 		}
 		{
 			dependencies: ["0F809F1DB7700245"]
@@ -1684,9 +1651,10 @@
 			}]
 			title: "{atm9.quest.start2.ice}"
 			x: -2.0d
-			y: -0.5d
+			y: -1.0d
 		}
 		{
+			dependencies: ["11097D91EBF2490D"]
 			description: ["{atm9.quest.start2.desc.emerald}"]
 			id: "1132517106A700BB"
 			rewards: [{
@@ -1808,7 +1776,7 @@
 				type: "item"
 			}]
 			x: 15.5d
-			y: -0.5d
+			y: -1.0d
 		}
 		{
 			dependencies: ["4897A7858A863C61"]
@@ -1845,7 +1813,7 @@
 				item: "fluxnetworks:flux_controller"
 				type: "item"
 			}]
-			x: 10.5d
+			x: 9.5d
 			y: -1.0d
 		}
 		{
@@ -1874,13 +1842,19 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "5974BCF2D6940F0D"
-				title: "w"
-				type: "checkmark"
+				id: "29B7624E0BFEC287"
+				item: {
+					Count: 1
+					id: "everlastingabilities:ability_totem"
+					tag: {
+						"everlastingabilities:abilityStoreStack": [ ]
+					}
+				}
+				type: "item"
 			}]
 			title: "{atm9.quest.start2.totem}"
 			x: -18.0d
-			y: -2.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["2D9F5CEB4AC30A39"]
@@ -1922,6 +1896,46 @@
 			}]
 			x: 4.0d
 			y: -2.0d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				""
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide: true
+			hide_details_until_startable: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "672785A678458C92"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "2E3A2F9310F0E1FE"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "45CD22E33E61D55F"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: -21.0d
+			y: 2.0d
 		}
 	]
 	title: "{atm9.chapters.6.title}"

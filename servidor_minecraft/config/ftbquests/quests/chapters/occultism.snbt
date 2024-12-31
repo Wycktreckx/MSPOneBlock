@@ -168,7 +168,6 @@
 		}
 		{
 			height: 3.0d
-			hover: ["{atm9.quest.occultism.berserker}"]
 			image: "occultism:textures/gui/book/familiar_beholder.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -177,7 +176,6 @@
 		}
 		{
 			height: 3.0d
-			hover: ["{atm9.quest.occultism.headlessRatman}"]
 			image: "occultism:textures/gui/book/familiar_headless_ratman.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -234,8 +232,8 @@
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
-			x: 6.0d
-			y: 5.5d
+			x: 7.0d
+			y: 4.5d
 		}
 	]
 	order_index: 6
@@ -903,20 +901,14 @@
 			y: 8.0d
 		}
 		{
+			dependencies: ["5316DF321B45D2CA"]
 			description: [
 				"{atm9.quest.occultism.desc.findIesnium.1}"
 				""
 				"{atm9.quest.occultism.desc.findIesnium.2}"
-				""
-				"{atm9.quest.occultism.desc.findIesnium.3}"
-				""
-				"{atm9.quest.occultism.desc.findIesnium.4}"
-				""
-				"{atm9.quest.occultism.desc.findIesnium.5}"
-				""
-				"{image:atm:textures/questpics/occultism/iesniumexample.png width:200 height:175 align:1}"
 			]
-			icon: "occultism:iesnium_ore"
+			hide_dependency_lines: true
+			icon: "occultism:iesnium_ingot"
 			id: "33106E24A3B5DDD8"
 			min_width: 450
 			rewards: [{
@@ -926,7 +918,7 @@
 			}]
 			tasks: [{
 				id: "2C341B16967645C9"
-				item: "occultism:iesnium_ore"
+				item: "occultism:raw_iesnium"
 				type: "item"
 			}]
 			title: "{atm9.quest.occultism.iesniumOreOtherworld}"
@@ -1333,6 +1325,46 @@
 			title: "{atm9.quest.occultism.familiars.2}"
 			x: 8.5d
 			y: 7.0d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				""
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide: true
+			hide_details_until_startable: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "5067EE70C1E747ED"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "3529797EF7768E0E"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "55BD91F17EFBC840"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
 		}
 	]
 	title: "{atm9.chapters.29.title}"

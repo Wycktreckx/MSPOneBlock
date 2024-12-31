@@ -117,11 +117,19 @@
 			]
 			shape: "square"
 			size: 1.5d
-			subtitle: "Getting Started"
+			subtitle: "{atm9.quest.farm.subt.food}"
 			tasks: [{
-				dimension: "minecraft:overworld"
-				id: "3B94A540E1653AB0"
-				type: "dimension"
+				icon: "minecraft:carrot"
+				id: "7F993924F0D679A3"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:crops"
+					}
+				}
+				title: "Any #forge:crops"
+				type: "item"
 			}]
 			title: "{atm9.quest.farm.food}"
 			x: 0.5d
@@ -144,7 +152,7 @@
 				}
 			]
 			shape: "circle"
-			subtitle: "Block Hand 1, Block Grass 0"
+			subtitle: "{atm9.quest.farm.subt.grass}"
 			tasks: [{
 				count: 8L
 				id: "73B6ED422F9292D1"
@@ -172,7 +180,7 @@
 					xp: 10
 				}
 			]
-			subtitle: "Whose fleece was....rainbow?"
+			subtitle: "{atm9.quest.farm.subt.wool}"
 			tasks: [{
 				count: 3L
 				icon: "minecraft:white_wool"
@@ -266,7 +274,7 @@
 			]
 			shape: "rsquare"
 			size: 1.5d
-			subtitle: "The villager has more than one way to spawn"
+			subtitle: "{atm9.quest.farm.subt.market}"
 			tasks: [{
 				id: "1AFEBED0226CEBC1"
 				item: "farmingforblockheads:market"
@@ -285,7 +293,7 @@
 				xp: 10
 			}]
 			shape: "diamond"
-			subtitle: "Get along little doggy."
+			subtitle: "{atm9.quest.farm.subt.animals}"
 			tasks: [{
 				id: "63282E8604721F13"
 				item: "minecraft:lead"
@@ -312,7 +320,7 @@
 					xp: 10
 				}
 			]
-			subtitle: "Why aren't there any bulls in the game?"
+			subtitle: "{atm9.quest.farm.subt.milk}"
 			tasks: [{
 				id: "19A9C679111A90BC"
 				item: "minecraft:milk_bucket"
@@ -339,14 +347,14 @@
 					xp: 10
 				}
 			]
-			subtitle: "or am I?"
+			subtitle: "{atm9.quest.farm.subt.egg}"
 			tasks: [{
 				count: 3L
 				id: "46974912B1E8E78B"
 				item: "minecraft:egg"
 				type: "item"
 			}]
-			title: "{atm9.quest.farm.chicken}"
+			title: "{atm9.quest.farm.egg}"
 			x: 4.0d
 			y: 1.0d
 		}
@@ -365,7 +373,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "How else do you think Fried Chicken is made?"
+			subtitle: "{atm9.quest.farm.subt.chicken}"
 			tasks: [
 				{
 					count: 10L
@@ -380,7 +388,7 @@
 					type: "item"
 				}
 			]
-			title: "{atm9.quest.farm.egg}"
+			title: "{atm9.quest.farm.chicken}"
 			x: 6.0d
 			y: 1.0d
 		}
@@ -409,11 +417,18 @@
 			]
 			shape: "diamond"
 			size: 1.25d
-			subtitle: "Just wait until you get machines for this."
+			subtitle: "{atm9.quest.farm.subt.farming}"
 			tasks: [{
-				id: "78772A2785AE9DD2"
-				title: "The Planter"
-				type: "checkmark"
+				id: "390FC97A4954D712"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:hoes"
+					}
+				}
+				title: "Any #minecraft:hoes"
+				type: "item"
 			}]
 			title: "{atm9.quest.farm.farming}"
 			x: -1.5749999999999997d
@@ -435,7 +450,7 @@
 					xp: 10
 				}
 			]
-			subtitle: "Speedrunners Love This Stuff"
+			subtitle: "{atm9.quest.farm.subt.wheat}"
 			tasks: [{
 				count: 3L
 				id: "6890EB2819D88073"
@@ -462,7 +477,7 @@
 					xp: 10
 				}
 			]
-			subtitle: "Quick and Simple"
+			subtitle: "{atm9.quest.farm.subt.bread}"
 			tasks: [{
 				count: 3L
 				id: "03C7F9CB0DDB2D9B"
@@ -482,7 +497,7 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "Who needs spiders anyway?"
+			subtitle: "{atm9.quest.farm.subt.flax}"
 			tasks: [{
 				id: "6D7AAE290A87345C"
 				item: {
@@ -527,7 +542,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "This grows to the sky now."
+			subtitle: "{atm9.quest.farm.subt.cane}"
 			tasks: [{
 				count: 10L
 				id: "6118A776B40507B7"
@@ -548,7 +563,7 @@
 			}]
 			shape: "diamond"
 			size: 1.5d
-			subtitle: "Smelt a book. Totally won't catch on fire."
+			subtitle: "{atm9.quest.farm.subt.book}"
 			tasks: [{
 				id: "61DBF366AFC8A579"
 				item: "cookingforblockheads:recipe_book"
@@ -574,7 +589,7 @@
 					xp: 10
 				}
 			]
-			subtitle: "This is totally worth it btw"
+			subtitle: "{atm9.quest.farm.subt.cookbook}"
 			tasks: [{
 				id: "20FD5552BE10D679"
 				item: "cookingforblockheads:crafting_book"
@@ -603,7 +618,7 @@
 			]
 			shape: "rsquare"
 			size: 1.5d
-			subtitle: "Betty White was born before Sliced Bread"
+			subtitle: "{atm9.quest.farm.subt.kitchen}"
 			tasks: [{
 				id: "552C067A28FB8869"
 				item: "cookingforblockheads:cooking_table"
@@ -631,7 +646,7 @@
 				}
 			]
 			shape: "diamond"
-			subtitle: "So much room for activities!"
+			subtitle: "{atm9.quest.farm.subt.cabinet}"
 			tasks: [{
 				count: 2L
 				id: "1DAD3C12FDEB5CD4"
@@ -660,7 +675,7 @@
 				}
 			]
 			shape: "diamond"
-			subtitle: "&oWe&r need more cooking space."
+			subtitle: "{atm9.quest.farm.subt.counter}"
 			tasks: [{
 				count: 2L
 				id: "766C32B477A216B8"
@@ -690,7 +705,7 @@
 				}
 			]
 			shape: "diamond"
-			subtitle: "You'll open it, close it, then open it again, just because you're bored."
+			subtitle: "{atm9.quest.farm.subt.fridge}"
 			tasks: [{
 				count: 2L
 				id: "1571EF760DE41F63"
@@ -720,7 +735,7 @@
 				}
 			]
 			shape: "diamond"
-			subtitle: "No Timer Needed"
+			subtitle: "{atm9.quest.farm.subt.stove}"
 			tasks: [{
 				id: "37D8D79B6B216212"
 				item: "cookingforblockheads:oven"
@@ -748,7 +763,7 @@
 				}
 			]
 			shape: "diamond"
-			subtitle: "Phenomenal Milking Powers....Itty bitty living space."
+			subtitle: "{atm9.quest.farm.subt.jar}"
 			tasks: [{
 				id: "193EA9F7C05B6F38"
 				item: "cookingforblockheads:cow_jar"
@@ -879,7 +894,7 @@
 					xp: 10
 				}
 			]
-			subtitle: "Pour some sugar on me."
+			subtitle: "{atm9.quest.farm.subt.sugar}"
 			tasks: [{
 				count: 3L
 				id: "56CAB3D2E3421C7C"
@@ -908,7 +923,7 @@
 				}
 			]
 			shape: "diamond"
-			subtitle: "Why Use 3 Block when 1 Block Do Trick"
+			subtitle: "{atm9.quest.farm.subt.sink}"
 			tasks: [{
 				id: "2872A1297BE6C40D"
 				item: "cookingforblockheads:sink"
@@ -917,6 +932,46 @@
 			title: "{atm9.quest.farm.sink}"
 			x: -1.0d
 			y: 8.0d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				""
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide: true
+			hide_details_until_startable: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "4775DE819C9BA603"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "130CBD8F214BB285"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "6064BF9FC8D40674"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: 0.5d
+			y: -1.5d
 		}
 	]
 	title: "{atm9.chapters.13.title}"

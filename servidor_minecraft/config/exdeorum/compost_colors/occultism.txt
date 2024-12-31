@@ -1,6 +1,7 @@
 // Compost colors for occultism. You may add your own colors, change existing ones, or remove colors that aren't needed.
 afrit_essence, #a43c3e
 awakened_feather, #fff1ff
+beaver_nugget, #ffb241
 book_of_binding_afrit, #d4ae4a
 book_of_binding_bound_afrit, #b98aa4
 book_of_binding_bound_djinni, #9b4eb9

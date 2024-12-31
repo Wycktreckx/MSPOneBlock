@@ -6,6 +6,7 @@ air_focus, #ffff75
 air_hat, #ffffff
 air_leggings, #ffffff
 air_robes, #fffcff
+anima_bangle, #deb476
 anima_caster_tome, #696646
 anima_essence, #844443
 aqua_boots, #57b9c8
@@ -36,10 +37,12 @@ lesser_air_focus, #ffff7f
 lesser_earth_focus, #eeff8d
 lesser_fire_focus, #ffeb73
 lesser_water_focus, #f1f4d0
+manipulation_caster_tome, #cc983a
 mark_of_mastery, #ffff80
 necrotic_focus, #943c22
 siren_charm, #b9e1af
 siren_shards, #b5beb1
+summon_bangle, #fbc3a4
 thread_shock, #b9a5ab
 thread_spore, #ccbcbb
 thread_summon, #cab9b8

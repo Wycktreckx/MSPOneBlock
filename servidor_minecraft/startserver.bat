@@ -1,5 +1,5 @@
 @echo off
-set FORGE_VERSION=47.2.20
+set FORGE_VERSION=47.3.0
 :: To use a specific Java runtime, set an environment variable named ATM9_JAVA to the full path of java.exe.
 :: To disable automatic restarts, set an environment variable named ATM9_RESTART to false.
 :: To install the pack without starting the server, set an environment variable named ATM9_INSTALL_ONLY to true.

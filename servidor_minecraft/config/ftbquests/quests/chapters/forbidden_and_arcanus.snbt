@@ -222,7 +222,11 @@
 		}
 		{
 			dependencies: ["537E39530360AD73"]
-			description: ["{atm9.quest.forbiddenAndArcanus.desc.stellaArcanumFeatures.1}"]
+			description: [
+				"{atm9.quest.forbiddenAndArcanus.desc.stellaArcanumFeatures.1}"
+				""
+				"{atm9.quest.forbiddenAndArcanus.desc.stellaArcanumFeatures.2}"
+			]
 			id: "34592A8F4B661D8D"
 			rewards: [
 				{
@@ -1546,6 +1550,86 @@
 			}]
 			x: 8.0d
 			y: 3.0d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				""
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide: true
+			hide_details_until_startable: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "1BC16777A332FB6E"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "576BF09443FEEF0B"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "6B18356D7ACFA86D"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: -7.0d
+			y: 6.5d
+		}
+		{
+			description: ["{atm9.quest.forbiddenAndArcanus.desc.rune}"]
+			id: "7378B6C5B34D18CA"
+			rewards: [{
+				count: 4
+				id: "54770C741F07D443"
+				item: "forbidden_arcanus:rune"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3A3EA30021263C41"
+				item: "forbidden_arcanus:rune"
+				type: "item"
+			}]
+			title: "{atm9.quest.forbiddenAndArcanus.rune}"
+			x: -4.5d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"7378B6C5B34D18CA"
+				"7CF76A542529A181"
+			]
+			description: ["{atm9.quest.forbiddenAndArcanus.desc.darkrune}"]
+			id: "76343FEB5D045A21"
+			rewards: [{
+				count: 2
+				id: "7EF21DA84BAD32C7"
+				item: "forbidden_arcanus:dark_rune"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2F87F31985E1CEA5"
+				item: "forbidden_arcanus:dark_rune"
+				type: "item"
+			}]
+			title: "{atm9.quest.forbiddenAndArcanus.darkrune}"
+			x: -5.5d
+			y: 7.5d
 		}
 	]
 	title: "{atm9.chapters.28.title}"

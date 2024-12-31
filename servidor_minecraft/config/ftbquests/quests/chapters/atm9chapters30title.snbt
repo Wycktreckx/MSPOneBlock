@@ -12,9 +12,10 @@
 		rotation: 0.0d
 		width: 21.63d
 		x: 0.0d
-		y: -10.5d
+		y: -11.5d
 	}]
 	order_index: 2
+	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
 		{
@@ -285,7 +286,6 @@
 				"1A0010FBB8F0E045"
 				"16D782A4164F5DB2"
 			]
-			description: ["{atm9.quest.start3.desc.wither}"]
 			id: "283BCA98822430FD"
 			rewards: [
 				{
@@ -720,7 +720,7 @@
 			description: [
 				"{atm9.quest.start3.desc.bees}"
 				""
-				"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"26E6ED94168A05C4\"}, \"text\": \"Click here to check out the questline!\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
+				"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"5D1ED06D1FA06FA9\"}, \"text\": \"Click here to check out the questline!\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
 			]
 			hide: true
 			icon: "minecraft:honeycomb"
@@ -1254,8 +1254,24 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "435BF5C3725B0864"
-				item: "megacells:cell_component_256m"
+				id: "64E86D28A8BF898D"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "megacells:cell_component_16m"
+							}
+							{
+								Count: 1b
+								id: "extrastorage:storagepart_16384k"
+							}
+						]
+					}
+				}
+				title: "{atm9.quest.start3.storage}"
 				type: "item"
 			}]
 			title: "{atm9.quest.start3.storage}"
@@ -1855,7 +1871,7 @@
 			}]
 			title: "{atm9.quest.start3.start}"
 			x: 0.0d
-			y: -7.5d
+			y: -8.75d
 		}
 		{
 			dependencies: ["04ED71D67F75FE4C"]
@@ -1923,6 +1939,46 @@
 			title: "{atm9.quest.start3.prediction}"
 			x: -2.0d
 			y: 8.5d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				""
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide: true
+			hide_details_until_startable: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "7F3DB620B0E37D30"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "5529B90F0334211A"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "14A780EEFEFB9C9E"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -7.0d
 		}
 	]
 	title: "{atm9.chapters.30.title}"
