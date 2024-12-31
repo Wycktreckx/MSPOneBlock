@@ -1,7 +1,25 @@
 {
+  "supplementaries:recipes/flags/flag_magenta": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2024-12-31 03:03:46 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/cooked_beef_to_porkchop": {
+    "criteria": {
+      "has_beef": "2024-12-31 03:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-31 03:07:10 +0000"
     },
     "done": true
   },
@@ -23,6 +41,30 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/directional_highspeed_rail": {
+    "criteria": {
+      "criterion1": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/armed_stand": {
+    "criteria": {
+      "criterion1": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_wooden_hoe": {
+    "criteria": {
+      "has_tool": "2024-12-31 03:07:10 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
     "criteria": {
       "has_wct": "2024-12-31 03:03:46 +0000"
@@ -35,9 +77,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_green": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/birch": {
     "criteria": {
       "has_birch": "2024-12-31 03:03:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_white": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
     },
     "done": true
   },
@@ -47,9 +113,39 @@
     },
     "done": true
   },
+  "supplementaries:recipes/timber_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/directional_rail": {
+    "criteria": {
+      "criterion1": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/reinforced_rail": {
+    "criteria": {
+      "criterion2": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/wood_gear": {
+    "criteria": {
+      "has_ingredient": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
     "criteria": {
       "has_wt": "2024-12-31 03:03:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 03:11:59 +0000"
     },
     "done": true
   },
@@ -59,15 +155,87 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/force_sapling_from_sapling": {
+    "criteria": {
+      "has_sapling": "2024-12-31 03:07:10 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/snad/drit": {
     "criteria": {
       "has_dirt": "2024-12-31 03:04:57 +0000"
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/otherworld_sapling_natural": {
+    "criteria": {
+      "has_oak_sapling": "2024-12-31 03:07:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_cyan": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2024-12-31 03:03:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2024-12-31 03:07:10 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/oak_logs_to_trapdoors": {
+    "criteria": {
+      "has_log": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/oak_logs_to_slabs": {
+    "criteria": {
+      "has_log": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-12-31 03:07:18 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flags/flag_orange": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/torch": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
     },
     "done": true
   },
@@ -83,15 +251,81 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/components": {
+    "criteria": {
+      "has_wood": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 03:11:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/logs_to_bowls": {
+    "criteria": {
+      "has_log": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
       "has_wpt": "2024-12-31 03:03:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/roasted_sunflower_seeds": {
     "criteria": {
       "has_sunflower": "2024-12-31 03:04:34 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/oak_logs_to_pressure_plates": {
+    "criteria": {
+      "has_log": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/hand_bell": {
+    "criteria": {
+      "criterion0": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/oak_logs_to_doors": {
+    "criteria": {
+      "has_log": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 03:13:40 +0000"
     },
     "done": true
   },
@@ -113,9 +347,39 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/building_blocks/edelwood_ladder": {
+    "criteria": {
+      "has_rods/wooden": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/stick": {
+    "criteria": {
+      "has_ingredient": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_blue": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/deepslate": {
     "criteria": {
       "has_deepslate": "2024-12-31 03:03:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:13:40 +0000"
     },
     "done": true
   },
@@ -131,11 +395,41 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_light_gray": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:plains": "2024-12-31 03:03:47 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_wood": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_lime": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
   },
   "mcwroofs:recipes/grass": {
     "criteria": {
@@ -161,9 +455,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
     "criteria": {
       "has_wit": "2024-12-31 03:03:46 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_wooden_sword": {
+    "criteria": {
+      "has_tool": "2024-12-31 03:07:10 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/cobblestone": {
+    "criteria": {
+      "has_item": "2024-12-31 03:14:43 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtain_rods": {
+    "criteria": {
+      "has_wood": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/weak_redstone_torch": {
+    "criteria": {
+      "criterion1": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/no_soliciting_banner": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/oak_logs_to_stairs": {
+    "criteria": {
+      "has_log": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-31 03:14:00 +0000"
     },
     "done": true
   },
@@ -173,9 +533,39 @@
     },
     "done": true
   },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2024-12-31 03:07:10 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/crook": {
+    "criteria": {
+      "has_item": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_black": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-31 03:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/oak_logs_to_boats": {
+    "criteria": {
+      "has_log": "2024-12-31 03:13:40 +0000"
     },
     "done": true
   },
@@ -188,6 +578,30 @@
   "mcwbridges:recipes/bridge_torch": {
     "criteria": {
       "has_planks": "2024-12-31 03:03:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_purple": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/oak": {
+    "criteria": {
+      "has_wood": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_gray": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/faucet": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-31 03:14:00 +0000"
     },
     "done": true
   },
@@ -209,9 +623,21 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/highspeed_rail": {
+    "criteria": {
+      "criterion1": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
   "translocators:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_nugget": "2024-12-31 03:03:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_light_blue": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
     },
     "done": true
   },
@@ -221,9 +647,39 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_red": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/oak_compressed_sieve": {
+    "criteria": {
+      "has_item": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2024-12-31 03:04:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-31 03:14:00 +0000"
     },
     "done": true
   },
@@ -239,15 +695,33 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2024-12-31 03:03:46 +0000"
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2024-12-31 03:04:57 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_wooden_axe": {
+    "criteria": {
+      "has_tool": "2024-12-31 03:07:10 +0000"
     },
     "done": true
   },
@@ -269,6 +743,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_pink": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/ce": {
     "criteria": {
       "has_wpt": "2024-12-31 03:03:46 +0000",
@@ -283,9 +763,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/timber_frame": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/spruce": {
     "criteria": {
       "has_spruce": "2024-12-31 03:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
     },
     "done": true
   },
@@ -293,6 +785,30 @@
     "criteria": {
       "has_wit": "2024-12-31 03:03:46 +0000",
       "has_wpt": "2024-12-31 03:03:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lexicon": {
+    "criteria": {
+      "has_item": "2024-12-31 03:07:10 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/wood_gear_corner": {
+    "criteria": {
+      "has_ingredient": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-31 03:14:00 +0000"
     },
     "done": true
   },
@@ -308,9 +824,27 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/oak_log_1x": {
+    "criteria": {
+      "has_oak_log": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
   "exdeorum:core/root": {
     "criteria": {
       "in_void_world": "2024-12-31 03:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-31 03:13:40 +0000"
     },
     "done": true
   },
@@ -322,9 +856,39 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/blocks/crank": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/end": {
     "criteria": {
       "has_end_brick": "2024-12-31 03:03:46 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/rough_rod": {
+    "criteria": {
+      "has_item": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_brown": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/food/utility/charcoal_from_campfire": {
+    "criteria": {
+      "has_logs": "2024-12-31 03:13:40 +0000"
     },
     "done": true
   },
@@ -358,9 +922,51 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_classic": {
+    "criteria": {
+      "has_logs": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-31 03:07:18 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_torch": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_frame": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-31 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
   "energymeter:recipes/energymeter/meter": {
     "criteria": {
       "has_item": "2024-12-31 03:03:46 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_yellow": {
+    "criteria": {
+      "has_stick": "2024-12-31 03:14:00 +0000"
     },
     "done": true
   },

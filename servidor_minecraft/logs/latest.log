@@ -8269,3 +8269,132 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [31Dec2024 03:08:49.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Wycktreckz: Successfully left your teammates alone.]
 [31Dec2024 03:08:49.136] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
 [31Dec2024 03:09:01.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,398.8421491405255,0.0
+[31Dec2024 03:09:03.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YeferJV: Successfully left your teammates alone.]
+[31Dec2024 03:09:03.025] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 03:09:47.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hu4ch moved too quickly! 0.0,397.73944160634125,0.0
+[31Dec2024 03:09:53.610] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Created team Los Tilines Inzanos From Temu (f1787258-a7af-40e6-ad20-a48a0ece6793) at BlockPos{x=0, y=64, z=4096} with template Anarchy
+[31Dec2024 03:09:55.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hu4ch moved too quickly! 0.0,397.73944160634125,0.0
+[31Dec2024 03:10:00.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hu4ch: Successfully left your teammates alone.]
+[31Dec2024 03:10:00.962] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 03:10:01.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hu4ch fell from a high place
+[31Dec2024 03:10:01.789] [Server thread/INFO] [tombstone/]: The player Hu4ch has successfully been saved
+[31Dec2024 03:10:02.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Hu4ch> -
+[31Dec2024 03:10:03.592] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 03:10:14.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hu4ch: Successfully joined team Los Tilines Inzanos From Temu.]
+[31Dec2024 03:10:18.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Wycktreckz: Successfully joined team Los Tilines Inzanos From Temu.]
+[31Dec2024 03:10:25.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! -1.0944943084706724,-10.918394975941887,-1.572749387737531
+[31Dec2024 03:10:27.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-10.612022956862141,0.0
+[31Dec2024 03:10:29.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-12.222727470279253,0.0
+[31Dec2024 03:10:31.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-12.222727470279256,0.0
+[31Dec2024 03:10:33.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.8850280140048599,-11.433643280623421,0.6912409115971059
+[31Dec2024 03:10:35.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.9945429668338859,-11.433643280623443,0.8164588812842339
+[31Dec2024 03:10:38.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,397.592429673997,0.0
+[31Dec2024 03:10:59.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hu4ch moved too quickly! 0.0,396.11382343073126,0.0
+[31Dec2024 03:11:14.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hu4ch moved too quickly! 0.0,397.10477296390627,0.0
+[31Dec2024 03:11:27.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! -0.1988744031878822,-10.281992374948807,-0.3878473485365248
+[31Dec2024 03:11:29.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-11.627681020464777,0.0
+[31Dec2024 03:11:30.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YeferJV moved too quickly! 0.0,401.19263605860135,0.0
+[31Dec2024 03:11:31.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-11.832170645297424,0.0
+[31Dec2024 03:11:33.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-11.31484983401701,0.0
+[31Dec2024 03:11:36.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-10.811596629254794,0.0
+[31Dec2024 03:11:38.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! -0.570383569512305,-10.867409983895072,-0.46140051232669066
+[31Dec2024 03:11:39.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! -0.06544772394408649,-10.856489120741116,-0.28060478525912913
+[31Dec2024 03:11:41.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,405.45967291719967,0.0
+[31Dec2024 03:11:43.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV fell from a high place
+[31Dec2024 03:11:43.098] [Server thread/INFO] [tombstone/]: The player YeferJV has successfully been saved
+[31Dec2024 03:11:44.535] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 03:11:50.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,401.4662605878482,0.0
+[31Dec2024 03:11:59.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Knowledge of Death]
+[31Dec2024 03:11:59.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has reached the goal [Chain Death]
+[31Dec2024 03:11:59.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV fell from a high place
+[31Dec2024 03:11:59.499] [Server thread/INFO] [tombstone/]: The player YeferJV has successfully been saved
+[31Dec2024 03:12:00.573] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 03:12:01.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hu4ch has reached the goal [Discreet Search]
+[31Dec2024 03:12:03.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz fell from a high place
+[31Dec2024 03:12:03.800] [Server thread/INFO] [tombstone/]: The player Wycktreckz has successfully been saved
+[31Dec2024 03:12:04.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.006559392013517851,-13.68585585443735,0.02742746867625101
+[31Dec2024 03:12:05.773] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 03:12:08.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hu4ch moved too quickly! 0.0,396.4479033205546,0.0
+[31Dec2024 03:12:13.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-10.2985076344942,0.0
+[31Dec2024 03:12:18.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-16.587771592302715,0.0
+[31Dec2024 03:12:20.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,396.95964674568734,0.0
+[31Dec2024 03:12:23.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hu4ch was slain by YeferJV
+[31Dec2024 03:12:23.341] [Server thread/INFO] [tombstone/]: The player Hu4ch has successfully been saved
+[31Dec2024 03:12:24.618] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 03:12:27.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YeferJV moved too quickly! 0.0,398.8977781160123,0.0
+[31Dec2024 03:12:30.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hu4ch moved too quickly! 0.0,398.6078687638894,0.0
+[31Dec2024 03:12:31.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YeferJV: Successfully left your teammates alone.]
+[31Dec2024 03:12:31.031] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 03:12:31.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV was doomed to fall by Hu4ch
+[31Dec2024 03:12:31.285] [Server thread/INFO] [tombstone/]: The player YeferJV has successfully been saved
+[31Dec2024 03:12:33.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Wycktreckz: Successfully left your teammates alone.]
+[31Dec2024 03:12:33.200] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 03:12:36.291] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 03:12:38.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hu4ch: Successfully left your teammates alone.]
+[31Dec2024 03:12:38.091] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 03:12:48.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has reached the goal [Chain Death]
+[31Dec2024 03:12:48.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz was slain by Hu4ch
+[31Dec2024 03:12:48.860] [Server thread/INFO] [tombstone/]: The player Wycktreckz has successfully been saved
+[31Dec2024 03:12:50.755] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 03:13:02.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! -0.22169432312921167,-11.511418989632986,-0.2532339132625818
+[31Dec2024 03:13:04.604] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Created team Los Penes Inzanos 🥶 (c9586666-303c-4062-baa8-11da67d1b3a4) at BlockPos{x=-4096, y=64, z=4096} with template Classical
+[31Dec2024 03:13:04.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-11.213403912871314,0.0
+[31Dec2024 03:13:07.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz was doomed to fall
+[31Dec2024 03:13:07.126] [Server thread/INFO] [tombstone/]: The player Wycktreckz has successfully been saved
+[31Dec2024 03:13:09.370] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 03:13:40.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Wycktreckz: Successfully joined team Los Penes Inzanos 🥶.]
+[31Dec2024 03:13:46.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! -0.607594567081378,-10.297895997590892,-0.10453540531943872
+[31Dec2024 03:13:47.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hu4ch: Successfully joined team Los Penes Inzanos 🥶.]
+[31Dec2024 03:13:49.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-10.612022956862134,0.0
+[31Dec2024 03:13:51.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-11.694736062225502,0.0
+[31Dec2024 03:13:52.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-11.84611359541216,0.0
+[31Dec2024 03:13:54.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-11.026982712340192,0.0
+[31Dec2024 03:13:56.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-11.523684986416676,0.0
+[31Dec2024 03:13:57.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-11.207870780463594,0.0
+[31Dec2024 03:13:59.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-11.537436446437312,0.0
+[31Dec2024 03:14:01.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-11.83217064529741,0.0
+[31Dec2024 03:14:01.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,400.6353941441766,0.0
+[31Dec2024 03:14:12.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.38002442798961056,-10.20179289479261,0.6421023888142372
+[31Dec2024 03:14:13.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-10.556602614620111,0.0
+[31Dec2024 03:14:15.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-10.856489120741145,0.0
+[31Dec2024 03:14:17.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-12.459692335404918,0.0
+[31Dec2024 03:14:19.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-11.694736062225504,0.0
+[31Dec2024 03:14:21.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-11.627681020464777,0.0
+[31Dec2024 03:14:23.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-11.859579614626213,0.0
+[31Dec2024 03:14:25.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-12.708162068455408,0.0
+[31Dec2024 03:14:26.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,404.4541711895829,0.0
+[31Dec2024 03:14:34.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,397.73944160634125,0.0
+[31Dec2024 03:14:40.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz fell from a high place
+[31Dec2024 03:14:40.078] [Server thread/INFO] [tombstone/]: The player Wycktreckz has successfully been saved
+[31Dec2024 03:14:41.569] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 03:14:42.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hu4ch fell from a high place
+[31Dec2024 03:14:42.567] [Server thread/INFO] [tombstone/]: The player Hu4ch has successfully been saved
+[31Dec2024 03:14:43.826] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 03:14:55.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4092, y=67, z=4101} BlockPos{x=-4093, y=67, z=4101}
+[31Dec2024 03:14:55.958] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4092, y=67, z=4101} BlockPos{x=-4092, y=66, z=4101}
+[31Dec2024 03:14:56.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz was slain by YeferJV using    [Oly's Sword of the skies]
+[31Dec2024 03:14:56.287] [Server thread/INFO] [tombstone/]: The player Wycktreckz has successfully been saved
+[31Dec2024 03:14:57.437] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 03:14:57.588] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-4091, y=66, z=4097}
+[31Dec2024 03:15:06.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.09108760550407169,-15.199340247338025,0.0
+[31Dec2024 03:15:08.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-12.708162068455437,0.0
+[31Dec2024 03:15:10.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,397.2906563557448,0.0
+[31Dec2024 03:16:15.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,396.8334085790759,0.0
+[31Dec2024 03:16:15.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hu4ch moved too quickly! 0.0,396.8334085790759,0.0
+[31Dec2024 03:16:20.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz fell from a high place
+[31Dec2024 03:16:20.584] [Server thread/INFO] [tombstone/]: The player Wycktreckz has successfully been saved
+[31Dec2024 03:16:21.875] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 03:16:23.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hu4ch moved too quickly! 0.0,397.73944160634125,0.0
+[31Dec2024 03:16:43.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Give Him The Hook]
+[31Dec2024 03:16:45.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hu4ch was slain by Wycktreckz
+[31Dec2024 03:16:45.583] [Server thread/INFO] [tombstone/]: The player Hu4ch has successfully been saved
+[31Dec2024 03:16:46.802] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 03:17:57.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! -0.5868697391565547,-10.457925927874122,0.45548863876410906
+[31Dec2024 03:18:00.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,-15.035772906733676,0.0
+[31Dec2024 03:18:03.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,398.22562688628386,0.0
+[31Dec2024 03:18:08.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz was doomed to fall by Hu4ch
+[31Dec2024 03:18:08.546] [Server thread/INFO] [tombstone/]: The player Wycktreckz has successfully been saved
+[31Dec2024 03:18:10.037] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 03:18:30.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hu4ch has made the advancement [Give Him The Hook]
+[31Dec2024 03:18:58.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hu4ch has made the advancement [This Looks Edible]
+[31Dec2024 03:19:03.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [This Looks Edible]
