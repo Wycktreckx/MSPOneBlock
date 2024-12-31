@@ -23,9 +23,21 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/misc/compacting/xychorium_gem_light": {
+    "criteria": {
+      "has_xychorium_gem_light": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-31 17:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -68,6 +80,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 17:38:58 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/void_chassis": {
+    "criteria": {
+      "has_ingredient": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -170,6 +188,12 @@
   "mcwwindows:recipes/parapets": {
     "criteria": {
       "has_wood": "2024-12-31 17:00:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_light": {
+    "criteria": {
+      "has_xychorium_gem_light": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -305,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2024-12-31 17:52:23 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/iron_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2024-12-31 17:38:58 +0000"
@@ -317,9 +347,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/rs_engineering": {
+    "criteria": {
+      "has_redstone": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bubble_blower": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 17:38:58 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blaze_gold_ingot": {
+    "criteria": {
+      "has_item": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -395,6 +437,18 @@
     },
     "done": true
   },
+  "sfm:recipes/redstone/disk": {
+    "criteria": {
+      "has_redstone": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/mob_bell": {
+    "criteria": {
+      "criterion6": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-31 17:00:43 +0000"
@@ -425,9 +479,27 @@
     },
     "done": true
   },
+  "botania:recipes/misc/redstone_root": {
+    "criteria": {
+      "has_item": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/stick_from_stone_axe": {
     "criteria": {
       "has_tool": "2024-12-31 17:11:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -521,6 +593,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/porcelain_crucible": {
+    "criteria": {
+      "has_item": "2024-12-31 17:56:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-31 17:09:46 +0000"
@@ -581,6 +659,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/cokebrick": {
+    "criteria": {
+      "has_item": "2024-12-31 17:52:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 17:38:58 +0000"
@@ -605,6 +689,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_pink": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 17:38:58 +0000"
@@ -617,9 +707,21 @@
     },
     "done": true
   },
+  "appmek:recipes/misc/chemical_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_dark_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2024-12-31 17:00:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/lantern": {
+    "criteria": {
+      "has_glowstone": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -689,6 +791,18 @@
     },
     "done": true
   },
+  "projecte:recipes/tools/philosophers_stone_alt": {
+    "criteria": {
+      "has_glowstone": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/compacting/xychorium_gem_red": {
+    "criteria": {
+      "has_xychorium_gem_red": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-31 17:09:53 +0000"
@@ -731,6 +845,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/asian_red_bridge": {
     "criteria": {
       "has_planks": "2024-12-31 17:00:45 +0000"
@@ -740,6 +860,18 @@
   "mcwfences:recipes/hedge": {
     "criteria": {
       "has_birch": "2024-12-31 16:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/reinforced_obsidian_block": {
+    "criteria": {
+      "has_ingredient": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -776,6 +908,12 @@
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_green": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2024-12-31 17:00:45 +0000"
+    },
+    "done": true
+  },
+  "megacells:recipes/misc/cells/mega_item_cell_housing": {
+    "criteria": {
+      "has_dusts/sky_stone": "2024-12-31 17:54:00 +0000"
     },
     "done": true
   },
@@ -833,6 +971,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/concrete": {
+    "criteria": {
+      "has_clay": "2024-12-31 17:52:40 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-31 17:00:36 +0000"
@@ -854,6 +998,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-31 17:05:29 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_red": {
+    "criteria": {
+      "has_xychorium_gem_red": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -905,9 +1055,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-31 17:57:18 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/tools/stone_blacksmith_gavel": {
     "criteria": {
       "has_stone_tool_materials": "2024-12-31 17:09:44 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/linked_crystal": {
+    "criteria": {
+      "criterion0": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -953,6 +1115,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/unfired_porcelain_bucket": {
+    "criteria": {
+      "has_item": "2024-12-31 17:54:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2024-12-31 17:45:42 +0000"
@@ -962,6 +1130,18 @@
   "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-31 17:09:46 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/decorations/shaped/lamp_pole": {
+    "criteria": {
+      "has_aluminum": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/redstone_information": {
+    "criteria": {
+      "redstone": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -1013,9 +1193,21 @@
     },
     "done": true
   },
+  "alchemistry:recipes/misc/reactor_casing": {
+    "criteria": {
+      "has_item": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/oak_logs_to_slabs": {
     "criteria": {
       "has_log": "2024-12-31 17:00:36 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/misc/energy_trash_can": {
+    "criteria": {
+      "recipe_condition": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -1031,6 +1223,24 @@
       "apple": "2024-12-31 17:44:15 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "has_clay_ball": "2024-12-31 17:52:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/bone_crook": {
+    "criteria": {
+      "has_item": "2024-12-31 17:57:18 +0000"
+    },
+    "done": true
   },
   "mcwwindows:recipes/metal": {
     "criteria": {
@@ -1080,6 +1290,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_clay": "2024-12-31 17:52:23 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/cooked_silk_worm": {
     "criteria": {
       "has_item": "2024-12-31 17:00:55 +0000"
@@ -1116,6 +1332,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/light_detector": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 17:38:58 +0000"
@@ -1131,6 +1353,12 @@
   "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-31 17:09:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -1170,6 +1398,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_dark": {
+    "criteria": {
+      "has_xychorium_gem_dark": "2024-12-31 17:56:24 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/cobblestone_1x": {
     "criteria": {
       "has_cobblestone": "2024-12-31 17:09:57 +0000"
@@ -1197,6 +1437,12 @@
   "immersiveengineering:recipes/misc/crafting/connector_hv": {
     "criteria": {
       "has_aluminum_ingot": "2024-12-31 17:38:58 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/sand_1x": {
+    "criteria": {
+      "has_sand": "2024-12-31 17:52:16 +0000"
     },
     "done": true
   },
@@ -1326,6 +1572,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/fluid_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-31 17:00:36 +0000"
@@ -1356,11 +1608,29 @@
     },
     "done": true
   },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/dimmable_redstone_lamp": {
+    "criteria": {
+      "criterion1": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/logs_to_bowls": {
     "criteria": {
       "has_log": "2024-12-31 17:00:36 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "scrambled_eggs": "2024-12-31 17:58:01 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
@@ -1416,6 +1686,18 @@
     },
     "done": true
   },
+  "enderio:recipes/misc/iron_gear": {
+    "criteria": {
+      "has_ingredient": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/bright_white": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-12-31 17:09:46 +0000"
@@ -1425,6 +1707,12 @@
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-31 17:10:00 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/compacting/xychorium_gem_green": {
+    "criteria": {
+      "has_xychorium_gem_green": "2024-12-31 17:56:24 +0000"
     },
     "done": true
   },
@@ -1455,6 +1743,12 @@
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-31 17:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -1524,6 +1818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sack": {
     "criteria": {
       "has_string": "2024-12-31 17:04:05 +0000"
@@ -1548,6 +1848,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/blasting/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_dust": "2024-12-31 17:54:00 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/compacting/xychorium_gem_blue": {
+    "criteria": {
+      "has_xychorium_gem_blue": "2024-12-31 17:54:00 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/upgrade_base": {
     "criteria": {
       "has_item": "2024-12-31 17:00:45 +0000"
@@ -1569,6 +1881,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-31 17:16:05 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_capacitor": {
+    "criteria": {
+      "has_ingredient": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -1710,6 +2028,12 @@
     },
     "done": true
   },
+  "projecte:recipes/misc/medium_covalence_dust": {
+    "criteria": {
+      "has_redstone": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-31 17:09:48 +0000"
@@ -1764,6 +2088,12 @@
     },
     "done": true
   },
+  "rftoolsutility:recipes/rftoolsutility/screen_link": {
+    "criteria": {
+      "redstone": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2024-12-31 17:05:29 +0000"
@@ -1791,6 +2121,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-31 17:10:41 +0000"
+    },
+    "done": true
+  },
+  "rftoolsstorage:recipes/rftoolsstorage/storage_module0": {
+    "criteria": {
+      "redstone": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -1827,6 +2163,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-31 17:09:48 +0000"
+    },
+    "done": true
+  },
+  "megacells:recipes/misc/cells/mega_fluid_cell_housing": {
+    "criteria": {
+      "has_dusts/sky_stone": "2024-12-31 17:54:00 +0000"
     },
     "done": true
   },
@@ -1932,6 +2274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:plains": "2024-12-31 16:55:42 +0000"
@@ -2034,6 +2382,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/food/soul_wafer": {
+    "criteria": {
+      "has_gunpowder": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-31 17:00:43 +0000"
@@ -2097,6 +2451,12 @@
   "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-31 17:05:29 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/building_blocks/compressed_dust": {
+    "criteria": {
+      "has_item": "2024-12-31 17:52:21 +0000"
     },
     "done": true
   },
@@ -2238,6 +2598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-31 17:52:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-31 17:04:05 +0000"
@@ -2280,6 +2646,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-31 17:10:00 +0000"
@@ -2307,6 +2679,12 @@
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_red": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2024-12-31 17:00:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -2343,6 +2721,12 @@
   "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-31 17:10:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -2418,6 +2802,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/item_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/coil_mv": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 17:38:58 +0000"
@@ -2469,6 +2859,12 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_sapling": "2024-12-31 17:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-31 17:52:40 +0000"
     },
     "done": true
   },
@@ -2556,6 +2952,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/porcelain_clay_ball": {
+    "criteria": {
+      "has_item": "2024-12-31 17:52:40 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_purple": {
     "criteria": {
       "has_stick": "2024-12-31 17:00:43 +0000"
@@ -2607,6 +3009,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-31 17:09:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -2670,6 +3078,12 @@
     },
     "done": true
   },
+  "projecte:recipes/tools/philosophers_stone": {
+    "criteria": {
+      "has_glowstone": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/oak_limited_barrel_1": {
     "criteria": {
       "has_oak_plank": "2024-12-31 17:00:45 +0000"
@@ -2718,6 +3132,12 @@
     },
     "done": true
   },
+  "xycraft_machines:recipes/misc/shaped/water_block": {
+    "criteria": {
+      "has_blue_xychorium": "2024-12-31 17:54:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2024-12-31 17:36:29 +0000"
@@ -2751,6 +3171,12 @@
   "immersiveengineering:recipes/misc/crafting/drillhead_iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 17:38:58 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/clay_1x": {
+    "criteria": {
+      "has_clay": "2024-12-31 17:52:23 +0000"
     },
     "done": true
   },
@@ -2832,9 +3258,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-31 17:57:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-31 17:09:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/spark": {
+    "criteria": {
+      "has_item": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -2892,6 +3330,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shapeless/glass_viewer_glowing_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/diorite": {
     "criteria": {
       "has_planks": "2024-12-31 17:09:46 +0000"
@@ -2940,6 +3384,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 17:38:58 +0000"
@@ -2967,6 +3417,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-31 17:10:41 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/snad/snad": {
+    "criteria": {
+      "has_sand": "2024-12-31 17:52:16 +0000"
     },
     "done": true
   },
@@ -3024,6 +3480,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-31 17:10:00 +0000"
@@ -3072,6 +3540,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-31 17:09:48 +0000"
@@ -3090,9 +3564,21 @@
     },
     "done": true
   },
+  "xycraft_machines:recipes/misc/shaped/fluid_void": {
+    "criteria": {
+      "has_dark_xychorium": "2024-12-31 17:56:24 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/misc/liquifier": {
     "criteria": {
       "has_item": "2024-12-31 17:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-31 17:52:16 +0000"
     },
     "done": true
   },
@@ -3174,15 +3660,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-31 17:09:53 +0000"
     },
     "done": true
   },
+  "xycraft_machines:recipes/misc/shaped/planter": {
+    "criteria": {
+      "has_green_xychorium": "2024-12-31 17:56:24 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/granite_bridge": {
     "criteria": {
       "has_planks": "2024-12-31 17:10:00 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/compacting/xychorium_gem_dark": {
+    "criteria": {
+      "has_xychorium_gem_dark": "2024-12-31 17:56:24 +0000"
     },
     "done": true
   },
@@ -3270,6 +3774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 17:38:58 +0000"
@@ -3324,6 +3834,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_blue": {
+    "criteria": {
+      "has_xychorium_gem_blue": "2024-12-31 17:54:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2024-12-31 17:00:48 +0000"
@@ -3342,6 +3858,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/redstone_acid": {
+    "criteria": {
+      "has_redstone_dust": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-31 17:00:36 +0000"
@@ -3351,6 +3873,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 17:38:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_dusts/quartz": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -3378,6 +3906,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 17:38:58 +0000"
@@ -3387,6 +3921,12 @@
   "xnet:recipes/xnet/connector_yellow_dye": {
     "criteria": {
       "chest": "2024-12-31 17:02:25 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/ignition_plate": {
+    "criteria": {
+      "has_red_xychorium": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -3408,6 +3948,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "rftoolsstorage:recipes/rftoolsstorage/storage_control_module": {
     "criteria": {
       "ingot": "2024-12-31 17:38:58 +0000"
@@ -3417,6 +3963,12 @@
   "xycraft_machines:recipes/misc/shaped/port_item": {
     "criteria": {
       "has_chest": "2024-12-31 17:02:25 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/unfired_porcelain_crucible": {
+    "criteria": {
+      "has_item": "2024-12-31 17:54:46 +0000"
     },
     "done": true
   },
@@ -3441,6 +3993,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-31 17:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -3477,6 +4035,12 @@
   "allthecompressed:recipes/building_blocks/compress/dirt_1x": {
     "criteria": {
       "has_dirt": "2024-12-31 17:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -3537,6 +4101,12 @@
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_blue_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2024-12-31 17:00:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_green": {
+    "criteria": {
+      "has_xychorium_gem_green": "2024-12-31 17:56:24 +0000"
     },
     "done": true
   },
@@ -3630,6 +4200,12 @@
   "botania:recipes/tools/lexicon": {
     "criteria": {
       "has_item": "2024-12-31 17:00:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -3747,6 +4323,12 @@
     },
     "done": true
   },
+  "enderio:recipes/misc/primitive_alloy_smelter": {
+    "criteria": {
+      "has_ingredient": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/oak_log_1x": {
     "criteria": {
       "has_oak_log": "2024-12-31 17:00:36 +0000"
@@ -3756,6 +4338,12 @@
   "immersiveengineering:recipes/misc/crafting/component_iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 17:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -3816,6 +4404,12 @@
   "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-31 17:09:48 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/blacksmith_gavel_head": {
+    "criteria": {
+      "has_clay_ball": "2024-12-31 17:52:40 +0000"
     },
     "done": true
   },
@@ -3887,6 +4481,12 @@
     },
     "done": true
   },
+  "modularrouters:recipes/misc/blank_module": {
+    "criteria": {
+      "has_redstone": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 17:38:58 +0000"
@@ -3896,6 +4496,12 @@
   "ae2:recipes/misc/network/blocks/crank": {
     "criteria": {
       "has_stick": "2024-12-31 17:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -3959,15 +4565,33 @@
     },
     "done": true
   },
+  "enderio:recipes/misc/infinity_rod": {
+    "criteria": {
+      "has_ingredient": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2024-12-31 17:00:43 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-31 17:52:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 17:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -4013,6 +4637,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "translocators:recipes/redstone/fluid_translocator": {
     "criteria": {
       "has_piston": "2024-12-31 16:55:41 +0000"
@@ -4034,6 +4664,12 @@
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-31 17:09:48 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/light_field": {
+    "criteria": {
+      "has_light_xychorium": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -4253,6 +4889,18 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/redstone_clock": {
+    "criteria": {
+      "has_redstone": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/computer_normal": {
+    "criteria": {
+      "has_redstone": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/lapis_dust_from_gem": {
     "criteria": {
       "has_lapis_gem": "2024-12-31 17:17:46 +0000"
@@ -4298,6 +4946,12 @@
   "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-31 17:10:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
@@ -4379,6 +5033,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2024-12-31 17:52:16 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/energyplus_module": {
     "criteria": {
       "ingot": "2024-12-31 17:38:58 +0000"
@@ -4412,6 +5072,12 @@
   "occultism:occultism/root": {
     "criteria": {
       "occultism_present": "2024-12-31 16:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-31 17:52:46 +0000"
     },
     "done": true
   },
