@@ -1,6 +1,6 @@
 === FTB Ranks ===
 
-Last README file update: Tue Dec 31 02:16:34 UTC 2024
+Last README file update: Tue Dec 31 03:00:56 UTC 2024
 Wiki: https://www.notion.so/feedthebeast/FTB-Mod-Documentation-da2e359bad2449459d58d787edda3168
 To refresh this file, run /ftbranks refresh_readme
 
@@ -2959,6 +2959,44 @@ command.summon
 command.summon.entity
 command.summon.entity.pos
 command.summon.entity.pos.nbt
+command.supplementaries
+command.supplementaries.cage
+command.supplementaries.cage.entity
+command.supplementaries.configs
+command.supplementaries.dimension
+command.supplementaries.dimension.dimension
+command.supplementaries.dimension.dimension.location
+command.supplementaries.dimension.dimension.targets
+command.supplementaries.dimension.dimension.targets.location
+command.supplementaries.globe
+command.supplementaries.globe.newseed
+command.supplementaries.globe.resetseed
+command.supplementaries.map
+command.supplementaries.map.add_marker
+command.supplementaries.map.add_marker.marker
+command.supplementaries.map.structure_map
+command.supplementaries.map.structure_map.structure
+command.supplementaries.map.structure_map.structure.zoom
+command.supplementaries.record
+command.supplementaries.record.start
+command.supplementaries.record.start.source
+command.supplementaries.record.start.source.instrument_0
+command.supplementaries.record.start.source.instrument_0.instrument_1
+command.supplementaries.record.start.source.instrument_0.instrument_1.instrument_2
+command.supplementaries.record.start.source.instrument_0.instrument_1.instrument_2.instrument_3
+command.supplementaries.record.stop
+command.supplementaries.record.stop.name
+command.supplementaries.record.stop.name.speed_up_by
+command.supplementaries.registry
+command.supplementaries.registry.registry
+command.supplementaries.registry.registry.list
+command.supplementaries.registry.registry.list.page
+command.supplementaries.registry.registry.search
+command.supplementaries.registry.registry.search.keyword
+command.supplementaries.registry.registry.search.keyword.page
+command.supplementaries.reload
+command.supplementaries.roll
+command.supplementaries.roll.dice
 command.tag
 command.tag.targets
 command.tag.targets.add
