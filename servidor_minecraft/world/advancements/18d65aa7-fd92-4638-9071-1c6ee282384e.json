@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/silver]": "2024-12-31 18:30:38 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/misc/compacting/xychorium_gem_light": {
     "criteria": {
       "has_xychorium_gem_light": "2024-12-31 17:52:46 +0000"
@@ -86,6 +92,18 @@
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_light": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2024-12-31 17:00:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-31 18:35:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-31 18:35:52 +0000"
     },
     "done": true
   },
@@ -191,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-31 18:35:52 +0000"
+    },
+    "done": true
+  },
   "mekanism:root": {
     "criteria": {
       "automatic": "2024-12-31 16:55:41 +0000"
@@ -218,6 +242,12 @@
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2024-12-31 16:55:41 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/nickel_dust_from_raw": {
+    "criteria": {
+      "has_raw_nickel": "2024-12-31 18:30:30 +0000"
     },
     "done": true
   },
@@ -437,6 +467,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/utility/gold_block_from_smelting": {
+    "criteria": {
+      "has_raw_gold": "2024-12-31 18:31:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2024-12-31 17:52:23 +0000"
@@ -596,6 +632,12 @@
   "croptopia:recipes/misc/knife": {
     "criteria": {
       "has_iron": "2024-12-31 17:38:58 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2024-12-31 18:31:05 +0000"
     },
     "done": true
   },
@@ -773,6 +815,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/diamond_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2024-12-31 18:35:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-31 17:09:46 +0000"
@@ -824,6 +872,12 @@
   "utilitix:recipes/misc/reinforced_rail": {
     "criteria": {
       "criterion2": "2024-12-31 17:00:43 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-12-31 18:30:38 +0000"
     },
     "done": true
   },
@@ -914,6 +968,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-31 17:04:05 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_item": "2024-12-31 18:35:52 +0000"
     },
     "done": true
   },
@@ -1241,6 +1301,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2024-12-31 18:31:17 +0000"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/misc/space_chamber_card": {
     "criteria": {
       "glass": "2024-12-31 18:07:10 +0000"
@@ -1322,6 +1388,18 @@
   "pneumaticcraft:recipes/misc/speed_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-31 17:17:46 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/spirit_attuned_gem": {
+    "criteria": {
+      "has_diamond": "2024-12-31 18:35:52 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/compacting/raw_aluminum": {
+    "criteria": {
+      "has_raw_aluminum": "2024-12-31 18:31:13 +0000"
     },
     "done": true
   },
@@ -1436,6 +1514,12 @@
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2024-12-31 17:57:18 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_building": {
+    "criteria": {
+      "has_diamond": "2024-12-31 18:35:52 +0000"
     },
     "done": true
   },
@@ -1680,6 +1764,12 @@
     },
     "done": true
   },
+  "mythicbotany:recipes/misc/central_rune_holder": {
+    "criteria": {
+      "criterion0": "2024-12-31 18:34:25 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/tools/bone_crook": {
     "criteria": {
       "has_item": "2024-12-31 17:57:18 +0000"
@@ -1740,6 +1830,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/diamond_mesh_from_golden_mesh": {
+    "criteria": {
+      "has_item": "2024-12-31 18:35:52 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/misc/atomizer": {
     "criteria": {
       "has_item": "2024-12-31 17:38:58 +0000"
@@ -1785,6 +1881,12 @@
   "allthecompressed:recipes/building_blocks/compress/oak_planks_1x": {
     "criteria": {
       "has_oak_planks": "2024-12-31 17:00:45 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2024-12-31 18:30:38 +0000"
     },
     "done": true
   },
@@ -2178,6 +2280,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/experience_crystal": {
+    "criteria": {
+      "criterion1": "2024-12-31 18:34:25 +0000"
+    },
+    "done": true
+  },
   "solargeneration:recipes/misc/solar_core_leadstone": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 17:38:58 +0000"
@@ -2205,6 +2313,12 @@
   "utilitix:recipes/misc/mob_yoinker": {
     "criteria": {
       "criterion1": "2024-12-31 18:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-31 18:31:44 +0000"
     },
     "done": true
   },
@@ -2238,9 +2352,21 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/gold_dust_from_raw": {
+    "criteria": {
+      "has_raw_gold": "2024-12-31 18:31:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2024-12-31 18:02:51 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/gold_block_from_blasting": {
+    "criteria": {
+      "has_raw_gold": "2024-12-31 18:31:44 +0000"
     },
     "done": true
   },
@@ -2271,6 +2397,12 @@
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
       "has_wpt": "2024-12-31 16:55:41 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/diamond_shears": {
+    "criteria": {
+      "criterion0": "2024-12-31 18:35:52 +0000"
     },
     "done": true
   },
@@ -2319,6 +2451,12 @@
   "antiblocksrechiseled:recipes/building_blocks/bright_white": {
     "criteria": {
       "has_glowstone_dust": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-31 18:35:52 +0000"
     },
     "done": true
   },
@@ -2484,6 +2622,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-31 18:35:52 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/deepslate": {
     "criteria": {
       "has_wood": "2024-12-31 17:09:53 +0000"
@@ -2541,6 +2685,18 @@
   "silentgear:recipes/misc/upgrade_base": {
     "criteria": {
       "has_item": "2024-12-31 17:00:45 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2024-12-31 18:31:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-31 18:35:52 +0000"
     },
     "done": true
   },
@@ -2607,6 +2763,12 @@
   "alltheores:recipes/misc/osmium_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2024-12-31 18:07:49 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/emerald_from_shards": {
+    "criteria": {
+      "has_item": "2024-12-31 18:34:25 +0000"
     },
     "done": true
   },
@@ -2712,9 +2874,21 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/tools/diamond_blacksmith_gavel": {
+    "criteria": {
+      "has_gems/diamond": "2024-12-31 18:35:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-31 17:09:48 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/zinc_dust_from_raw": {
+    "criteria": {
+      "has_raw_zinc": "2024-12-31 18:31:17 +0000"
     },
     "done": true
   },
@@ -2964,6 +3138,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2024-12-31 18:30:30 +0000"
+    },
+    "done": true
+  },
   "megacells:recipes/misc/cells/mega_fluid_cell_housing": {
     "criteria": {
       "has_dusts/sky_stone": "2024-12-31 17:54:00 +0000"
@@ -3114,6 +3294,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/silver_dust_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2024-12-31 18:30:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-31 18:07:10 +0000"
@@ -3156,9 +3342,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/diamond_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2024-12-31 18:35:52 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/copper_block_from_blasting": {
     "criteria": {
       "has_raw_copper": "2024-12-31 17:59:55 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_lead_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/lead]": "2024-12-31 18:31:05 +0000"
     },
     "done": true
   },
@@ -3240,9 +3438,27 @@
     },
     "done": true
   },
+  "buildinggadgets2:recipes/misc/gadget_exchanging": {
+    "criteria": {
+      "has_diamond": "2024-12-31 18:35:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-31 17:04:05 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/treasure_core": {
+    "criteria": {
+      "has_diamond": "2024-12-31 18:35:52 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_copy_paste": {
+    "criteria": {
+      "has_emerald": "2024-12-31 18:34:25 +0000"
     },
     "done": true
   },
@@ -3345,6 +3561,12 @@
   "exdeorum:recipes/misc/iron_ore": {
     "criteria": {
       "has_item": "2024-12-31 17:17:43 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/tin_dust_from_raw": {
+    "criteria": {
+      "has_raw_tin": "2024-12-31 18:31:38 +0000"
     },
     "done": true
   },
@@ -3492,6 +3714,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2024-12-31 18:30:38 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/cobblestone": {
     "criteria": {
       "has_item": "2024-12-31 17:08:48 +0000"
@@ -3594,6 +3822,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-12-31 18:31:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_tin_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/tin]": "2024-12-31 18:31:38 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/curtain_rods": {
     "criteria": {
       "has_wood": "2024-12-31 17:00:43 +0000"
@@ -3615,6 +3855,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-31 17:04:05 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_torch_raw": {
+    "criteria": {
+      "has_aluminum": "2024-12-31 18:31:13 +0000"
     },
     "done": true
   },
@@ -3654,6 +3900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-31 18:35:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-31 17:10:00 +0000"
@@ -3681,6 +3933,12 @@
   "alltheores:recipes/misc/silver_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2024-12-31 18:28:55 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_aluminum_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/aluminum]": "2024-12-31 18:31:13 +0000"
     },
     "done": true
   },
@@ -3792,6 +4050,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/silver_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2024-12-31 18:30:38 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/frying_pan": {
     "criteria": {
       "has_iron": "2024-12-31 17:38:58 +0000"
@@ -3819,6 +4083,12 @@
   "mcwbridges:recipes/andesite_bridge": {
     "criteria": {
       "has_planks": "2024-12-31 17:09:48 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2024-12-31 18:35:52 +0000"
     },
     "done": true
   },
@@ -3906,15 +4176,39 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/diamond_mesh": {
+    "criteria": {
+      "has_item": "2024-12-31 18:35:52 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/copper_block_from_smelting": {
     "criteria": {
       "has_raw_copper": "2024-12-31 17:59:55 +0000"
     },
     "done": true
   },
+  "alltheores:recipes/misc/tin_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2024-12-31 18:31:38 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2024-12-31 18:30:38 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/brush": {
     "criteria": {
       "has_wool": "2024-12-31 18:19:36 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2024-12-31 18:31:13 +0000"
     },
     "done": true
   },
@@ -4020,6 +4314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-31 18:35:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-31 17:09:48 +0000"
@@ -4029,6 +4329,12 @@
   "occultism:recipes/crushing/crushing/steel_dust_from_ingot": {
     "criteria": {
       "has_steel_ingot": "2024-12-31 18:06:03 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/diamond_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2024-12-31 18:35:52 +0000"
     },
     "done": true
   },
@@ -4260,6 +4566,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-12-31 18:31:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 17:38:58 +0000"
@@ -4431,6 +4743,12 @@
   "supplementaries:recipes/checker": {
     "criteria": {
       "has_blackstone": "2024-12-31 17:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-31 18:34:25 +0000"
     },
     "done": true
   },
@@ -4644,6 +4962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-31 18:35:52 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/quartz_glass": {
     "criteria": {
       "has_quartz_dust": "2024-12-31 17:52:46 +0000"
@@ -4716,6 +5040,18 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/diamond_dust_from_gem": {
+    "criteria": {
+      "has_diamond_gem": "2024-12-31 18:35:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2024-12-31 18:30:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-31 17:09:48 +0000"
@@ -4785,6 +5121,12 @@
   "supplementaries:recipes/sconce_lever": {
     "criteria": {
       "has_redstone": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/aluminum_dust_from_raw": {
+    "criteria": {
+      "has_raw_aluminum": "2024-12-31 18:31:13 +0000"
     },
     "done": true
   },
@@ -4908,6 +5250,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/aluminum_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2024-12-31 18:31:13 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/conduit_binder_composite": {
     "criteria": {
       "has_ingredient_gravel": "2024-12-31 17:16:05 +0000"
@@ -5028,6 +5376,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/lead_dust_from_raw": {
+    "criteria": {
+      "has_raw_lead": "2024-12-31 18:31:05 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/osmium_dust_from_ingot": {
     "criteria": {
       "has_osmium_ingot": "2024-12-31 18:07:49 +0000"
@@ -5091,6 +5445,12 @@
   "pneumaticcraft:recipes/misc/search_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-31 17:17:46 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:recipes/misc/diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-31 18:35:52 +0000"
     },
     "done": true
   },
@@ -5166,6 +5526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-31 18:35:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-31 17:09:48 +0000"
@@ -5175,6 +5541,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-12-31 17:52:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-31 18:31:44 +0000"
     },
     "done": true
   },
@@ -5274,6 +5646,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/diamond_shard": {
+    "criteria": {
+      "has_item": "2024-12-31 18:35:52 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/redstone_acid": {
     "criteria": {
       "has_redstone_dust": "2024-12-31 17:52:46 +0000"
@@ -5337,6 +5715,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-31 17:09:44 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_zinc_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2024-12-31 18:31:17 +0000"
     },
     "done": true
   },
@@ -5460,9 +5844,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-31 18:35:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-31 17:09:46 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting_raw_gold": {
+    "criteria": {
+      "has_item": "2024-12-31 18:31:44 +0000"
     },
     "done": true
   },
@@ -5613,6 +6009,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 17:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-31 18:31:44 +0000"
     },
     "done": true
   },
@@ -5943,6 +6345,18 @@
     },
     "done": true
   },
+  "projecte:recipes/misc/high_covalence_dust": {
+    "criteria": {
+      "has_diamond": "2024-12-31 18:35:52 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/emerald_dust_from_gem": {
+    "criteria": {
+      "has_emerald_gem": "2024-12-31 18:34:25 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/stone": {
     "criteria": {
       "has_wood": "2024-12-31 18:16:50 +0000"
@@ -6116,6 +6530,12 @@
   "silentgear:recipes/misc/rough_rod": {
     "criteria": {
       "has_item": "2024-12-31 17:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-31 18:35:52 +0000"
     },
     "done": true
   },
@@ -6425,6 +6845,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/emerald_shard": {
+    "criteria": {
+      "has_item": "2024-12-31 18:34:25 +0000"
+    },
+    "done": true
+  },
   "sfm:recipes/redstone/water_tank": {
     "criteria": {
       "has_water": "2024-12-31 17:15:45 +0000"
@@ -6554,6 +6980,12 @@
   "mcwbridges:recipes/diorite_bridge": {
     "criteria": {
       "has_planks": "2024-12-31 17:09:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2024-12-31 18:31:38 +0000"
     },
     "done": true
   },
@@ -6725,6 +7157,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/diamond_from_shards": {
+    "criteria": {
+      "has_item": "2024-12-31 18:35:52 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/entity_tracker_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-31 17:17:46 +0000"
@@ -6806,6 +7244,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-31 18:04:42 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2024-12-31 18:31:17 +0000"
     },
     "done": true
   },
@@ -6908,6 +7352,18 @@
   "immersiveengineering:recipes/misc/crafting/jerrycan": {
     "criteria": {
       "has_bucket": "2024-12-31 17:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-31 18:35:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_nickel_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2024-12-31 18:30:30 +0000"
     },
     "done": true
   },
