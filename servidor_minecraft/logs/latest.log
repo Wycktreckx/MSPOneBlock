@@ -2568,3 +2568,25 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [31Dec2024 02:32:55.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Christmas]
 [31Dec2024 02:32:55.592] [Server thread/INFO] [Jade/]: Syncing config to YeferJV (8081cd21-cf54-3baa-85ec-4d3d7ec92b98)
 [31Dec2024 02:32:55.595] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 1 (1 unused), uncached profiles: 0, total profiles: 0
+[31Dec2024 02:34:56.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YeferJV lost connection: Disconnected
+[31Dec2024 02:34:56.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV left the game
+[31Dec2024 02:39:34.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hu4ch[/127.239.229.24:49663] logged in with entity id 1744 at (8.5, 80.0, -9.5)
+[31Dec2024 02:39:34.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hu4ch joined the game
+[31Dec2024 02:39:34.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hu4ch has made the advancement [Christmas]
+[31Dec2024 02:39:34.448] [Server thread/INFO] [Jade/]: Syncing config to Hu4ch (a3420c9f-d410-35a3-b46c-a7abc3fe3313)
+[31Dec2024 02:39:34.452] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 2 (2 unused), uncached profiles: 0, total profiles: 0
+[31Dec2024 02:40:38.978] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wycktreckz[/127.220.68.65:54451] logged in with entity id 1946 at (7.5, 72.0, 10.5)
+[31Dec2024 02:40:39.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz joined the game
+[31Dec2024 02:40:39.249] [Server thread/INFO] [Jade/]: Syncing config to Wycktreckz (9993832f-2634-3b11-b2b7-ee9239cc87fd)
+[31Dec2024 02:40:39.251] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 2 (2 unused), uncached profiles: 0, total profiles: 0
+[31Dec2024 02:40:51.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YeferJV[/127.253.53.126:58579] logged in with entity id 2021 at (1.5, 72.0, 1.5)
+[31Dec2024 02:40:51.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV joined the game
+[31Dec2024 02:40:51.269] [Server thread/INFO] [Jade/]: Syncing config to YeferJV (8081cd21-cf54-3baa-85ec-4d3d7ec92b98)
+[31Dec2024 02:40:51.270] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 2 (2 unused), uncached profiles: 0, total profiles: 0
+[31Dec2024 02:41:53.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz was slain by YeferJV
+[31Dec2024 02:41:53.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Your First Grave]
+[31Dec2024 02:41:53.089] [Server thread/INFO] [tombstone/]: The player Wycktreckz has successfully been saved
+[31Dec2024 02:42:17.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YeferJV lost connection: Disconnected
+[31Dec2024 02:42:17.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV left the game
+[31Dec2024 02:42:57.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hu4ch lost connection: Disconnected
+[31Dec2024 02:42:57.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hu4ch left the game
