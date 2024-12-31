@@ -2813,6 +2813,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/ores/nickel_tag": {
+    "criteria": {
+      "has_item": "2024-12-31 17:25:24 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/stone_rod": {
     "criteria": {
       "has_item": "2024-12-31 17:09:53 +0000"
