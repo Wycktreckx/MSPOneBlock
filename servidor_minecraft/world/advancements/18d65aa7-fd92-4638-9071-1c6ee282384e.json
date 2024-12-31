@@ -953,6 +953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-31 17:45:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-31 17:09:46 +0000"
@@ -1021,7 +1027,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2024-12-31 17:07:01 +0000"
+      "cooked_beef": "2024-12-31 17:07:01 +0000",
+      "apple": "2024-12-31 17:44:15 +0000"
     },
     "done": false
   },
@@ -4429,6 +4436,12 @@
   "rechiseled:recipes/misc/chisel": {
     "criteria": {
       "recipe_condition": "2024-12-31 17:38:58 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/compressed_iron_hammer": {
+    "criteria": {
+      "has_item": "2024-12-31 17:44:50 +0000"
     },
     "done": true
   },
