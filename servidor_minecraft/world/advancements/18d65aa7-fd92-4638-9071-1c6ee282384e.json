@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/misc/compacting/xychorium_gem_light": {
+    "criteria": {
+      "has_xychorium_gem_light": "2025-01-01 01:24:13 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/misc/item_card": {
     "criteria": {
       "has_blue_dye": "2025-01-01 00:59:36 +0000"
@@ -308,6 +314,12 @@
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2025-01-01 00:44:46 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_light": {
+    "criteria": {
+      "has_xychorium_gem_light": "2025-01-01 01:24:13 +0000"
     },
     "done": true
   },
@@ -1211,6 +1223,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/misc/compacting/xychorium_gem_red": {
+    "criteria": {
+      "has_xychorium_gem_red": "2025-01-01 01:23:59 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
     "criteria": {
       "has_dye": "2025-01-01 00:59:36 +0000"
@@ -1523,6 +1541,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_red": {
+    "criteria": {
+      "has_xychorium_gem_red": "2025-01-01 01:23:59 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cobblestone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-01 00:07:16 +0000"
@@ -1664,6 +1688,12 @@
   "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-01 00:08:57 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/decorations/shaped/lamp_pole": {
+    "criteria": {
+      "has_aluminum": "2025-01-01 01:23:34 +0000"
     },
     "done": true
   },
@@ -2049,6 +2079,12 @@
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-01-01 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_dark": {
+    "criteria": {
+      "has_xychorium_gem_dark": "2025-01-01 01:24:28 +0000"
     },
     "done": true
   },
@@ -2575,6 +2611,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/misc/compacting/xychorium_gem_green": {
+    "criteria": {
+      "has_xychorium_gem_green": "2025-01-01 01:24:43 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/angel_block_rot": {
     "criteria": {
       "has_gold": "2025-01-01 00:56:16 +0000"
@@ -2746,6 +2788,12 @@
   "croptopia:recipes/food/toast_from_bread": {
     "criteria": {
       "has_bread": "2025-01-01 01:10:38 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/compacting/xychorium_gem_blue": {
+    "criteria": {
+      "has_xychorium_gem_blue": "2025-01-01 01:23:34 +0000"
     },
     "done": true
   },
@@ -4525,6 +4573,12 @@
     },
     "done": true
   },
+  "xycraft_machines:recipes/misc/shaped/water_block": {
+    "criteria": {
+      "has_blue_xychorium": "2025-01-01 01:23:34 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/golden_mesh_from_iron_mesh": {
     "criteria": {
       "has_item": "2025-01-01 00:56:16 +0000"
@@ -5161,6 +5215,12 @@
     },
     "done": true
   },
+  "xycraft_machines:recipes/misc/shaped/fluid_void": {
+    "criteria": {
+      "has_dark_xychorium": "2025-01-01 01:24:28 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/misc/liquifier": {
     "criteria": {
       "has_item": "2025-01-01 00:26:12 +0000"
@@ -5323,9 +5383,21 @@
     },
     "done": true
   },
+  "xycraft_machines:recipes/misc/shaped/planter": {
+    "criteria": {
+      "has_green_xychorium": "2025-01-01 01:24:43 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/osmium_dust_from_ingot": {
     "criteria": {
       "has_osmium_ingot": "2025-01-01 00:51:07 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/compacting/xychorium_gem_dark": {
+    "criteria": {
+      "has_xychorium_gem_dark": "2025-01-01 01:24:28 +0000"
     },
     "done": true
   },
@@ -5551,6 +5623,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_blue": {
+    "criteria": {
+      "has_xychorium_gem_blue": "2025-01-01 01:23:34 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/andesite": {
     "criteria": {
       "has_planks": "2025-01-01 00:20:33 +0000"
@@ -5638,6 +5716,12 @@
   "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-01-01 00:59:24 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/ignition_plate": {
+    "criteria": {
+      "has_red_xychorium": "2025-01-01 01:23:59 +0000"
     },
     "done": true
   },
@@ -5890,6 +5974,12 @@
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_blue_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-01-01 00:04:15 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_green": {
+    "criteria": {
+      "has_xychorium_gem_green": "2025-01-01 01:24:43 +0000"
     },
     "done": true
   },
@@ -6567,6 +6657,12 @@
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-01 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/light_field": {
+    "criteria": {
+      "has_light_xychorium": "2025-01-01 01:24:13 +0000"
     },
     "done": true
   },
