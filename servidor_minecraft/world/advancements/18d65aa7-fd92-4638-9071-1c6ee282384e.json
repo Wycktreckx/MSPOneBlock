@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-01-01 00:28:31 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_light": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-01-01 00:04:15 +0000"
@@ -110,6 +116,12 @@
   "mcwfences:recipes/jungle": {
     "criteria": {
       "has_jungle": "2025-01-01 00:00:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-01 00:28:10 +0000"
     },
     "done": true
   },
@@ -185,6 +197,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/ores/aluminum_tag": {
+    "criteria": {
+      "has_item": "2025-01-01 00:33:43 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_cube": {
     "criteria": {
       "hasPlanks": "2025-01-01 00:04:15 +0000"
@@ -227,6 +245,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting_raw_iron": {
+    "criteria": {
+      "has_item": "2025-01-01 00:28:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-01-01 00:04:15 +0000"
@@ -266,6 +290,12 @@
   "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-01 00:03:15 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/coordinate_tracker_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
     },
     "done": true
   },
@@ -419,6 +449,12 @@
     },
     "done": true
   },
+  "modularrouters:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/redstone_root": {
     "criteria": {
       "has_item": "2025-01-01 00:17:09 +0000"
@@ -458,6 +494,12 @@
   "mcwbridges:recipes/asian_red_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-01 00:04:15 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/flippers_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
     },
     "done": true
   },
@@ -506,6 +548,12 @@
   "supplementaries:recipes/hourglass": {
     "criteria": {
       "has_glass": "2025-01-01 00:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-01-01 00:28:10 +0000"
     },
     "done": true
   },
@@ -563,6 +611,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/speed_upgrade_from_glycerol": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-01 00:20:54 +0000"
@@ -617,6 +671,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/ender_visor_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-01-01 00:10:07 +0000"
@@ -626,6 +686,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_pink": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/range_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
     },
     "done": true
   },
@@ -734,6 +800,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-01-01 00:08:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-01-01 00:28:10 +0000"
     },
     "done": true
   },
@@ -857,6 +929,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-01 00:28:10 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2025-01-01 00:04:15 +0000"
@@ -869,9 +947,21 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/speed_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-01 00:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-01 00:28:31 +0000"
     },
     "done": true
   },
@@ -896,6 +986,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-01 00:28:10 +0000"
     },
     "done": true
   },
@@ -1010,6 +1106,12 @@
   "exdeorum:recipes/misc/unfired_porcelain_bucket": {
     "criteria": {
       "has_item": "2025-01-01 00:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-01-01 00:33:55 +0000"
     },
     "done": true
   },
@@ -1277,6 +1379,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/cobblestone_2x": {
+    "criteria": {
+      "has_cobblestone_1x": "2025-01-01 00:32:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-01-01 00:17:09 +0000"
@@ -1286,6 +1394,12 @@
   "allthecompressed:recipes/building_blocks/compress/cobblestone_1x": {
     "criteria": {
       "has_cobblestone": "2025-01-01 00:07:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-01-01 00:28:10 +0000"
     },
     "done": true
   },
@@ -1382,6 +1496,12 @@
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2025-01-01 00:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-01-01 00:28:10 +0000"
     },
     "done": true
   },
@@ -1490,6 +1610,12 @@
   "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-01 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/decompress/cobblestone_1x": {
+    "criteria": {
+      "has_cobblestone_1x": "2025-01-01 00:32:06 +0000"
     },
     "done": true
   },
@@ -1643,6 +1769,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/dispenser_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-01-01 00:11:30 +0000"
@@ -1652,6 +1784,12 @@
   "mcwwindows:recipes/deepslate": {
     "criteria": {
       "has_wood": "2025-01-01 00:09:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2025-01-01 00:28:10 +0000"
     },
     "done": true
   },
@@ -1706,6 +1844,30 @@
   "enderio:recipes/misc/basic_capacitor": {
     "criteria": {
       "has_ingredient": "2025-01-01 00:10:54 +0000"
+    },
+    "done": true
+  },
+  "solargeneration:recipes/misc/lapis_shard": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/iron_block_from_blasting": {
+    "criteria": {
+      "has_raw_iron": "2025-01-01 00:28:31 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/stomp_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
     },
     "done": true
   },
@@ -1889,6 +2051,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/building_blocks/stone_wall_stonecutting": {
+    "criteria": {
+      "has_item0": "2025-01-01 00:28:10 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/andesite": {
     "criteria": {
       "has_item": "2025-01-01 00:06:56 +0000"
@@ -1967,6 +2135,18 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/charging_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-01-01 00:28:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-01-01 00:00:33 +0000"
@@ -1976,6 +2156,12 @@
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-01 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-01-01 00:28:10 +0000"
     },
     "done": true
   },
@@ -2123,9 +2309,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2025-01-01 00:35:20 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/apple_juice": {
     "criteria": {
       "has_apple": "2025-01-01 00:08:46 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/stone_1x": {
+    "criteria": {
+      "has_stone": "2025-01-01 00:28:10 +0000"
     },
     "done": true
   },
@@ -2174,6 +2372,12 @@
   "occultism:recipes/combat/crafting/butcher_knife": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/iron_block_from_smelting": {
+    "criteria": {
+      "has_raw_iron": "2025-01-01 00:28:31 +0000"
     },
     "done": true
   },
@@ -2270,6 +2474,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-01-01 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
     },
     "done": true
   },
@@ -2405,6 +2615,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/volume_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/item_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-01-01 00:17:09 +0000"
@@ -2501,6 +2717,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-01 00:28:31 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2025-01-01 00:00:33 +0000"
@@ -2522,6 +2744,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-01 00:08:19 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/item_life_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
     },
     "done": true
   },
@@ -2588,6 +2816,12 @@
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-01 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/standby_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
     },
     "done": true
   },
@@ -2687,6 +2921,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/iron_dust": {
+    "criteria": {
+      "has_iron": "2025-01-01 00:28:27 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/oak": {
     "criteria": {
       "has_wood": "2025-01-01 00:03:15 +0000"
@@ -2708,6 +2948,18 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-01 00:20:54 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/experience_bottle_from_enchanted_book": {
+    "criteria": {
+      "has_enchanted_book": "2025-01-01 00:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-01-01 00:28:27 +0000"
     },
     "done": true
   },
@@ -2843,6 +3095,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/gilded_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/metal/metal_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-01 00:26:12 +0000"
@@ -2939,6 +3197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-01 00:28:10 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/quartz_glass": {
     "criteria": {
       "has_quartz_dust": "2025-01-01 00:17:09 +0000"
@@ -2963,6 +3227,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/armor_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-01-01 00:06:44 +0000"
@@ -2978,6 +3248,12 @@
   "supplementaries:recipes/daub_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-01-01 00:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-01 00:28:10 +0000"
     },
     "done": true
   },
@@ -3026,6 +3302,12 @@
   "supplementaries:recipes/sconce_lever": {
     "criteria": {
       "has_redstone": "2025-01-01 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/security_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
     },
     "done": true
   },
@@ -3119,6 +3401,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/arrow_slits_gothic": {
+    "criteria": {
+      "has_wood": "2025-01-01 00:28:10 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2025-01-01 00:04:10 +0000"
@@ -3167,6 +3455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-01-01 00:28:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-01 00:09:26 +0000"
@@ -3203,15 +3497,33 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/search_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
       "has_gunpowder": "2025-01-01 00:10:04 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/smartwrench": {
     "criteria": {
       "iron": "2025-01-01 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/piston_cart": {
+    "criteria": {
+      "criterion0": "2025-01-01 00:27:25 +0000"
     },
     "done": true
   },
@@ -3290,6 +3602,12 @@
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "minecraft:planks": "2025-01-01 00:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-01 00:28:10 +0000"
     },
     "done": true
   },
@@ -3401,6 +3719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-01-01 00:28:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-01-01 00:10:07 +0000"
@@ -3458,6 +3782,12 @@
   "mcwbridges:recipes/diorite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-01 00:08:57 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/dirt_1x": {
+    "criteria": {
+      "has_dirt": "2025-01-01 00:35:20 +0000"
     },
     "done": true
   },
@@ -3547,6 +3877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-01-01 00:28:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-01 00:09:26 +0000"
@@ -3629,6 +3965,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2025-01-01 00:03:15 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/iron_dust_from_raw": {
+    "criteria": {
+      "has_raw_iron": "2025-01-01 00:28:31 +0000"
     },
     "done": true
   },
@@ -3764,6 +4106,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/stone": {
+    "criteria": {
+      "has_wood": "2025-01-01 00:28:10 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/cobbled_deepslate_1x": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-01 00:09:26 +0000"
@@ -3809,6 +4157,12 @@
   "modularrouters:recipes/misc/modular_router": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/inventory_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
     },
     "done": true
   },
@@ -4006,6 +4360,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/block_tracker_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 00:26:12 +0000"
@@ -4060,6 +4420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-01-01 00:28:10 +0000"
+    },
+    "done": true
+  },
   "rftoolsstorage:recipes/rftoolsstorage/dump_module": {
     "criteria": {
       "ingot": "2025-01-01 00:26:12 +0000"
@@ -4111,6 +4477,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-01 00:20:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_piston": "2025-01-01 00:27:25 +0000"
     },
     "done": true
   },
@@ -4186,6 +4558,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/lapis_dust_from_gem": {
+    "criteria": {
+      "has_lapis_gem": "2025-01-01 00:33:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-01 00:09:26 +0000"
@@ -4201,6 +4579,12 @@
   "energymeter:recipes/energymeter/meter": {
     "criteria": {
       "has_item": "2025-01-01 00:00:33 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/minigun_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
     },
     "done": true
   },
@@ -4228,9 +4612,21 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/entity_tracker_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/fruit_salad": {
     "criteria": {
       "has_apple": "2025-01-01 00:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-01 00:28:10 +0000"
     },
     "done": true
   },
@@ -4240,9 +4636,21 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-01-01 00:28:27 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-01 00:07:16 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/elytra_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
     },
     "done": true
   },
@@ -4276,6 +4684,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/stone_wall": {
+    "criteria": {
+      "criterion0": "2025-01-01 00:28:10 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/iron_dust_from_ingot": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 00:26:12 +0000"
@@ -4303,6 +4717,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-01 00:10:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
     },
     "done": true
   },
