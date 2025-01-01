@@ -7861,6 +7861,12 @@
     },
     "done": true
   },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-01-01 03:00:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/incense_stick": {
     "criteria": {
       "has_item": "2025-01-01 02:20:28 +0000"
@@ -7894,6 +7900,12 @@
   "occultism:recipes/misc/crafting/raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2025-01-01 02:32:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_item": "2025-01-01 02:55:08 +0000"
     },
     "done": true
   },
@@ -7936,6 +7948,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/irom_ingot_from_cauldron": {
+    "criteria": {
+      "has_cauldron": "2025-01-01 02:57:52 +0000"
     },
     "done": true
   },
@@ -8158,6 +8176,12 @@
   "ae2:recipes/misc/tools/nether_quartz_wrench": {
     "criteria": {
       "has_nether_quartz": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/redstone_block_1x": {
+    "criteria": {
+      "has_redstone_block": "2025-01-01 02:55:08 +0000"
     },
     "done": true
   },
@@ -8398,6 +8422,12 @@
   "bloodmagic:recipes/misc/synthetic_point": {
     "criteria": {
       "has_nugget": "2025-01-01 02:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-01-01 02:55:08 +0000"
     },
     "done": true
   },
