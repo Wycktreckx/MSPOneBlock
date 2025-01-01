@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-01 00:44:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-01-01 00:25:54 +0000"
@@ -131,6 +137,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dry_bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-01 00:44:26 +0000"
+    },
+    "done": true
+  },
   "mekanism:root": {
     "criteria": {
       "automatic": "2024-12-31 23:52:54 +0000"
@@ -155,6 +167,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-01 00:44:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 00:35:10 +0000"
@@ -176,6 +194,12 @@
   "mcwwindows:recipes/parapets": {
     "criteria": {
       "has_wood": "2024-12-31 23:56:44 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-01 00:44:26 +0000"
     },
     "done": true
   },
@@ -230,6 +254,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-01-01 00:04:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-01 00:44:26 +0000"
     },
     "done": true
   },
@@ -395,6 +425,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-01 00:44:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_green": {
     "criteria": {
       "has_stick": "2024-12-31 23:56:37 +0000"
@@ -533,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-01-01 00:41:48 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/speed_upgrade_from_glycerol": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-01 00:21:17 +0000"
@@ -542,6 +584,12 @@
   "utilitix:recipes/misc/reinforced_rail": {
     "criteria": {
       "criterion2": "2024-12-31 23:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-01 00:46:22 +0000"
     },
     "done": true
   },
@@ -851,6 +899,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-01 00:44:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-01 00:16:20 +0000"
@@ -866,6 +920,12 @@
   "pneumaticcraft:recipes/misc/speed_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-01 00:21:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-01-01 00:44:51 +0000"
     },
     "done": true
   },
@@ -995,6 +1055,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-01-01 00:46:25 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/unfired_porcelain_bucket": {
     "criteria": {
       "has_item": "2025-01-01 00:23:15 +0000"
@@ -1004,6 +1070,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-01-01 00:25:28 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/decorations/shaped/lamp_pole": {
+    "criteria": {
+      "has_aluminum": "2025-01-01 00:37:35 +0000"
     },
     "done": true
   },
@@ -1040,6 +1112,12 @@
   "utilitarian:recipes/misc/utility/oak_logs_to_trapdoors": {
     "criteria": {
       "has_log": "2024-12-31 23:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-01-01 00:44:26 +0000"
     },
     "done": true
   },
@@ -1164,6 +1242,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 00:44:26 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/oak_planks_1x": {
     "criteria": {
       "has_oak_planks": "2024-12-31 23:56:44 +0000"
@@ -1239,6 +1323,12 @@
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-01-01 00:19:09 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_dark": {
+    "criteria": {
+      "has_xychorium_gem_dark": "2025-01-01 00:37:35 +0000"
     },
     "done": true
   },
@@ -1470,6 +1560,12 @@
     },
     "done": true
   },
+  "croptopia:gather_food": {
+    "criteria": {
+      "scrambled_eggs": "2025-01-01 00:37:55 +0000"
+    },
+    "done": false
+  },
   "allthecompressed:recipes/building_blocks/decompress/cobblestone_1x": {
     "criteria": {
       "has_cobblestone_1x": "2025-01-01 00:32:10 +0000"
@@ -1599,6 +1695,12 @@
   "supplementaries:recipes/sack": {
     "criteria": {
       "has_string": "2025-01-01 00:02:42 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-01-01 00:44:26 +0000"
     },
     "done": true
   },
@@ -1752,6 +1854,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 00:44:26 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/apple_pie": {
     "criteria": {
       "has_apple": "2024-12-31 23:56:37 +0000"
@@ -1890,6 +1998,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 00:44:26 +0000"
+    },
+    "done": true
+  },
   "simplemagnets:recipes/misc/basic_demagnetization_coil": {
     "criteria": {
       "recipe_condition": "2025-01-01 00:35:10 +0000"
@@ -1935,6 +2049,12 @@
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 00:44:26 +0000"
     },
     "done": true
   },
@@ -1992,6 +2112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-01 00:44:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
       "has_stick": "2024-12-31 23:56:37 +0000"
@@ -2019,6 +2145,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-01-01 00:22:15 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/copper_block_from_blasting": {
+    "criteria": {
+      "has_raw_copper": "2025-01-01 00:42:09 +0000"
     },
     "done": true
   },
@@ -2076,9 +2208,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-01 00:44:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-01-01 00:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-01-01 00:44:26 +0000"
     },
     "done": true
   },
@@ -2103,6 +2247,12 @@
   "supplementaries:recipes/flags/flag_lime": {
     "criteria": {
       "has_stick": "2024-12-31 23:56:37 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/copper_dust": {
+    "criteria": {
+      "has_copper": "2025-01-01 00:41:48 +0000"
     },
     "done": true
   },
@@ -2178,6 +2328,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dry_bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-01 00:44:26 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/crimson": {
     "criteria": {
       "has_crimson": "2024-12-31 23:52:54 +0000"
@@ -2238,6 +2394,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 00:44:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-01-01 00:17:27 +0000"
@@ -2247,6 +2409,12 @@
   "xnet:recipes/xnet/netcable_red_dye": {
     "criteria": {
       "chest": "2025-01-01 00:05:02 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-01 00:44:26 +0000"
     },
     "done": true
   },
@@ -2376,6 +2544,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-01 00:44:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 00:35:10 +0000"
@@ -2394,6 +2568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-01 00:42:09 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/text_module": {
     "criteria": {
       "ingot": "2025-01-01 00:35:10 +0000"
@@ -2409,6 +2589,12 @@
   "allthecompressed:recipes/building_blocks/decompress/sand_1x": {
     "criteria": {
       "has_sand_1x": "2025-01-01 00:23:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-01-01 00:44:26 +0000"
     },
     "done": true
   },
@@ -2484,6 +2670,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_dark": {
+    "criteria": {
+      "has_xychorium_storage_dark": "2025-01-01 00:44:51 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/coil_lv": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 00:35:10 +0000"
@@ -2511,6 +2703,12 @@
   "mcwtrpdoors:recipes/oak/oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2024-12-31 23:56:44 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/copper_block_from_smelting": {
+    "criteria": {
+      "has_raw_copper": "2025-01-01 00:42:09 +0000"
     },
     "done": true
   },
@@ -2616,6 +2814,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-01-01 00:44:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 00:35:10 +0000"
@@ -2670,6 +2874,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/copper_torch_raw": {
+    "criteria": {
+      "has_copper": "2025-01-01 00:42:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-01-01 00:07:25 +0000"
@@ -2685,6 +2895,12 @@
   "exdeorum:recipes/misc/string_mesh": {
     "criteria": {
       "has_item": "2025-01-01 00:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-01-01 00:46:22 +0000"
     },
     "done": true
   },
@@ -2781,6 +2997,12 @@
   "supplementaries:recipes/flags/flag_gray": {
     "criteria": {
       "has_stick": "2024-12-31 23:56:37 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/experience_bottle_from_enchanted_book": {
+    "criteria": {
+      "has_enchanted_book": "2025-01-01 00:38:04 +0000"
     },
     "done": true
   },
@@ -2913,6 +3135,12 @@
   "utilitix:recipes/misc/highspeed_rail": {
     "criteria": {
       "criterion1": "2024-12-31 23:56:37 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-01-01 00:46:25 +0000"
     },
     "done": true
   },
@@ -3156,6 +3384,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_osmium_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/osmium]": "2025-01-01 00:46:25 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/comparator_redirector_down": {
     "criteria": {
       "criterion1": "2025-01-01 00:07:25 +0000"
@@ -3183,6 +3417,12 @@
   "immersiveengineering:recipes/misc/crafting/grit_sand": {
     "criteria": {
       "has_sand": "2025-01-01 00:09:47 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/fluid_void": {
+    "criteria": {
+      "has_dark_xychorium": "2025-01-01 00:37:35 +0000"
     },
     "done": true
   },
@@ -3240,6 +3480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-01-01 00:44:26 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/oak_compressed_sieve": {
     "criteria": {
       "has_item": "2024-12-31 23:56:41 +0000"
@@ -3249,6 +3495,12 @@
   "exdeorum:recipes/tools/iron_hammer": {
     "criteria": {
       "has_item": "2025-01-01 00:35:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 00:44:26 +0000"
     },
     "done": true
   },
@@ -3273,6 +3525,12 @@
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-01-01 00:16:20 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/compacting/xychorium_gem_dark": {
+    "criteria": {
+      "has_xychorium_gem_dark": "2025-01-01 00:37:35 +0000"
     },
     "done": true
   },
@@ -3321,6 +3579,12 @@
   "rftoolsbase:recipes/rftoolsbase/smartwrench": {
     "criteria": {
       "iron": "2025-01-01 00:35:10 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/copper_dust_from_raw": {
+    "criteria": {
+      "has_raw_copper": "2025-01-01 00:42:09 +0000"
     },
     "done": true
   },
@@ -3450,6 +3714,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-01-01 00:41:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2025-01-01 00:19:09 +0000"
@@ -3576,6 +3846,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-01 00:44:26 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2024-12-31 23:52:54 +0000"
@@ -3585,6 +3861,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-01 00:09:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-01 00:42:09 +0000"
     },
     "done": true
   },
@@ -3606,6 +3888,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting_raw_copper": {
+    "criteria": {
+      "has_item": "2025-01-01 00:42:09 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/ce": {
     "criteria": {
       "has_wpt": "2024-12-31 23:52:54 +0000",
@@ -3623,6 +3911,12 @@
     "criteria": {
       "has_wit": "2024-12-31 23:52:54 +0000",
       "has_wct": "2024-12-31 23:52:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-01 00:44:26 +0000"
     },
     "done": true
   },
@@ -3729,6 +4023,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-01 00:44:26 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/screwdriver": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 00:35:10 +0000"
@@ -3750,6 +4050,18 @@
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_bucket": {
     "criteria": {
       "has_bucket": "2025-01-01 00:22:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/osmium_dust_from_raw": {
+    "criteria": {
+      "has_raw_osmium": "2025-01-01 00:46:25 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_pickaxe": {
+    "criteria": {
+      "has_tool": "2025-01-01 00:46:22 +0000"
     },
     "done": true
   },
@@ -3864,6 +4176,12 @@
   "forbidden_arcanus:recipes/misc/blacksmith_gavel_head": {
     "criteria": {
       "has_clay_ball": "2025-01-01 00:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-01-01 00:41:48 +0000"
     },
     "done": true
   },
@@ -4151,6 +4469,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-01 00:44:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 00:35:10 +0000"
@@ -4373,6 +4697,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-01 00:44:26 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting": {
     "criteria": {
       "has_item": "2025-01-01 00:25:42 +0000"
@@ -4406,6 +4736,12 @@
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2024-12-31 23:56:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-01-01 00:46:22 +0000"
     },
     "done": true
   },
@@ -4457,6 +4793,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-01 00:44:26 +0000"
+    },
+    "done": true
+  },
   "occultism:occultism/root": {
     "criteria": {
       "occultism_present": "2024-12-31 23:52:54 +0000"
@@ -4490,6 +4832,12 @@
   "rechiseled:recipes/misc/chisel": {
     "criteria": {
       "recipe_condition": "2025-01-01 00:35:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-01 00:42:09 +0000"
     },
     "done": true
   },
