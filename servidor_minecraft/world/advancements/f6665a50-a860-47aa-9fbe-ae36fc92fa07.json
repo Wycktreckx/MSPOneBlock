@@ -1103,6 +1103,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-01-01 00:57:34 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/philosophers_stone_alt": {
     "criteria": {
       "has_glowstone": "2025-01-01 00:22:15 +0000"
@@ -1758,6 +1764,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/osmium_dust": {
+    "criteria": {
+      "has_osmium": "2025-01-01 00:57:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-01-01 00:21:15 +0000"
@@ -1941,6 +1953,12 @@
   "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2025-01-01 00:59:40 +0000"
     },
     "done": true
   },
@@ -2304,6 +2322,12 @@
     },
     "done": true
   },
+  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
+    "criteria": {
+      "has_shear": "2025-01-01 00:58:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-31 23:56:41 +0000"
@@ -2478,6 +2502,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-01-01 00:57:34 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2024-12-31 23:52:55 +0000"
@@ -2565,6 +2595,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-01-01 00:53:58 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-01-01 00:58:29 +0000"
     },
     "done": true
   },
@@ -3300,6 +3336,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-01-01 00:58:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-31 23:56:37 +0000"
@@ -3906,6 +3948,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-01-01 00:58:29 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/plate_gold_hammering": {
     "criteria": {
       "has_gold_ingot": "2025-01-01 00:54:43 +0000"
@@ -3987,6 +4035,12 @@
   "exdeorum:recipes/misc/string_mesh": {
     "criteria": {
       "has_item": "2025-01-01 00:02:42 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-01-01 00:58:29 +0000"
     },
     "done": true
   },
@@ -4872,6 +4926,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/osmium_dust_from_ingot": {
+    "criteria": {
+      "has_osmium_ingot": "2025-01-01 00:58:29 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/misc/compacting/xychorium_gem_dark": {
     "criteria": {
       "has_xychorium_gem_dark": "2025-01-01 00:37:35 +0000"
@@ -5553,6 +5613,12 @@
     },
     "done": true
   },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2025-01-01 00:59:29 +0000"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/misc/space_chamber": {
     "criteria": {
       "machine_frame": "2025-01-01 00:55:57 +0000"
@@ -6074,6 +6140,12 @@
   "immersiveengineering:recipes/misc/crafting/radiator": {
     "criteria": {
       "has_water_bucket": "2025-01-01 00:22:40 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-01-01 00:58:29 +0000"
     },
     "done": true
   },
