@@ -1740,3 +1740,6 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [01Jan2025 02:25:24.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Diamonds!]
 [01Jan2025 02:26:32.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Diamonds!]
 [01Jan2025 02:29:41.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Ice Bucket Challenge]
+[01Jan2025 02:38:54.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4098, y=67, z=9} BlockPos{x=4097, y=67, z=6}
+[01Jan2025 02:38:54.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4098, y=67, z=9} BlockPos{x=4097, y=67, z=6}
+[01Jan2025 02:40:49.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Crops of the Wild]
