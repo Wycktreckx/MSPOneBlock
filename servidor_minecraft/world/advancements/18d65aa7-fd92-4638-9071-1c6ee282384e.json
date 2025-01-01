@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/gold_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-01-01 01:55:33 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/dry_bamboo_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-01 00:58:44 +0000"
@@ -524,6 +530,12 @@
   "pneumaticcraft:recipes/misc/coordinate_tracker_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/gold_block_from_smelting": {
+    "criteria": {
+      "has_raw_gold": "2025-01-01 01:55:21 +0000"
     },
     "done": true
   },
@@ -1793,6 +1805,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-01 01:52:49 +0000"
+    },
+    "done": true
+  },
   "croptopia:root": {
     "criteria": {
       "root": "2025-01-01 01:10:35 +0000"
@@ -2472,6 +2490,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/smelting/gold_ingot_from_dust": {
+    "criteria": {
+      "has_gold_dust": "2025-01-01 01:55:33 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/nickel_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-01-01 00:46:26 +0000"
@@ -2592,6 +2616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-01 01:55:21 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/dimmable_redstone_lamp": {
     "criteria": {
       "criterion1": "2025-01-01 00:17:09 +0000"
@@ -2629,15 +2659,33 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/gold_dust_from_raw": {
+    "criteria": {
+      "has_raw_gold": "2025-01-01 01:55:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-01-01 00:44:46 +0000"
     },
     "done": true
   },
+  "utilitarian:recipes/misc/utility/gold_block_from_blasting": {
+    "criteria": {
+      "has_raw_gold": "2025-01-01 01:55:21 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/decompress/cobblestone_1x": {
     "criteria": {
       "has_cobblestone_1x": "2025-01-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-01-01 01:55:05 +0000"
     },
     "done": true
   },
@@ -2779,6 +2827,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/electrum_mix": {
+    "criteria": {
+      "has_gold_dust": "2025-01-01 01:55:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/clock_block": {
     "criteria": {
       "minecraft:planks": "2025-01-01 00:04:15 +0000"
@@ -2794,6 +2848,12 @@
   "utilitix:recipes/misc/hand_bell": {
     "criteria": {
       "criterion0": "2025-01-01 00:04:10 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-01-01 01:55:05 +0000"
     },
     "done": true
   },
@@ -3256,6 +3316,12 @@
   "alchemistry:recipes/misc/compactor": {
     "criteria": {
       "has_item": "2025-01-01 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/gold_dust": {
+    "criteria": {
+      "has_gold": "2025-01-01 01:55:05 +0000"
     },
     "done": true
   },
@@ -4525,6 +4591,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 01:52:49 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/bridge_torch": {
     "criteria": {
       "has_planks": "2025-01-01 00:00:33 +0000"
@@ -4690,6 +4762,12 @@
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-01 01:36:49 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/gold_ingot_from_dust": {
+    "criteria": {
+      "has_gold_dust": "2025-01-01 01:55:33 +0000"
     },
     "done": true
   },
@@ -5521,6 +5599,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-01 01:52:48 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/gold_ore": {
     "criteria": {
       "has_item": "2025-01-01 01:02:43 +0000"
@@ -5791,6 +5875,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-01-01 01:52:48 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/copper_torch": {
     "criteria": {
       "has_copper": "2025-01-01 00:44:46 +0000"
@@ -5806,6 +5896,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-01-01 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-01 01:55:21 +0000"
     },
     "done": true
   },
@@ -5836,6 +5932,12 @@
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "minecraft:planks": "2025-01-01 00:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-01-01 01:55:05 +0000"
     },
     "done": true
   },
@@ -5946,6 +6048,12 @@
       "has_cobblestone": "2025-01-01 00:07:16 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-01 01:52:48 +0000"
+    },
+    "done": false
   },
   "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting": {
     "criteria": {
@@ -6103,6 +6211,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting_raw_gold": {
+    "criteria": {
+      "has_item": "2025-01-01 01:55:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-01-01 00:46:19 +0000"
@@ -6250,6 +6364,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-01-01 01:55:21 +0000"
     },
     "done": true
   },
@@ -6496,6 +6616,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-01 01:52:48 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/primitive_alloy_smelter": {
     "criteria": {
       "has_ingredient": "2025-01-01 00:10:54 +0000"
@@ -6613,6 +6739,12 @@
   "forcecraft:recipes/transmutation/transmutation/stick_from_stone_pickaxe": {
     "criteria": {
       "has_tool": "2025-01-01 00:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-01-01 01:55:33 +0000"
     },
     "done": true
   },
