@@ -7788,9 +7788,27 @@
     },
     "done": true
   },
+  "botania:recipes/tools/blood_pendant": {
+    "criteria": {
+      "has_item": "2025-01-01 02:20:28 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/invar_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-01-01 02:09:33 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_wood": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-01-01 02:20:25 +0000"
     },
     "done": true
   },
@@ -7800,9 +7818,45 @@
     },
     "done": true
   },
+  "botania:recipes/misc/incense_stick": {
+    "criteria": {
+      "has_item": "2025-01-01 02:20:28 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/invar_ingot_from_dust": {
     "criteria": {
       "has_item": "2025-01-01 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-01 02:12:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2025-01-01 02:20:30 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/reinforced_filter_rail": {
+    "criteria": {
+      "criterion1": "2025-01-01 02:12:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-01 02:20:25 +0000"
     },
     "done": true
   },
@@ -7824,6 +7878,48 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/glowing_water": {
+    "criteria": {
+      "has_nether_wart": "2025-01-01 02:20:30 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/constantan_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2025-01-01 02:11:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/quartz_dust_from_gem": {
+    "criteria": {
+      "has_quartz_gem": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 02:12:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/invar_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-01-01 02:09:33 +0000"
@@ -7839,6 +7935,24 @@
   "alltheores:recipes/misc/nickel_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-01-01 02:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-01 02:20:30 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-01 02:20:30 +0000"
     },
     "done": true
   },
@@ -7866,6 +7980,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/constantan_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2025-01-01 02:11:44 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/smelting/copper_ingot_from_dust": {
     "criteria": {
       "has_copper_dust": "2025-01-01 02:10:55 +0000"
@@ -7878,9 +7998,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/copper_ingot_from_dust": {
     "criteria": {
       "has_item": "2025-01-01 02:10:55 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/constantan_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2025-01-01 02:11:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_constantan_hammering": {
+    "criteria": {
+      "has_constantan_ingot": "2025-01-01 02:11:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-01 02:15:18 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/misc/synthetic_point": {
+    "criteria": {
+      "has_nugget": "2025-01-01 02:12:14 +0000"
     },
     "done": true
   },
@@ -7890,15 +8052,105 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/filter_rail": {
+    "criteria": {
+      "criterion1": "2025-01-01 02:12:14 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/constantan_dust_from_ingot": {
+    "criteria": {
+      "has_constantan_ingot": "2025-01-01 02:11:44 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/misc/alfsteel_pylon": {
+    "criteria": {
+      "criterion2": "2025-01-01 02:20:28 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/constantan_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2025-01-01 02:11:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/invar_ingot_from_dust_blasting": {
     "criteria": {
       "has_item": "2025-01-01 02:09:09 +0000"
     },
     "done": true
   },
+  "botania:recipes/misc/quartz_red": {
+    "criteria": {
+      "has_item": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_sunny": {
+    "criteria": {
+      "has_item": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/netherrack_1x": {
+    "criteria": {
+      "has_netherrack": "2025-01-01 02:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/constantan_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-01-01 02:11:44 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/invar_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-01-01 02:09:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-01 02:12:14 +0000"
     },
     "done": true
   },

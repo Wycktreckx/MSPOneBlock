@@ -1729,3 +1729,11 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [01Jan2025 02:13:10.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV joined the game
 [01Jan2025 02:13:10.749] [Server thread/INFO] [Jade/]: Syncing config to YeferJV (f6665a50-a860-47aa-9fbe-ae36fc92fa07)
 [01Jan2025 02:13:10.750] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 1 (-2 unused), uncached profiles: 0, total profiles: 3
+[01Jan2025 02:14:59.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YeferJV> :blobcatnotlike:
+[01Jan2025 02:15:01.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YeferJV lost connection: Disconnected
+[01Jan2025 02:15:01.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV left the game
+[01Jan2025 02:17:17.549] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YeferJV is f6665a50-a860-47aa-9fbe-ae36fc92fa07
+[01Jan2025 02:17:29.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YeferJV[/127.253.53.126:43929] logged in with entity id 666 at (4115.586780846705, 69.5, -3.7894112004580593)
+[01Jan2025 02:17:29.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV joined the game
+[01Jan2025 02:17:29.485] [Server thread/INFO] [Jade/]: Syncing config to YeferJV (f6665a50-a860-47aa-9fbe-ae36fc92fa07)
+[01Jan2025 02:17:29.486] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 1 (-2 unused), uncached profiles: 0, total profiles: 3
