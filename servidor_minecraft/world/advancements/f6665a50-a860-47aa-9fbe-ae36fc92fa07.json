@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/iron_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-01-01 01:45:36 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_blue_dye": {
     "criteria": {
       "chest": "2025-01-01 00:05:02 +0000"
@@ -515,6 +521,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/decompress/soul_sand_1x": {
+    "criteria": {
+      "has_soul_sand_1x": "2025-01-01 01:43:46 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/blaze_gold_ingot": {
     "criteria": {
       "has_item": "2025-01-01 01:14:38 +0000"
@@ -620,6 +632,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-01-01 00:54:43 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/soul_sand_2x": {
+    "criteria": {
+      "has_soul_sand_1x": "2025-01-01 01:43:46 +0000"
     },
     "done": true
   },
@@ -1658,6 +1676,12 @@
   "immersiveengineering:recipes/misc/crafting/wirecutter": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 00:35:10 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-01-01 01:45:36 +0000"
     },
     "done": true
   },
@@ -3019,6 +3043,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/blasting/iron_ingot_from_dust": {
+    "criteria": {
+      "has_iron_dust": "2025-01-01 01:45:36 +0000"
+    },
+    "done": true
+  },
   "megacells:recipes/misc/cells/mega_fluid_cell_housing": {
     "criteria": {
       "has_dusts/sky_stone": "2025-01-01 00:19:09 +0000"
@@ -3328,6 +3358,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-31 23:56:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/roasted_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seed": "2025-01-01 01:38:15 +0000"
     },
     "done": true
   },
@@ -4162,6 +4198,12 @@
   "exdeorum:recipes/misc/string_mesh": {
     "criteria": {
       "has_item": "2025-01-01 00:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-01-01 01:38:15 +0000"
     },
     "done": true
   },
@@ -6435,6 +6477,12 @@
   "supplementaries:recipes/goblet": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 00:35:10 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/iron_ingot_from_dust": {
+    "criteria": {
+      "has_iron_dust": "2025-01-01 01:45:36 +0000"
     },
     "done": true
   },

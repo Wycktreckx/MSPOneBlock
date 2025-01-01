@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 01:39:27 +0000"
+    },
+    "done": true
+  },
   "sfm:recipes/misc/printing_press": {
     "criteria": {
       "has_iron": "2025-01-01 00:26:12 +0000"
@@ -557,6 +563,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/decompress/soul_sand_1x": {
+    "criteria": {
+      "has_soul_sand_1x": "2025-01-01 01:43:32 +0000"
+    },
+    "done": true
+  },
   "bloodmagic:recipes/misc/sacrificial_dagger": {
     "criteria": {
       "has_glass": "2025-01-01 00:20:54 +0000"
@@ -668,6 +680,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-01-01 00:56:16 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/soul_sand_2x": {
+    "criteria": {
+      "has_soul_sand_1x": "2025-01-01 01:43:32 +0000"
     },
     "done": true
   },
@@ -1883,6 +1901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-01 01:39:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-01-01 00:22:31 +0000",
@@ -2091,6 +2115,12 @@
   "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-01 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 01:39:27 +0000"
     },
     "done": true
   },
@@ -3037,6 +3067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-01 01:39:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-01-01 00:59:39 +0000"
@@ -3160,6 +3196,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-01-01 00:04:15 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/brown_to_red_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-01 01:40:41 +0000"
     },
     "done": true
   },
@@ -4195,9 +4237,45 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_item": "2025-01-01 01:39:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_item": "2025-01-01 01:39:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_item": "2025-01-01 01:39:27 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/scratched_glass_blue2": {
     "criteria": {
       "recipe_condition2": "2025-01-01 00:59:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_item": "2025-01-01 01:39:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_item": "2025-01-01 01:39:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_item": "2025-01-01 01:39:27 +0000"
     },
     "done": true
   },
@@ -6472,6 +6550,66 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_item": "2025-01-01 01:39:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_item": "2025-01-01 01:39:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_item": "2025-01-01 01:39:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_item": "2025-01-01 01:39:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_item": "2025-01-01 01:39:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_item": "2025-01-01 01:39:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_item": "2025-01-01 01:39:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_item": "2025-01-01 01:39:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_item": "2025-01-01 01:39:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_item": "2025-01-01 01:39:27 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/stick_from_stone_pickaxe": {
     "criteria": {
       "has_tool": "2025-01-01 00:09:31 +0000"
@@ -7107,6 +7245,12 @@
   "forbidden_arcanus:recipes/tools/wooden_blacksmith_gavel": {
     "criteria": {
       "has_planks": "2025-01-01 00:04:15 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/red_to_brown_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-01 01:39:27 +0000"
     },
     "done": true
   },
