@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-01 01:14:38 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-01 00:44:26 +0000"
@@ -293,6 +299,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-01-01 01:07:52 +0000"
+    },
+    "done": false
+  },
   "alltheores:recipes/misc/copper_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-01-01 00:52:51 +0000"
@@ -320,6 +332,12 @@
   "utilitix:recipes/misc/directional_highspeed_rail": {
     "criteria": {
       "criterion1": "2024-12-31 23:56:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2025-01-01 01:09:08 +0000"
     },
     "done": true
   },
@@ -497,6 +515,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/blaze_gold_ingot": {
+    "criteria": {
+      "has_item": "2025-01-01 01:14:38 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/glass_viewer_rgb": {
     "criteria": {
       "has_dye": "2025-01-01 00:53:58 +0000"
@@ -587,6 +611,12 @@
     },
     "done": true
   },
+  "enderio:recipes/food/enderios": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 01:07:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-01-01 00:54:43 +0000"
@@ -596,6 +626,12 @@
   "sfm:recipes/redstone/disk": {
     "criteria": {
       "has_redstone": "2025-01-01 00:19:09 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/soul_sand_1x": {
+    "criteria": {
+      "has_soul_sand": "2025-01-01 01:11:05 +0000"
     },
     "done": true
   },
@@ -1067,6 +1103,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_bread": "2025-01-01 01:09:08 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/zinc_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-01-01 00:52:51 +0000"
@@ -1076,6 +1118,12 @@
   "mcwbridges:recipes/diorite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-01 00:52:08 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/buttered_toast": {
+    "criteria": {
+      "has_toast": "2025-01-01 01:09:54 +0000"
     },
     "done": true
   },
@@ -1127,6 +1175,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_stone_hoe": {
+    "criteria": {
+      "has_tool": "2025-01-01 01:07:12 +0000"
+    },
+    "done": true
+  },
   "silentgear:root": {
     "criteria": {
       "get_item": "2024-12-31 23:56:47 +0000"
@@ -1160,6 +1214,12 @@
   "croptopia:recipes/campfire_molasses": {
     "criteria": {
       "has_sugar_cane": "2025-01-01 00:04:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2025-01-01 01:09:08 +0000"
     },
     "done": true
   },
@@ -1610,6 +1670,12 @@
   "mcwbridges:recipes/balustrade_diorite_bridge": {
     "criteria": {
       "has_planks": "2025-01-01 00:52:08 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/misc/reactor_casing": {
+    "criteria": {
+      "has_item": "2025-01-01 01:14:38 +0000"
     },
     "done": true
   },
@@ -2100,6 +2166,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-01 01:11:05 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_red_dye": {
     "criteria": {
       "chest": "2025-01-01 00:05:02 +0000"
@@ -2270,7 +2342,8 @@
   },
   "croptopia:gather_food": {
     "criteria": {
-      "scrambled_eggs": "2025-01-01 00:37:55 +0000"
+      "scrambled_eggs": "2025-01-01 00:37:55 +0000",
+      "toast": "2025-01-01 01:09:54 +0000"
     },
     "done": false
   },
@@ -2400,6 +2473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-01 01:14:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/clock_block": {
     "criteria": {
       "minecraft:planks": "2024-12-31 23:56:44 +0000"
@@ -2457,6 +2536,12 @@
   "utilitix:recipes/misc/comparator_redirector_up": {
     "criteria": {
       "criterion1": "2025-01-01 00:07:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2025-01-01 01:07:56 +0000"
     },
     "done": true
   },
@@ -2520,6 +2605,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2025-01-01 01:09:08 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/misc/compacting/xychorium_gem_blue": {
     "criteria": {
       "has_xychorium_gem_blue": "2025-01-01 00:53:05 +0000"
@@ -2559,6 +2650,12 @@
   "enderio:recipes/misc/basic_capacitor": {
     "criteria": {
       "has_ingredient": "2025-01-01 00:19:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-01-01 01:11:05 +0000"
     },
     "done": true
   },
@@ -2793,6 +2890,12 @@
   "enderio:recipes/misc/stick": {
     "criteria": {
       "has_ingredient": "2024-12-31 23:56:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/toast_with_jam": {
+    "criteria": {
+      "has_toast": "2025-01-01 01:09:54 +0000"
     },
     "done": true
   },
@@ -3048,6 +3151,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/snad/soul_snad": {
+    "criteria": {
+      "has_soul_sand": "2025-01-01 01:11:05 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/diamond_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-01-01 00:52:51 +0000"
@@ -3093,6 +3202,12 @@
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:planks": "2024-12-31 23:56:44 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2025-01-01 01:07:56 +0000"
     },
     "done": true
   },
@@ -3936,6 +4051,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-01-01 01:07:56 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 00:35:10 +0000"
@@ -4161,6 +4282,12 @@
   "mcwwindows:recipes/oak": {
     "criteria": {
       "has_wood": "2024-12-31 23:56:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-01-01 01:07:56 +0000"
     },
     "done": true
   },
@@ -4395,6 +4522,12 @@
   "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-01 00:52:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/spark": {
+    "criteria": {
+      "has_item": "2025-01-01 01:14:38 +0000"
     },
     "done": true
   },
@@ -4743,6 +4876,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-01-01 00:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-01 01:11:05 +0000"
     },
     "done": true
   },
@@ -5250,9 +5389,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-01 01:14:38 +0000"
+    },
+    "done": true
+  },
   "rftoolsstorage:recipes/rftoolsstorage/storage_control_module": {
     "criteria": {
       "ingot": "2025-01-01 00:35:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-01 01:07:56 +0000"
     },
     "done": true
   },
@@ -5277,6 +5428,12 @@
   "exdeorum:recipes/misc/diorite": {
     "criteria": {
       "has_item": "2025-01-01 00:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-01 01:07:56 +0000"
     },
     "done": true
   },
@@ -6101,6 +6258,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-01-01 01:07:56 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/block_tracker_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-01 00:21:17 +0000"
@@ -6524,6 +6687,12 @@
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2025-01-01 00:09:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-01 01:07:52 +0000"
     },
     "done": true
   },
