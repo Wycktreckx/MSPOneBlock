@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-01-01 01:31:18 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/iron_mesh": {
     "criteria": {
       "has_item": "2025-01-01 00:26:12 +0000"
@@ -110,6 +116,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_pink_double": {
+    "criteria": {
+      "has_alt_item": "2025-01-01 01:31:18 +0000"
     },
     "done": true
   },
@@ -248,6 +260,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-01 00:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-01 01:36:50 +0000"
     },
     "done": true
   },
@@ -503,6 +521,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_blue": {
+    "criteria": {
+      "has_xychorium_storage_blue": "2025-01-01 01:31:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-01-01 00:18:39 +0000"
@@ -656,6 +680,12 @@
   "mcwbridges:recipes/glass_bridge": {
     "criteria": {
       "has_planks": "2025-01-01 00:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-01 01:36:50 +0000"
     },
     "done": true
   },
@@ -827,6 +857,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_red": {
+    "criteria": {
+      "has_xychorium_storage_red": "2025-01-01 01:31:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_stick": "2025-01-01 00:04:10 +0000"
@@ -848,6 +884,12 @@
   "mcwfences:recipes/stone": {
     "criteria": {
       "has_stone": "2025-01-01 00:00:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-01 01:36:49 +0000"
     },
     "done": true
   },
@@ -1070,6 +1112,12 @@
   "pneumaticcraft:recipes/misc/range_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-01 01:36:50 +0000"
     },
     "done": true
   },
@@ -1475,6 +1523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-01-01 01:31:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-01-01 00:59:24 +0000"
@@ -1574,6 +1628,12 @@
   "occultism:recipes/spirit_fire/spirit_fire/otherworld_sapling_natural": {
     "criteria": {
       "has_oak_sapling": "2025-01-01 00:03:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-01-01 01:31:18 +0000"
     },
     "done": true
   },
@@ -1793,6 +1853,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/pink_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-01-01 01:31:18 +0000"
+    },
+    "done": true
+  },
   "rftoolspower:recipes/rftoolspower/blazing_agitator": {
     "criteria": {
       "frame": "2025-01-01 01:04:31 +0000"
@@ -1878,6 +1944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-01 01:36:49 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/ores/tin_tag": {
     "criteria": {
       "has_item": "2025-01-01 00:21:54 +0000"
@@ -1899,6 +1971,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-01-01 01:31:18 +0000"
     },
     "done": true
   },
@@ -2070,6 +2148,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_green": {
+    "criteria": {
+      "has_xychorium_storage_green": "2025-01-01 01:31:18 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/cobblestone_2x": {
     "criteria": {
       "has_cobblestone_1x": "2025-01-01 00:32:06 +0000"
@@ -2097,6 +2181,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-01-01 00:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-01 01:36:50 +0000"
     },
     "done": true
   },
@@ -2259,6 +2349,12 @@
   "enderio:recipes/misc/fluid_tank": {
     "criteria": {
       "has_ingredient": "2025-01-01 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-01 01:36:49 +0000"
     },
     "done": true
   },
@@ -2671,6 +2767,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/terracotta": {
+    "criteria": {
+      "has_planks": "2025-01-01 01:36:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-01 00:09:26 +0000"
@@ -2686,6 +2788,12 @@
   "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-01 00:08:57 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/terracotta_1x": {
+    "criteria": {
+      "has_terracotta": "2025-01-01 01:36:49 +0000"
     },
     "done": true
   },
@@ -2776,6 +2884,12 @@
   "xycraft_world:recipes/building_blocks/stonecutting/glass_viewer_silicon": {
     "criteria": {
       "has_for_glass_viewer_silicon": "2025-01-01 00:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-01 01:36:49 +0000"
     },
     "done": true
   },
@@ -3112,6 +3226,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-01 00:09:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pink_petal_block": {
+    "criteria": {
+      "has_item": "2025-01-01 01:31:18 +0000"
     },
     "done": true
   },
@@ -3697,6 +3817,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-01-01 01:31:18 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-01-01 00:00:33 +0000"
@@ -3769,6 +3895,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_pink": {
+    "criteria": {
+      "has_alt_item": "2025-01-01 01:31:18 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/misc/dissolver": {
     "criteria": {
       "has_item": "2025-01-01 00:26:12 +0000"
@@ -3811,6 +3943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-01 01:36:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-01-01 00:20:54 +0000"
@@ -3832,6 +3970,12 @@
   "immersiveengineering:recipes/misc/crafting/wirecoil_steel": {
     "criteria": {
       "has_steel_ingot": "2025-01-01 00:51:06 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_light": {
+    "criteria": {
+      "has_xychorium_storage_light": "2025-01-01 01:31:18 +0000"
     },
     "done": true
   },
@@ -4075,6 +4219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-01 01:36:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_red": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 00:26:12 +0000"
@@ -4126,6 +4276,12 @@
   "immersiveengineering:recipes/misc/crafting/coil_mv": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_dark": {
+    "criteria": {
+      "has_xychorium_storage_dark": "2025-01-01 01:31:18 +0000"
     },
     "done": true
   },
@@ -4210,6 +4366,12 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_sapling": "2025-01-01 00:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-01 01:36:50 +0000"
     },
     "done": true
   },
@@ -4444,6 +4606,12 @@
   "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-01 00:08:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-01 01:36:49 +0000"
     },
     "done": true
   },
@@ -5119,6 +5287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-01 01:36:50 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/security_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-01 00:33:43 +0000"
@@ -5290,6 +5464,12 @@
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-01-01 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-01 01:36:49 +0000"
     },
     "done": true
   },
@@ -5764,6 +5944,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-01-01 00:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-01 01:36:49 +0000"
     },
     "done": true
   },
@@ -6370,6 +6556,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-01-01 01:31:18 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/advanced_connector_green_dye": {
     "criteria": {
       "chest": "2025-01-01 01:05:21 +0000"
@@ -6750,6 +6942,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_pink": {
+    "criteria": {
+      "has_item": "2025-01-01 01:31:18 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/cobbled_deepslate": {
     "criteria": {
       "has_item": "2025-01-01 00:06:56 +0000"
@@ -6771,6 +6969,12 @@
   "immersiveengineering:recipes/misc/crafting/steel_fence": {
     "criteria": {
       "has_steel_ingot": "2025-01-01 00:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-01 01:36:49 +0000"
     },
     "done": true
   },
