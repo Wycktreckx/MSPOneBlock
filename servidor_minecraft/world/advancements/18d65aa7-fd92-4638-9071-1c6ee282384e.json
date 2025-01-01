@@ -8023,6 +8023,12 @@
     },
     "done": true
   },
+  "enderio:recipes/building_blocks/silent_stone_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 02:51:14 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/signalum_ingot_from_dust_blasting": {
     "criteria": {
       "has_item": "2025-01-01 02:35:14 +0000"

@@ -1743,3 +1743,5 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [01Jan2025 02:38:54.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4098, y=67, z=9} BlockPos{x=4097, y=67, z=6}
 [01Jan2025 02:38:54.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4098, y=67, z=9} BlockPos{x=4097, y=67, z=6}
 [01Jan2025 02:40:49.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Crops of the Wild]
+[01Jan2025 02:48:34.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Iron Torch]
+[01Jan2025 02:48:34.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Hunt and Gather]

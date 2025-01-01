@@ -6681,6 +6681,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "rice": "2025-01-01 02:44:46 +0000",
       "sugar_cane": "2025-01-01 02:31:04 +0000",
       "wheat": "2025-01-01 01:07:52 +0000"
     },
@@ -7022,6 +7023,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/basket": {
+    "criteria": {
+      "has_canvas": "2025-01-01 02:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-01-01 02:25:24 +0000"
@@ -7052,6 +7059,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2025-01-01 02:44:50 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/caramel_from_sugar": {
     "criteria": {
       "has_sugar": "2025-01-01 02:36:18 +0000"
@@ -7076,9 +7089,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/canvas_rug": {
+    "criteria": {
+      "has_canvas": "2025-01-01 02:50:29 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_red_pane2": {
     "criteria": {
       "recipe_condition2": "2025-01-01 02:40:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tatami_block_from_full": {
+    "criteria": {
+      "has_canvas": "2025-01-01 02:50:29 +0000"
     },
     "done": true
   },
@@ -7190,6 +7215,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2025-01-01 02:49:06 +0000"
+    },
+    "done": true
+  },
   "buildinggadgets2:recipes/misc/gadget_building": {
     "criteria": {
       "has_diamond": "2025-01-01 02:25:24 +0000"
@@ -7244,6 +7275,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2025-01-01 02:49:06 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_caramel": {
     "criteria": {
       "has_sugar": "2025-01-01 02:36:18 +0000"
@@ -7292,6 +7329,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/full_tatami_mat_from_halves": {
+    "criteria": {
+      "has_canvas": "2025-01-01 02:50:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/hanging_canvas_sign": {
+    "criteria": {
+      "has_canvas": "2025-01-01 02:50:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2025-01-01 02:48:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-01 02:25:24 +0000"
@@ -7304,9 +7359,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/half_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2025-01-01 02:50:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-01-01 02:25:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-01-01 02:44:46 +0000"
     },
     "done": true
   },
@@ -7340,9 +7407,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-01-01 02:49:06 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/scratched_glass_red2": {
     "criteria": {
       "recipe_condition2": "2025-01-01 02:40:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/scaffolding_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-01-01 02:50:29 +0000"
     },
     "done": true
   },
@@ -7391,6 +7470,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-01-01 02:25:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/book_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-01-01 02:50:29 +0000"
     },
     "done": true
   },
@@ -7448,6 +7533,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/full_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2025-01-01 02:50:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-01-01 02:48:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-01-01 02:38:37 +0000"
@@ -7460,6 +7557,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/canvas": {
+    "criteria": {
+      "has_straw": "2025-01-01 02:49:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-01-01 02:25:24 +0000"
@@ -7469,6 +7572,18 @@
   "occultism:recipes/crushing/crushing/diamond_dust_from_gem": {
     "criteria": {
       "has_diamond_gem": "2025-01-01 02:25:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/canvas_sign": {
+    "criteria": {
+      "has_canvas": "2025-01-01 02:50:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/painting_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-01-01 02:50:29 +0000"
     },
     "done": true
   },
@@ -7511,6 +7626,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-01-01 02:25:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice": {
+    "criteria": {
+      "has_rice_panicle": "2025-01-01 02:44:50 +0000"
     },
     "done": true
   },
@@ -7574,15 +7695,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/rope": {
+    "criteria": {
+      "has_straw": "2025-01-01 02:49:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2025-01-01 02:49:06 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/tinted_borderless_glass_red2": {
     "criteria": {
       "recipe_condition2": "2025-01-01 02:40:16 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/straw_bale": {
+    "criteria": {
+      "has_straw": "2025-01-01 02:49:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-01-01 02:25:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tatami": {
+    "criteria": {
+      "has_canvas": "2025-01-01 02:50:29 +0000"
     },
     "done": true
   },
@@ -7619,6 +7764,12 @@
   "silentgear:recipes/misc/diamond_from_shards": {
     "criteria": {
       "has_item": "2025-01-01 02:25:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-01-01 02:49:06 +0000"
     },
     "done": true
   },
