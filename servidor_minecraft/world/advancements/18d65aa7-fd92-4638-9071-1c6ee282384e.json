@@ -3463,7 +3463,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-01-01 00:22:31 +0000",
-      "apple": "2025-01-01 01:09:15 +0000"
+      "apple": "2025-01-01 01:09:15 +0000",
+      "bread": "2025-01-02 00:45:01 +0000"
     },
     "done": false
   },
@@ -7653,6 +7654,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:phantom": "2025-01-02 00:51:37 +0000",
       "minecraft:zombie": "2025-01-01 01:52:48 +0000"
     },
     "done": false
@@ -8683,6 +8685,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bannerpatterns": {
+    "criteria": {
+      "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-01-02 00:33:41 +0000"
@@ -8713,9 +8721,27 @@
     },
     "done": true
   },
+  "rftoolsbuilder:recipes/misc/vehicle_control_module": {
+    "criteria": {
+      "paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_oak": {
     "criteria": {
       "has_oak_sign": "2025-01-02 00:30:32 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_stairs": {
+    "criteria": {
+      "has_log": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
@@ -8731,6 +8757,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blueprint_paper": {
+    "criteria": {
+      "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-02 00:43:21 +0000"
@@ -8743,9 +8787,27 @@
     },
     "done": true
   },
+  "rftoolsbuilder:recipes/misc/vehicle_status_module": {
+    "criteria": {
+      "paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-01-02 00:35:22 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
@@ -8761,9 +8823,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-01-02 00:16:43 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
@@ -8797,6 +8871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/aluminum_dust": {
     "criteria": {
       "has_aluminum": "2025-01-02 00:35:22 +0000"
@@ -8809,9 +8889,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_pressure_plates": {
+    "criteria": {
+      "has_log": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/lead_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-01-02 00:35:29 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_boats": {
+    "criteria": {
+      "has_log": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
@@ -8821,15 +8937,51 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 00:51:37 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-02 00:43:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bullets": {
+    "criteria": {
+      "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/paper_from_tag_filter": {
+    "criteria": {
+      "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_glowing_membrane": {
+    "criteria": {
+      "has_chorus": "2025-01-02 00:52:11 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-02 00:49:16 +0000"
     },
     "done": true
   },
@@ -8851,9 +9003,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/blackstone_1x": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/food/fortune_cookie": {
+    "criteria": {
+      "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-01-02 00:53:13 +0000"
     },
     "done": true
   },
@@ -8863,9 +9051,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/dark_oak_compressed_sieve": {
+    "criteria": {
+      "has_item": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/black_paper": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 00:53:13 +0000"
     },
     "done": true
   },
@@ -8875,9 +9093,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/restraining_order": {
+    "criteria": {
+      "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_trapdoors": {
+    "criteria": {
+      "has_log": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_doors": {
+    "criteria": {
+      "has_log": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/dark_oak_log_1x": {
+    "criteria": {
+      "has_dark_oak_log": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-01-02 00:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_membrane": {
+    "criteria": {
+      "has_chorus": "2025-01-02 00:52:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
@@ -8890,6 +9174,18 @@
   "utilitarian:recipes/misc/utility/spruce_logs_to_trapdoors": {
     "criteria": {
       "has_log": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_card": {
+    "criteria": {
+      "paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_dark_membrane": {
+    "criteria": {
+      "has_chorus": "2025-01-02 00:52:11 +0000"
     },
     "done": true
   },
@@ -8911,9 +9207,21 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-01-02 00:35:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-01-02 00:53:13 +0000"
     },
     "done": true
   },
@@ -8926,6 +9234,42 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_components": {
+    "criteria": {
+      "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/template_manager": {
+    "criteria": {
+      "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 00:51:37 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
@@ -8944,6 +9288,18 @@
   "alltheores:recipes/misc/tin_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-01-02 00:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
@@ -8971,9 +9327,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-01-02 00:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
     },
     "done": true
   },
@@ -8986,6 +9360,36 @@
   "mcwfurnitures:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
@@ -9007,6 +9411,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
+    "criteria": {
+      "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/zinc_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-01-02 00:35:19 +0000"
@@ -9025,6 +9435,18 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_slabs": {
+    "criteria": {
+      "has_log": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blackstone": {
+    "criteria": {
+      "has_wood": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-01-02 00:24:53 +0000"
@@ -9034,6 +9456,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-01-02 00:40:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
     },
     "done": true
   },
@@ -9049,9 +9477,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_four_panel": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
@@ -9064,6 +9522,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
