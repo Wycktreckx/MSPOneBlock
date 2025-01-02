@@ -10837,6 +10837,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 19:02:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-01-02 18:41:07 +0000"
@@ -10903,6 +10909,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 19:02:05 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-01-02 17:13:08 +0000"
@@ -10927,6 +10939,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 19:02:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/dark_oak_cabinet": {
     "criteria": {
       "has_dark_oak_trapdoor": "2025-01-02 18:44:44 +0000"
@@ -10936,6 +10954,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-01-02 17:57:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 19:02:05 +0000"
     },
     "done": true
   },
@@ -10969,6 +10993,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 19:02:05 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/netherite_door": {
     "criteria": {
       "has_netherite_scrap": "2025-01-02 18:30:18 +0000"
@@ -10999,9 +11029,27 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 19:02:05 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_caramel": {
     "criteria": {
       "has_sugar": "2025-01-02 17:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-02 18:59:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 19:02:05 +0000"
     },
     "done": true
   },
@@ -11017,9 +11065,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 19:02:05 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/cooked_chicken_to_beef": {
     "criteria": {
       "has_chicken": "2025-01-02 17:20:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 19:02:05 +0000"
     },
     "done": true
   },
@@ -11039,6 +11099,12 @@
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2025-01-02 17:12:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/hopper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 19:02:05 +0000"
     },
     "done": true
   },
@@ -11078,6 +11144,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 19:02:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-01-02 18:41:07 +0000"
@@ -11096,9 +11168,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 19:02:05 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/mob_charm_fragments/zombified_piglin": {
     "criteria": {
       "has_zombie_heart": "2025-01-02 17:27:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 19:02:05 +0000"
     },
     "done": true
   },
@@ -11111,6 +11195,24 @@
   "silentgear:recipes/misc/leather_from_scraps": {
     "criteria": {
       "has_item": "2025-01-02 17:28:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 19:02:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 19:02:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 19:02:05 +0000"
     },
     "done": true
   },
@@ -11150,6 +11252,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/compression_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 19:02:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2025-01-02 17:26:08 +0000"
@@ -11177,6 +11285,24 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-01-02 17:12:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 19:02:05 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:paxel": {
+    "criteria": {
+      "any_paxel": "2025-01-02 18:59:02 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_shovel": {
+    "criteria": {
+      "has_tool": "2025-01-02 18:58:50 +0000"
     },
     "done": true
   },
@@ -11246,6 +11372,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 19:02:05 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/scrambled_eggs": {
     "criteria": {
       "has_egg": "2025-01-02 18:41:07 +0000"
@@ -11255,6 +11387,12 @@
   "croptopia:recipes/cashew_chicken": {
     "criteria": {
       "has_cooked_chicken": "2025-01-02 17:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-02 18:59:22 +0000"
     },
     "done": true
   },
@@ -11279,6 +11417,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-01-02 18:41:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 19:02:05 +0000"
     },
     "done": true
   },
@@ -11309,6 +11453,12 @@
   "entangled:recipes/misc/item": {
     "criteria": {
       "recipe_condition": "2025-01-02 17:11:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 19:02:05 +0000"
     },
     "done": true
   },
