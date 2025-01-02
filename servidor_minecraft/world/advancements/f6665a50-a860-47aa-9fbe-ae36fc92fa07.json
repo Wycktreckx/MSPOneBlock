@@ -10317,6 +10317,7 @@
       "minecraft:spider": "2025-01-02 02:44:50 +0000",
       "minecraft:creeper": "2025-01-02 02:04:35 +0000",
       "minecraft:phantom": "2025-01-02 18:38:14 +0000",
+      "minecraft:wither_skeleton": "2025-01-02 20:31:21 +0000",
       "minecraft:zombie": "2025-01-02 17:12:00 +0000",
       "minecraft:zombie_villager": "2025-01-02 19:08:36 +0000"
     },
@@ -11102,9 +11103,21 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/smelting/arcane_crystal_dust_from_smelting": {
+    "criteria": {
+      "has_item": "2025-01-02 20:22:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-01-02 17:30:52 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/arcane_crystal_dust_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-01-02 20:22:53 +0000"
     },
     "done": true
   },
@@ -11252,6 +11265,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_dust_from_blasting": {
+    "criteria": {
+      "has_item": "2025-01-02 20:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-02 20:04:30 +0000"
@@ -11327,6 +11346,12 @@
   "forcecraft:recipes/building_blocks/force_magenta_torch": {
     "criteria": {
       "has_dye": "2025-01-02 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/lens_of_veritatis": {
+    "criteria": {
+      "has_arcane_crystal": "2025-01-02 20:22:53 +0000"
     },
     "done": true
   },
@@ -11889,6 +11914,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/arcane_crystal_dust_from_gem": {
+    "criteria": {
+      "has_arcane_crystal_gem": "2025-01-02 20:22:53 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/crema": {
     "criteria": {
       "has_salt": "2025-01-02 19:37:55 +0000"
@@ -12204,6 +12235,12 @@
   "ae2:recipes/misc/network/cables/dense_covered_magenta": {
     "criteria": {
       "has_dyes/black": "2025-01-02 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/arcane_crystal_block_from_arcane_crystal": {
+    "criteria": {
+      "has_arcane_crystal": "2025-01-02 20:22:53 +0000"
     },
     "done": true
   },

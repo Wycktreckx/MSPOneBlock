@@ -2937,3 +2937,4 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [02Jan2025 20:19:42.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Wycktreckz> un valo
 [02Jan2025 20:19:47.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Wycktreckz> o ahorita que acabes llamada
 [02Jan2025 20:25:44.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Madzermur'/24346, l='ServerLevel[world]', x=4146.99, y=67.00, z=9.55] died: Madzermur was slain by YeferJV using    [Captive Dreams]
+[02Jan2025 20:29:58.648] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Caclokyn'/24390, l='ServerLevel[world]', x=4143.84, y=67.00, z=10.69] died: Caclokyn was slain by YeferJV using    [Captive Dreams]

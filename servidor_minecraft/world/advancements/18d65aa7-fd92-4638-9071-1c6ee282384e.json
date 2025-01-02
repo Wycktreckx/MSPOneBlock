@@ -10831,6 +10831,12 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_orange": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
@@ -10840,6 +10846,12 @@
   "supplementaries:recipes/netherite_trapdoor": {
     "criteria": {
       "has_netherite_scrap": "2025-01-02 18:30:18 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2025-01-02 20:24:50 +0000"
     },
     "done": true
   },
@@ -10861,6 +10873,12 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_pink": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/building_blocks/force_brick_white": {
     "criteria": {
       "has_white_dye": "2025-01-02 19:49:16 +0000"
@@ -10876,6 +10894,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
     "criteria": {
       "forge:dyes/white": "2025-01-02 19:49:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
     },
     "done": true
   },
@@ -10969,6 +10993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-02 20:28:54 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-01-02 17:13:08 +0000"
@@ -10978,6 +11008,12 @@
   "croptopia:recipes/candied_nuts": {
     "criteria": {
       "has_sugar": "2025-01-02 17:21:22 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-01-02 20:24:50 +0000"
     },
     "done": true
   },
@@ -10996,6 +11032,12 @@
   "sophisticatedstorage:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 19:02:05 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_green": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
     },
     "done": true
   },
@@ -11023,6 +11065,12 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_white": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 19:02:05 +0000"
@@ -11032,6 +11080,12 @@
   "exdeorum:recipes/misc/dark_oak_barrel": {
     "criteria": {
       "has_item": "2025-01-02 19:13:53 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_gray": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
     },
     "done": true
   },
@@ -11095,6 +11149,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-01-02 19:49:16 +0000"
@@ -11149,6 +11209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/tools/netherite_watering_can": {
     "criteria": {
       "has_item": "2025-01-02 19:47:26 +0000"
@@ -11182,6 +11248,12 @@
   "croptopia:recipes/campfire_caramel": {
     "criteria": {
       "has_sugar": "2025-01-02 17:21:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
     },
     "done": true
   },
@@ -11294,9 +11366,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/safe": {
     "criteria": {
       "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2025-01-02 20:28:54 +0000"
     },
     "done": true
   },
@@ -11306,15 +11390,63 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_magenta": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2025-01-02 20:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-01-02 19:49:16 +0000"
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_light_gray": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 20:28:54 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/gold_chest": {
     "criteria": {
       "has_iron_chest": "2025-01-02 19:23:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2025-01-02 20:28:54 +0000"
     },
     "done": true
   },
@@ -11333,6 +11465,12 @@
   "dankstorage:recipes/tools/dank_1": {
     "criteria": {
       "has_barrel": "2025-01-02 20:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 20:24:50 +0000"
     },
     "done": true
   },
@@ -11378,9 +11516,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_needed_dye": "2025-01-02 19:49:16 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 20:24:50 +0000"
     },
     "done": true
   },
@@ -11405,6 +11561,12 @@
   "projecte:root": {
     "criteria": {
       "philstone_recipe": "2025-01-02 19:38:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
     },
     "done": true
   },
@@ -11444,9 +11606,21 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_brown": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 19:02:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
     },
     "done": true
   },
@@ -11498,6 +11672,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-02 20:28:54 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/leather_scrap": {
     "criteria": {
       "has_item": "2025-01-02 17:28:29 +0000"
@@ -11507,6 +11693,12 @@
   "buildinggadgets2:recipes/misc/gadget_destruction": {
     "criteria": {
       "has_ender_pearl": "2025-01-02 17:11:33 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/brush": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
     },
     "done": true
   },
@@ -11546,9 +11738,45 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_cyan": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-02 20:30:13 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_yellow": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_red": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
     },
     "done": true
   },
@@ -11570,6 +11798,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/mutton_to_chicken": {
+    "criteria": {
+      "has_mutton": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
@@ -11585,6 +11825,12 @@
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
     },
     "done": true
   },
@@ -11633,6 +11879,12 @@
   "forcecraft:recipes/transmutation/transmutation/diamond_from_shovel": {
     "criteria": {
       "has_tool": "2025-01-02 18:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-01-02 20:24:50 +0000"
     },
     "done": true
   },
@@ -11726,6 +11978,12 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_purple": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
@@ -11771,6 +12029,24 @@
   "croptopia:recipes/nougat": {
     "criteria": {
       "has_sugar": "2025-01-02 17:21:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_light_blue": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
     },
     "done": true
   },
@@ -11828,15 +12104,51 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_lime": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_blue": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/porkchop_to_mutton": {
+    "criteria": {
+      "has_porkchop": "2025-01-02 20:28:54 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 19:02:05 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 20:28:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-02 20:28:54 +0000"
     },
     "done": true
   },
@@ -11876,6 +12188,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/building_blocks/crafting/otherstone_slab": {
     "criteria": {
       "has_otherstone": "2025-01-02 17:56:27 +0000"
@@ -11906,6 +12224,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/mob_charm_fragments/spider": {
     "criteria": {
       "has_chelicerae": "2025-01-02 17:27:24 +0000"
@@ -11918,9 +12242,21 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/coating_smithing_template": {
+    "criteria": {
+      "has_item": "2025-01-02 20:30:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2025-01-02 17:26:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-01-02 20:24:50 +0000"
     },
     "done": true
   },
