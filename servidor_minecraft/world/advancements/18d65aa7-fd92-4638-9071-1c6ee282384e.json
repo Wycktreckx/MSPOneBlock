@@ -10836,6 +10836,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-01-02 18:41:07 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/hay_block_1x": {
     "criteria": {
       "has_hay_block": "2025-01-02 17:12:18 +0000"
@@ -10941,6 +10947,12 @@
   "forbidden_arcanus:recipes/building_blocks/clibano_core": {
     "criteria": {
       "has_blast_furnace": "2025-01-02 17:57:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2025-01-02 18:41:07 +0000"
     },
     "done": true
   },
@@ -11059,6 +11071,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-01-02 18:41:07 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-01-02 17:26:04 +0000"
@@ -11143,6 +11161,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2025-01-02 18:41:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-01-02 17:12:29 +0000"
@@ -11197,6 +11221,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2025-01-02 18:41:07 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2025-01-02 17:12:18 +0000"
@@ -11206,6 +11236,12 @@
   "croptopia:recipes/food/caramel_from_smoking_sugar": {
     "criteria": {
       "has_sugar": "2025-01-02 17:21:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2025-01-02 18:41:07 +0000"
     },
     "done": true
   },
@@ -11224,6 +11260,18 @@
   "occultism:recipes/misc/crafting/book_of_calling_foliot_cleaner": {
     "criteria": {
       "has_book_of_binding_bound_foliot": "2025-01-02 17:41:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-01-02 18:41:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-02 18:41:07 +0000"
     },
     "done": true
   },

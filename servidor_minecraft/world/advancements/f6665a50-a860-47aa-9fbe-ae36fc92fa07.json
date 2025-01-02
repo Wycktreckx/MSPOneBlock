@@ -6685,7 +6685,8 @@
       "rice": "2025-01-01 02:44:46 +0000",
       "chorus_flower": "2025-01-02 02:42:19 +0000",
       "sugar_cane": "2025-01-01 02:31:04 +0000",
-      "wheat": "2025-01-01 01:07:52 +0000"
+      "wheat": "2025-01-01 01:07:52 +0000",
+      "carrot": "2025-01-02 18:36:45 +0000"
     },
     "done": false
   },
@@ -10310,8 +10311,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-02 02:44:52 +0000",
+      "minecraft:zoglin": "2025-01-02 18:40:54 +0000",
       "minecraft:spider": "2025-01-02 02:44:50 +0000",
       "minecraft:creeper": "2025-01-02 02:04:35 +0000",
+      "minecraft:phantom": "2025-01-02 18:38:14 +0000",
       "minecraft:zombie": "2025-01-02 17:12:00 +0000"
     },
     "done": false
@@ -11622,6 +11625,12 @@
   "croptopia:recipes/egg_roll": {
     "criteria": {
       "has_egg": "2025-01-02 18:14:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 18:38:14 +0000"
     },
     "done": true
   },
