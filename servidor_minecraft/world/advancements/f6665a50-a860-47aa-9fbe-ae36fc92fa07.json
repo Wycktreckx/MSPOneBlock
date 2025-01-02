@@ -12034,6 +12034,12 @@
     },
     "done": true
   },
+  "occultism:occultism/possess_skeleton": {
+    "criteria": {
+      "possess_skeleton": "2025-01-02 20:40:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-02 20:04:30 +0000"
