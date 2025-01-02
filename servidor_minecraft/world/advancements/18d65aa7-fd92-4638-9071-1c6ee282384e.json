@@ -10891,6 +10891,12 @@
     },
     "done": true
   },
+  "exmachinis:recipes/misc/flux_hammer": {
+    "criteria": {
+      "has_diamond_hammer": "2025-01-02 19:32:06 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_upgrade": {
     "criteria": {
       "pearl": "2025-01-02 17:11:33 +0000"
@@ -11089,6 +11095,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/tools/compressed_diamond_hammer": {
+    "criteria": {
+      "has_item": "2025-01-02 19:32:06 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/cooked_chicken_to_beef": {
     "criteria": {
       "has_chicken": "2025-01-02 17:20:36 +0000"
@@ -11144,6 +11156,18 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/gold_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-01-02 19:23:54 +0000"
+    },
+    "done": true
+  },
+  "dankstorage:recipes/tools/dank_2": {
+    "criteria": {
+      "has_dank_1": "2025-01-02 19:25:03 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/lenses": {
     "criteria": {
       "has_spirit_attuned_gem": "2025-01-02 18:07:35 +0000"
@@ -11168,9 +11192,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/copper_shulker_from_copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2025-01-02 19:23:24 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/basic_to_gold_tier_upgrade": {
     "criteria": {
       "has_basic_to_iron_tier_upgrade": "2025-01-02 19:22:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_shulker_from_iron_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-01-02 19:23:54 +0000"
     },
     "done": true
   },
@@ -11285,6 +11321,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2025-01-02 17:26:08 +0000"
+    },
+    "done": true
+  },
+  "dankstorage:recipes/tools/1_to_2": {
+    "criteria": {
+      "has_dank_1": "2025-01-02 19:25:03 +0000"
     },
     "done": true
   },
@@ -11465,6 +11507,12 @@
   "occultism:recipes/misc/crafting/spirit_attuned_crystal": {
     "criteria": {
       "has_spirit_attuned_gem": "2025-01-02 18:07:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_chest_from_copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2025-01-02 19:23:24 +0000"
     },
     "done": true
   },
