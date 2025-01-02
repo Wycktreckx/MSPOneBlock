@@ -10963,6 +10963,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/dark_oak_barrel": {
+    "criteria": {
+      "has_item": "2025-01-02 19:13:53 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/building_blocks/crafting/otherstone_pedestal": {
     "criteria": {
       "has_otherstone": "2025-01-02 17:56:27 +0000"
@@ -10978,6 +10984,12 @@
   "forbidden_arcanus:recipes/building_blocks/clibano_core": {
     "criteria": {
       "has_blast_furnace": "2025-01-02 17:57:39 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/dark_oak_crucible": {
+    "criteria": {
+      "has_item": "2025-01-02 19:13:53 +0000"
     },
     "done": true
   },
@@ -11156,6 +11168,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/basic_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_iron_tier_upgrade": "2025-01-02 19:22:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-01-02 18:41:07 +0000"
@@ -11315,6 +11333,12 @@
   "occultism:recipes/misc/crafting/book_of_calling_foliot_transport_items": {
     "criteria": {
       "has_book_of_binding_bound_foliot": "2025-01-02 17:41:51 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/silent_dark_oak_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 19:15:32 +0000"
     },
     "done": true
   },
