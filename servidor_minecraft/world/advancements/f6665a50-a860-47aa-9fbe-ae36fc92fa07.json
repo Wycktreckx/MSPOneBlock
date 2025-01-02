@@ -8085,6 +8085,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_axe": {
+    "criteria": {
+      "has_tool": "2025-01-02 00:40:07 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_fire/spirit_fire/purified_ink": {
     "criteria": {
       "has_black_dye": "2025-01-02 00:33:36 +0000"
