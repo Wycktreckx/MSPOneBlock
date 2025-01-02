@@ -8067,6 +8067,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/silver]": "2025-01-02 02:03:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-02 01:14:38 +0000"
@@ -8136,6 +8142,12 @@
   "alltheores:recipes/misc/aluminum_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-02 01:57:57 +0000"
     },
     "done": true
   },
@@ -8316,6 +8328,12 @@
   "ae2:recipes/misc/network/cables/glass_black": {
     "criteria": {
       "has_dyes/black": "2025-01-02 00:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-01-02 02:03:21 +0000"
     },
     "done": true
   },
@@ -8511,6 +8529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-02 01:57:57 +0000"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/misc/yellow_shield_template_block": {
     "criteria": {
       "glass": "2025-01-02 01:27:20 +0000"
@@ -8565,6 +8589,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/silver_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-01-02 02:03:21 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_blue": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
@@ -8574,6 +8604,12 @@
   "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-02 01:14:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-01-02 01:56:10 +0000"
     },
     "done": true
   },
@@ -8664,6 +8700,12 @@
   "xycraft_world:recipes/building_blocks/stonecutting/kivi_tiles": {
     "criteria": {
       "has_for_kivi_tiles": "2025-01-02 01:31:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-02 02:02:31 +0000"
     },
     "done": true
   },
@@ -8961,6 +9003,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/silver_dust": {
+    "criteria": {
+      "has_silver": "2025-01-02 02:03:19 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/chalk_gold_impure": {
     "criteria": {
       "has_chalk_white": "2025-01-02 01:47:17 +0000"
@@ -9021,6 +9069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-02 01:57:57 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/one_way_glass": {
     "criteria": {
       "has_wood": "2025-01-02 00:33:36 +0000"
@@ -9060,6 +9114,12 @@
   "occultism:recipes/crushing/crushing/nickel_dust": {
     "criteria": {
       "has_nickel": "2025-01-02 01:27:10 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/silver_dust_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-01-02 02:03:21 +0000"
     },
     "done": true
   },
@@ -9159,6 +9219,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/silver_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-01-02 02:03:19 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-01-02 00:50:17 +0000"
@@ -9180,6 +9246,12 @@
   "occultism:recipes/crushing/crushing/aluminum_dust_from_ingot": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/golden_sacrificial_bowl": {
+    "criteria": {
+      "has_sacrificial_bowl": "2025-01-02 01:56:30 +0000"
     },
     "done": true
   },
@@ -9237,9 +9309,21 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-01-02 02:03:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-01-02 01:15:09 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/silver_ingot": {
+    "criteria": {
+      "has_silver_ore": "2025-01-02 02:03:19 +0000"
     },
     "done": true
   },
@@ -9291,6 +9375,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/silver_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-01-02 02:03:19 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/raw_aluminum_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/aluminum]": "2025-01-02 01:20:31 +0000"
@@ -9312,6 +9402,12 @@
   "forcecraft:recipes/building_blocks/force_brick_black": {
     "criteria": {
       "has_black_dye": "2025-01-02 00:33:36 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-01-02 02:03:21 +0000"
     },
     "done": true
   },
@@ -9372,6 +9468,18 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-01-02 01:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-02 01:57:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-01-02 02:03:21 +0000"
     },
     "done": true
   },
@@ -10110,6 +10218,12 @@
   "occultism:recipes/building_blocks/crafting/otherstone_slab": {
     "criteria": {
       "has_otherstone": "2025-01-02 01:14:53 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/silver_ingot": {
+    "criteria": {
+      "has_silver_ore": "2025-01-02 02:03:19 +0000"
     },
     "done": true
   },

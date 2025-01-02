@@ -9057,6 +9057,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-01-02 01:56:16 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/end_stone_dust": {
     "criteria": {
       "has_end_stone": "2025-01-02 01:53:05 +0000"
@@ -9228,6 +9234,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-01-02 02:00:06 +0000"
     },
     "done": true
   },
@@ -10032,6 +10044,12 @@
   "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
     "criteria": {
       "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shapeless/balloon_on_a_stick": {
+    "criteria": {
+      "has_lead": "2025-01-02 01:56:11 +0000"
     },
     "done": true
   },
