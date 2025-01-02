@@ -8889,6 +8889,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/blaze_powder_from_rod": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-02 01:15:17 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/spruce_logs_to_stairs": {
     "criteria": {
       "has_log": "2025-01-02 00:43:21 +0000"
@@ -9447,6 +9453,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-01-02 01:15:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2025-01-02 01:04:23 +0000"
@@ -9456,6 +9468,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-02 01:15:17 +0000"
     },
     "done": true
   },
@@ -9801,6 +9819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-02 01:15:17 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-02 00:43:21 +0000"
@@ -10005,6 +10029,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2025-01-02 01:15:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-01-02 00:24:53 +0000"
@@ -10122,6 +10152,12 @@
   "rftoolspower:recipes/rftoolspower/powercell_card": {
     "criteria": {
       "paper": "2025-01-02 00:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-02 01:15:17 +0000"
     },
     "done": true
   },
