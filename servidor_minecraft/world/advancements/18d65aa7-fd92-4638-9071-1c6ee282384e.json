@@ -10830,6 +10830,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-02 18:30:18 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/hay_block_1x": {
     "criteria": {
       "has_hay_block": "2025-01-02 17:12:18 +0000"
@@ -10839,6 +10845,12 @@
   "pylons:recipes/misc/harvester_pylon": {
     "criteria": {
       "has_hay_block": "2025-01-02 17:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-02 18:30:18 +0000"
     },
     "done": true
   },
@@ -10902,6 +10914,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_dark_oak_sign": "2025-01-02 18:26:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-01-02 17:57:28 +0000"
@@ -10929,6 +10947,12 @@
   "supplementaries:recipes/sugar_cube": {
     "criteria": {
       "has_sugar": "2025-01-02 17:21:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-02 18:30:18 +0000"
     },
     "done": true
   },

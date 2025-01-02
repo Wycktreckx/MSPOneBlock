@@ -2720,3 +2720,4 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
   "[-31, -116, 36, 34, -4, 107, 59, 49, 67, 22, -23]"
 ]
 [02Jan2025 18:20:48.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [The Parrots and the Bats]
+[02Jan2025 18:33:34.611] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PossessedHoglinEntity['Hafarkmorn'/8642, l='ServerLevel[world]', x=4140.32, y=67.14, z=-8.31] died: Hafarkmorn was slain by YeferJV using    [Captive Dreams]

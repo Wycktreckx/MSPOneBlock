@@ -10970,6 +10970,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-02 18:26:50 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/sinew_fiber": {
     "criteria": {
       "has_item": "2025-01-02 17:30:59 +0000"
@@ -11015,6 +11021,12 @@
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 17:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-02 18:26:50 +0000"
     },
     "done": true
   },
@@ -11066,6 +11078,12 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/chalk_purple": {
+    "criteria": {
+      "has_chalk_purple_impure": "2025-01-02 18:23:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 17:22:47 +0000"
@@ -11111,6 +11129,12 @@
   "croptopia:recipes/misc/meringue": {
     "criteria": {
       "has_egg": "2025-01-02 18:14:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-02 18:26:50 +0000"
     },
     "done": true
   },
@@ -11206,6 +11230,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2025-01-02 18:30:17 +0000",
       "minecraft:chicken": "2025-01-02 17:34:52 +0000"
     },
     "done": false
