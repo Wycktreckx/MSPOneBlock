@@ -8361,6 +8361,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/misc/compacting/aluminum_nugget": {
+    "criteria": {
+      "has_aluminum_nugget": "2025-01-02 01:34:36 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks": {
     "criteria": {
       "has_aluminum": "2025-01-02 01:21:29 +0000"
@@ -9393,6 +9399,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/aluminum_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:nuggets/aluminum]_nugget": "2025-01-02 01:34:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 00:32:04 +0000"
@@ -9687,6 +9699,12 @@
     },
     "done": true
   },
+  "xycraft_machines:recipes/misc/shaped/valve": {
+    "criteria": {
+      "has_fluid_port": "2025-01-02 01:34:40 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-01-02 01:21:29 +0000"
@@ -9708,6 +9726,12 @@
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_red_r": {
     "criteria": {
       "has_ingots/aluminum": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/void_container": {
+    "criteria": {
+      "has_aluminum_nugget": "2025-01-02 01:34:36 +0000"
     },
     "done": true
   },
