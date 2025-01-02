@@ -8697,6 +8697,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_boots": {
+    "criteria": {
+      "has_armor": "2025-01-02 02:16:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-02 01:27:20 +0000"
@@ -9441,6 +9447,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-01-02 02:16:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-01-02 01:27:20 +0000"
@@ -10089,6 +10101,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_chestplate": {
+    "criteria": {
+      "has_armor": "2025-01-02 02:16:50 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting_raw_gold": {
     "criteria": {
       "has_item": "2025-01-02 00:31:00 +0000"
@@ -10224,6 +10242,12 @@
   "xycraft_machines:recipes/misc/shaped/valve": {
     "criteria": {
       "has_fluid_port": "2025-01-02 01:34:40 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_leggings": {
+    "criteria": {
+      "has_armor": "2025-01-02 02:16:53 +0000"
     },
     "done": true
   },
@@ -10404,6 +10428,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-01-02 01:14:38 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_helmet": {
+    "criteria": {
+      "has_armor": "2025-01-02 02:16:54 +0000"
     },
     "done": true
   },

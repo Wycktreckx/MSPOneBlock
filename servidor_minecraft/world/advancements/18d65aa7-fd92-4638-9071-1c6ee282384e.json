@@ -8787,6 +8787,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-01-02 00:49:16 +0000"
@@ -8889,6 +8895,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-01-02 00:35:22 +0000"
@@ -8955,6 +8967,12 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/purified_ink": {
+    "criteria": {
+      "has_black_dye": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-02 00:46:55 +0000"
@@ -8964,6 +8982,12 @@
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2025-01-02 00:59:39 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/obsidian_skull": {
+    "criteria": {
+      "has_obsidian": "2025-01-02 02:23:43 +0000"
     },
     "done": true
   },
@@ -9012,6 +9036,12 @@
   "exmachinis:recipes/misc/comparator_upgrade": {
     "criteria": {
       "has_comparator": "2025-01-02 00:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-01-02 02:21:44 +0000"
     },
     "done": true
   },
@@ -9153,6 +9183,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_boots": {
+    "criteria": {
+      "has_armor": "2025-01-02 02:18:26 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-02 00:46:55 +0000"
@@ -9243,9 +9279,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/obsidian_1x": {
+    "criteria": {
+      "has_obsidian": "2025-01-02 02:23:43 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
+    "criteria": {
+      "has_shear": "2025-01-02 02:22:54 +0000"
     },
     "done": true
   },
@@ -9441,6 +9495,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-01-02 00:53:13 +0000"
@@ -9450,6 +9510,12 @@
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-01-02 00:33:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 02:21:44 +0000"
     },
     "done": true
   },
@@ -9495,6 +9561,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/black_paper": {
     "criteria": {
       "has_ingredient": "2025-01-02 00:53:13 +0000"
@@ -9522,6 +9594,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-01-02 02:07:40 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/one_way_glass": {
+    "criteria": {
+      "has_wood": "2025-01-02 02:21:44 +0000"
     },
     "done": true
   },
@@ -9555,6 +9633,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 01:00:55 +0000"
@@ -9567,9 +9651,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-02 02:23:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-01-02 02:21:44 +0000"
     },
     "done": true
   },
@@ -9621,9 +9717,21 @@
     },
     "done": true
   },
+  "integrateddynamics:meneglin_basics/menril_production": {
+    "criteria": {
+      "criteria_0": "2025-01-02 02:22:28 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/dark_oak_sieve": {
     "criteria": {
       "has_item": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/drying": {
+    "criteria": {
+      "criteria_0": "2025-01-02 02:22:02 +0000"
     },
     "done": true
   },
@@ -9747,6 +9855,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/brown_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-01-02 02:12:39 +0000"
@@ -9786,6 +9900,12 @@
   "mcwbridges:recipes/dark_oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_black": {
+    "criteria": {
+      "has_black_dye": "2025-01-02 02:21:44 +0000"
     },
     "done": true
   },
@@ -9855,9 +9975,27 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_dark_membrane": {
     "criteria": {
       "has_chorus": "2025-01-02 00:52:11 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 02:21:44 +0000"
     },
     "done": true
   },
@@ -9963,6 +10101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-01-02 02:21:19 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/blueprint_components": {
     "criteria": {
       "has_paper": "2025-01-02 00:53:13 +0000"
@@ -10047,6 +10191,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/black_force_furnace_from_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 00:49:16 +0000"
@@ -10056,6 +10206,12 @@
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-01-02 00:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-02 02:21:44 +0000"
     },
     "done": true
   },
@@ -10089,6 +10245,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_black_dye": {
+    "criteria": {
+      "forge:dyes/black": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/datura": {
     "criteria": {
       "has_datura": "2025-01-02 02:05:35 +0000"
@@ -10098,6 +10260,12 @@
   "mcwbridges:recipes/spruce_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 02:21:44 +0000"
     },
     "done": true
   },
@@ -10155,6 +10323,18 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_chestplate": {
+    "criteria": {
+      "has_armor": "2025-01-02 02:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/rice": {
     "criteria": {
       "has_rice_panicle": "2025-01-02 00:16:20 +0000"
@@ -10164,6 +10344,12 @@
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_gray_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
+  "sfm:recipes/redstone/labelgun": {
+    "criteria": {
+      "has_ink": "2025-01-02 02:21:44 +0000"
     },
     "done": true
   },
@@ -10203,6 +10389,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-02 02:23:43 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candy": {
     "criteria": {
       "has_paper": "2025-01-02 00:53:13 +0000"
@@ -10224,6 +10416,12 @@
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-02 02:21:44 +0000"
     },
     "done": true
   },
@@ -10254,6 +10452,12 @@
   "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
     "criteria": {
       "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_leggings": {
+    "criteria": {
+      "has_armor": "2025-01-02 02:18:26 +0000"
     },
     "done": true
   },
@@ -10344,6 +10548,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-01-02 00:40:18 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_black_torch": {
+    "criteria": {
+      "has_dye": "2025-01-02 02:21:44 +0000"
     },
     "done": true
   },
@@ -10485,6 +10695,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/obsidian_dust": {
+    "criteria": {
+      "has_obsidian": "2025-01-02 02:23:43 +0000"
+    },
+    "done": true
+  },
   "rftoolspower:recipes/rftoolspower/power_core1": {
     "criteria": {
       "core": "2025-01-02 00:59:22 +0000"
@@ -10506,6 +10722,12 @@
   "forbidden_arcanus:recipes/misc/clibano_combustion/netherite_scrap_from_clibano_combusting": {
     "criteria": {
       "has_item": "2025-01-02 00:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-02 02:21:44 +0000"
     },
     "done": true
   },
