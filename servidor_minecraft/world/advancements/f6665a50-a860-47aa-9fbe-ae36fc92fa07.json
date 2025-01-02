@@ -10958,6 +10958,12 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/chalk_white": {
+    "criteria": {
+      "has_chalk_white_impure": "2025-01-02 17:57:47 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/sinew_fiber": {
     "criteria": {
       "has_item": "2025-01-02 17:30:59 +0000"
@@ -11375,6 +11381,12 @@
   "forcecraft:recipes/transmutation/transmutation/mutton_to_chicken": {
     "criteria": {
       "has_mutton": "2025-01-02 17:30:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/summon_foliot_crusher": {
+    "criteria": {
+      "summon_foliot_crusher": "2025-01-02 18:00:26 +0000"
     },
     "done": true
   },
