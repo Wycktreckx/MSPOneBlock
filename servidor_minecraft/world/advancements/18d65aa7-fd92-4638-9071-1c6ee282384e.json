@@ -8709,9 +8709,21 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/dandelion_to_poppy": {
+    "criteria": {
+      "has_dandelion": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-01-02 00:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-02 02:04:09 +0000"
     },
     "done": true
   },
@@ -8736,6 +8748,12 @@
   "botania:recipes/redstone/red_string_comparator": {
     "criteria": {
       "has_base_block": "2025-01-02 00:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-02 02:07:40 +0000"
     },
     "done": true
   },
@@ -8823,6 +8841,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/lime_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/blueprint_paper": {
     "criteria": {
       "has_paper": "2025-01-02 00:53:13 +0000"
@@ -8847,6 +8871,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/yellow_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 01:00:55 +0000"
@@ -8862,6 +8892,12 @@
   "alltheores:recipes/misc/aluminum_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-01-02 00:35:22 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/purple_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
     },
     "done": true
   },
@@ -8937,6 +8973,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/red_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-02 00:46:55 +0000"
@@ -8979,6 +9021,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-01-02 00:43:21 +0000"
@@ -8997,15 +9045,33 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/tps_meter": {
     "criteria": {
       "has_comparator": "2025-01-02 00:59:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-02 02:07:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/zinc_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-01-02 00:35:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/orange_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
     },
     "done": true
   },
@@ -9069,6 +9135,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/upgrade_tome": {
+    "criteria": {
+      "has_book": "2025-01-02 02:04:09 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_blackstone_bridge": {
     "criteria": {
       "has_planks": "2025-01-02 00:49:16 +0000"
@@ -9111,6 +9183,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-02 02:04:09 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/spruce_compressed_sieve": {
     "criteria": {
       "has_item": "2025-01-02 00:43:21 +0000"
@@ -9129,9 +9207,21 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/green_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
     },
     "done": true
   },
@@ -9183,6 +9273,12 @@
     },
     "done": true
   },
+  "rftoolsbase:recipes/rftoolsbase/manual": {
+    "criteria": {
+      "book": "2025-01-02 02:04:09 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/paper_from_tag_filter": {
     "criteria": {
       "has_paper": "2025-01-02 00:53:13 +0000"
@@ -9231,6 +9327,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/building_blocks/integrateddynamics/sign_post_menril": {
+    "criteria": {
+      "has_planks": "2025-01-02 02:12:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-01-02 01:04:23 +0000"
@@ -9267,6 +9369,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/force_and_you": {
+    "criteria": {
+      "has_book": "2025-01-02 02:04:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 00:49:16 +0000"
@@ -9276,6 +9384,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/decorations/crafting/spirit_torch": {
+    "criteria": {
+      "has_datura": "2025-01-02 02:05:35 +0000"
     },
     "done": true
   },
@@ -9294,6 +9408,12 @@
   "forcecraft:recipes/food/fortune_cookie": {
     "criteria": {
       "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/pink_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
     },
     "done": true
   },
@@ -9399,6 +9519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-02 02:07:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-01-02 00:49:16 +0000"
@@ -9486,6 +9612,12 @@
   "allthecompressed:recipes/building_blocks/compress/dark_oak_log_1x": {
     "criteria": {
       "has_dark_oak_log": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/magenta_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
     },
     "done": true
   },
@@ -9579,6 +9711,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/spirit_campfire": {
+    "criteria": {
+      "has_datura": "2025-01-02 02:05:35 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_2": {
     "criteria": {
       "has_dark_oak_plank": "2025-01-02 01:04:23 +0000"
@@ -9606,6 +9744,18 @@
   "allthecompressed:recipes/building_blocks/compress/dark_oak_planks_1x": {
     "criteria": {
       "has_dark_oak_planks": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/brown_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/cyan_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
     },
     "done": true
   },
@@ -9639,6 +9789,12 @@
     },
     "done": true
   },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_fruit": {
+    "criteria": {
+      "has_datura": "2025-01-02 02:05:35 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/dark_oak_chest": {
     "criteria": {
       "has_dark_oak_plank": "2025-01-02 01:04:23 +0000"
@@ -9657,6 +9813,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/white_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/crafting_card": {
     "criteria": {
       "crafter": "2025-01-02 01:01:00 +0000"
@@ -9666,6 +9828,18 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-01-02 01:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-02 02:07:40 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/manual": {
+    "criteria": {
+      "has_book": "2025-01-02 02:04:09 +0000"
     },
     "done": true
   },
@@ -9696,6 +9870,12 @@
   "utilitarian:recipes/misc/utility/spruce_logs_to_pressure_plates": {
     "criteria": {
       "has_log": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-02 02:04:09 +0000"
     },
     "done": true
   },
@@ -9765,9 +9945,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-02 02:04:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-02 02:12:39 +0000"
     },
     "done": true
   },
@@ -9897,6 +10089,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/datura": {
+    "criteria": {
+      "has_datura": "2025-01-02 02:05:35 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-02 00:43:21 +0000"
@@ -9963,6 +10161,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 01:00:55 +0000"
@@ -10002,6 +10206,12 @@
   "supplementaries:recipes/candy": {
     "criteria": {
       "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/meneglin_discovery": {
+    "criteria": {
+      "criteria_0": "2025-01-02 02:12:43 +0000"
     },
     "done": true
   },
@@ -10179,6 +10389,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 00:49:16 +0000"
@@ -10215,6 +10431,12 @@
     },
     "done": true
   },
+  "enderio:recipes/misc/enchanter": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 02:04:09 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/diamond_from_helmet": {
     "criteria": {
       "has_armor": "2025-01-02 00:40:07 +0000"
@@ -10230,6 +10452,12 @@
   "rftoolspower:recipes/rftoolspower/powercell_card": {
     "criteria": {
       "paper": "2025-01-02 00:59:22 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/taboo_book": {
+    "criteria": {
+      "has_book": "2025-01-02 02:04:09 +0000"
     },
     "done": true
   },

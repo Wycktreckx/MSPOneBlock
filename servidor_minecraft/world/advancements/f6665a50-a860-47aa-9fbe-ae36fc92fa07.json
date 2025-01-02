@@ -8115,6 +8115,24 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_white": {
+    "criteria": {
+      "has_dyes/black": "2025-01-02 02:08:41 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_white": {
+    "criteria": {
+      "has_white_dye": "2025-01-02 02:08:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
+    "criteria": {
+      "forge:dyes/white": "2025-01-02 02:08:41 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/nickel_dust_from_raw": {
     "criteria": {
       "has_raw_nickel": "2025-01-02 01:27:13 +0000"
@@ -8199,6 +8217,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 02:08:41 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/plate_nickel_hammering": {
     "criteria": {
       "has_nickel_ingot": "2025-01-02 01:27:55 +0000"
@@ -8214,6 +8238,12 @@
   "utilitarian:recipes/misc/utility/gold_block_from_smelting": {
     "criteria": {
       "has_raw_gold": "2025-01-02 00:31:00 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_binding_foliot": {
+    "criteria": {
+      "has_taboo_book": "2025-01-02 02:08:08 +0000"
     },
     "done": true
   },
@@ -8238,6 +8268,12 @@
   "bloodmagic:recipes/misc/sacrificial_dagger": {
     "criteria": {
       "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 02:08:41 +0000"
     },
     "done": true
   },
@@ -8457,6 +8493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-02 02:08:41 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/alu_wallmount": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
@@ -8472,6 +8514,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2025-01-02 00:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_binding_djinni": {
+    "criteria": {
+      "has_taboo_book": "2025-01-02 02:08:08 +0000"
     },
     "done": true
   },
@@ -8523,9 +8571,21 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 02:08:41 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_light": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_white_torch": {
+    "criteria": {
+      "has_dye": "2025-01-02 02:08:41 +0000"
     },
     "done": true
   },
@@ -8544,6 +8604,12 @@
   "rftoolsbuilder:recipes/misc/green_shield_template_block": {
     "criteria": {
       "glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/white_force_furnace_from_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-02 02:08:41 +0000"
     },
     "done": true
   },
@@ -8691,6 +8757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-02 02:08:41 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/glass_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-02 01:27:20 +0000"
@@ -8784,6 +8856,12 @@
   "occultism:recipes/misc/crafting/otherstone_frame": {
     "criteria": {
       "has_otherstone": "2025-01-02 01:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-02 02:08:41 +0000"
     },
     "done": true
   },
@@ -8949,6 +9027,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/book_of_binding_afrit": {
+    "criteria": {
+      "has_taboo_book": "2025-01-02 02:08:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/paper_from_tree_bark": {
     "criteria": {
       "has_tree_bark": "2025-01-02 00:19:18 +0000"
@@ -8970,6 +9054,12 @@
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_green": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-01-02 02:08:41 +0000"
     },
     "done": true
   },
@@ -9024,6 +9114,12 @@
   "occultism:recipes/misc/crafting/lenses": {
     "criteria": {
       "has_spirit_attuned_gem": "2025-01-02 01:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-01-02 02:08:41 +0000"
     },
     "done": true
   },
@@ -9111,6 +9207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-02 02:08:41 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/nickel_dust": {
     "criteria": {
       "has_nickel": "2025-01-02 01:27:10 +0000"
@@ -9138,6 +9240,12 @@
   "alltheores:recipes/misc/nickel_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-01-02 01:27:55 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_binding_empty": {
+    "criteria": {
+      "has_taboo_book": "2025-01-02 02:08:08 +0000"
     },
     "done": true
   },
@@ -9345,6 +9453,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 02:08:41 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_sword": {
     "criteria": {
       "has_tool": "2025-01-02 00:58:35 +0000"
@@ -9384,6 +9498,12 @@
   "alltheores:recipes/misc/raw_aluminum_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/aluminum]": "2025-01-02 01:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-02 02:08:41 +0000"
     },
     "done": true
   },
@@ -9651,6 +9771,18 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/tinted_borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 02:08:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 02:08:41 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/aluminum_dust_from_raw": {
     "criteria": {
       "has_raw_aluminum": "2025-01-02 01:20:31 +0000"
@@ -9705,6 +9837,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_white": {
+    "criteria": {
+      "has_dyes/black": "2025-01-02 02:08:41 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/misc/black_force_furnace_from_dye": {
     "criteria": {
       "has_black_dye": "2025-01-02 00:33:36 +0000"
@@ -9732,6 +9870,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 00:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2025-01-02 02:04:35 +0000"
     },
     "done": true
   },
@@ -9891,6 +10035,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2025-01-02 02:04:35 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/blackstone_lamp": {
     "criteria": {
       "has_blackstone": "2025-01-02 00:32:04 +0000"
@@ -10047,9 +10197,21 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/book_of_binding_marid": {
+    "criteria": {
+      "has_taboo_book": "2025-01-02 02:08:08 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_ten_from_inv": {
     "criteria": {
       "has_ingredient": "2025-01-02 01:49:01 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 02:08:41 +0000"
     },
     "done": true
   },
@@ -10068,6 +10230,12 @@
   "alltheores:recipes/misc/aluminum_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_white": {
+    "criteria": {
+      "has_dyes/black": "2025-01-02 02:08:41 +0000"
     },
     "done": true
   },
@@ -10134,6 +10302,12 @@
   "xycraft_world:recipes/building_blocks/shaped/aurey_matte": {
     "criteria": {
       "has_aluminum": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_white": {
+    "criteria": {
+      "has_dyes/black": "2025-01-02 02:08:41 +0000"
     },
     "done": true
   },
@@ -10233,6 +10407,12 @@
     },
     "done": true
   },
+  "rftoolspower:recipes/rftoolspower/powercell_card": {
+    "criteria": {
+      "paper": "2025-01-02 02:07:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-01-02 01:15:09 +0000"
@@ -10296,6 +10476,12 @@
   "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/compressed_iron_hammer": {
+    "criteria": {
+      "has_item": "2025-01-02 02:13:52 +0000"
     },
     "done": true
   },
