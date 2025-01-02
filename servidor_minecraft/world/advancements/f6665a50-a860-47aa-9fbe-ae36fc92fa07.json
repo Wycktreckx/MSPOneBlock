@@ -8211,9 +8211,21 @@
     },
     "done": true
   },
+  "occultism:recipes/tools/crafting/divination_rod": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-01-02 01:13:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 00:32:04 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/decorations/crafting/spirit_torch": {
+    "criteria": {
+      "has_datura": "2025-01-02 01:10:11 +0000"
     },
     "done": true
   },
@@ -8250,6 +8262,12 @@
   "connectedglass:recipes/misc/borderless_glass_black_pane2": {
     "criteria": {
       "recipe_condition2": "2025-01-02 00:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/lenses": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-01-02 01:13:23 +0000"
     },
     "done": true
   },
@@ -8319,6 +8337,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/spirit_campfire": {
+    "criteria": {
+      "has_datura": "2025-01-02 01:10:11 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_black_pane2": {
     "criteria": {
       "recipe_condition2": "2025-01-02 00:33:36 +0000"
@@ -8328,6 +8352,12 @@
   "forcecraft:recipes/building_blocks/force_brick_black": {
     "criteria": {
       "has_black_dye": "2025-01-02 00:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_fruit": {
+    "criteria": {
+      "has_datura": "2025-01-02 01:10:11 +0000"
     },
     "done": true
   },
@@ -8355,6 +8385,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-02 01:11:26 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/spirit_attuned_pickaxe_head": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-01-02 01:13:23 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/misc/black_force_furnace_from_dye": {
     "criteria": {
       "has_black_dye": "2025-01-02 00:33:36 +0000"
@@ -8376,6 +8418,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_black_dye": {
     "criteria": {
       "forge:dyes/black": "2025-01-02 00:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/datura": {
+    "criteria": {
+      "has_datura": "2025-01-02 01:10:11 +0000"
     },
     "done": true
   },
@@ -8463,6 +8511,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/netherrack_1x": {
+    "criteria": {
+      "has_netherrack": "2025-01-02 01:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-01-02 00:24:16 +0000"
@@ -8484,6 +8538,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 00:32:04 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/spirit_attuned_crystal": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-01-02 01:13:23 +0000"
     },
     "done": true
   },
