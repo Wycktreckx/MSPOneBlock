@@ -11390,6 +11390,12 @@
     },
     "done": true
   },
+  "occultism:recipes/decorations/crafting/candle": {
+    "criteria": {
+      "has_tallow": "2025-01-02 17:45:51 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/beetroot_salad": {
     "criteria": {
       "has_beetroot": "2025-01-02 17:27:58 +0000"

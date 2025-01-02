@@ -7656,6 +7656,7 @@
     "criteria": {
       "minecraft:spider": "2025-01-02 17:12:27 +0000",
       "minecraft:phantom": "2025-01-02 00:51:37 +0000",
+      "minecraft:wither_skeleton": "2025-01-02 17:43:15 +0000",
       "minecraft:zombie": "2025-01-01 01:52:48 +0000",
       "minecraft:zombie_villager": "2025-01-02 17:28:28 +0000"
     },
