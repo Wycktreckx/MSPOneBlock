@@ -10969,6 +10969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:33:36 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_fire/spirit_fire/chalk_white": {
     "criteria": {
       "has_chalk_white_impure": "2025-01-02 17:57:47 +0000"
@@ -10990,6 +10996,12 @@
   "minecraft:recipes/building_blocks/dye_magenta_carpet": {
     "criteria": {
       "has_needed_dye": "2025-01-02 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick": {
+    "criteria": {
+      "has_force_gem": "2025-01-02 19:37:55 +0000"
     },
     "done": true
   },
@@ -11035,6 +11047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:33:36 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/gold_nugget": {
     "criteria": {
       "has_zombie_heart": "2025-01-02 17:12:03 +0000"
@@ -11044,6 +11062,12 @@
   "immersiveengineering:recipes/misc/crafting/shield": {
     "criteria": {
       "has_shield": "2025-01-02 17:14:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:33:36 +0000"
     },
     "done": true
   },
@@ -11095,6 +11119,12 @@
     },
     "done": true
   },
+  "exmachinis:recipes/misc/netherite_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:33:36 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_covered_purple": {
     "criteria": {
       "has_dyes/black": "2025-01-02 18:13:57 +0000"
@@ -11110,6 +11140,12 @@
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 17:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:33:36 +0000"
     },
     "done": true
   },
@@ -11167,6 +11203,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/dead_bush": {
+    "criteria": {
+      "has_salts": "2025-01-02 19:37:55 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 17:22:47 +0000"
@@ -11191,6 +11233,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/netherite_mesh": {
+    "criteria": {
+      "has_item": "2025-01-02 19:33:36 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-01-02 17:22:34 +0000"
@@ -11200,6 +11248,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-01-02 17:30:57 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/netherite_watering_can": {
+    "criteria": {
+      "has_item": "2025-01-02 19:33:36 +0000"
     },
     "done": true
   },
@@ -11258,6 +11312,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:33:36 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_glowing_membrane": {
     "criteria": {
       "has_chorus": "2025-01-02 19:10:59 +0000"
@@ -11303,6 +11363,12 @@
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 17:22:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:33:36 +0000"
     },
     "done": true
   },
@@ -11372,6 +11438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/gauntlet_perfected_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:33:36 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/misc/purple_force_furnace_from_dye": {
     "criteria": {
       "has_purple_dye": "2025-01-02 18:13:57 +0000"
@@ -11411,6 +11483,18 @@
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 17:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:33:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheese": {
+    "criteria": {
+      "has_salt": "2025-01-02 19:37:55 +0000"
     },
     "done": true
   },
@@ -11576,6 +11660,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/tools/netherite_hammer": {
+    "criteria": {
+      "has_item": "2025-01-02 19:33:36 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 17:22:47 +0000"
@@ -11597,6 +11687,12 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-01-02 17:23:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:33:36 +0000"
     },
     "done": true
   },
@@ -11648,9 +11744,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/netherite_dust_from_ingot": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:33:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-01-02 18:11:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/crema": {
+    "criteria": {
+      "has_salt": "2025-01-02 19:37:55 +0000"
     },
     "done": true
   },
@@ -11663,6 +11777,12 @@
   "forcecraft:recipes/building_blocks/force_brick_magenta": {
     "criteria": {
       "has_magenta_dye": "2025-01-02 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:33:36 +0000"
     },
     "done": true
   },
@@ -11708,6 +11828,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/butter": {
+    "criteria": {
+      "has_salt": "2025-01-02 19:37:55 +0000"
+    },
+    "done": true
+  },
+  "functionalstorage:recipes/misc/netherite_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:33:36 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/beetroot_salad": {
     "criteria": {
       "has_beetroot": "2025-01-02 17:27:58 +0000"
@@ -11738,6 +11870,12 @@
     },
     "done": true
   },
+  "rsinfinitybooster:recipes/misc/infinity_card": {
+    "criteria": {
+      "has_item": "2025-01-02 19:33:36 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_beef_stew": {
     "criteria": {
       "has_beef": "2025-01-02 17:30:52 +0000"
@@ -11765,6 +11903,12 @@
   "forcecraft:recipes/building_blocks/force_brick_purple": {
     "criteria": {
       "has_purple_dye": "2025-01-02 18:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:33:36 +0000"
     },
     "done": true
   },
@@ -11864,6 +12008,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:33:36 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/porkchop_to_mutton": {
     "criteria": {
       "has_porkchop": "2025-01-02 17:30:59 +0000"
@@ -11873,6 +12023,12 @@
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-01-02 17:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:33:36 +0000"
     },
     "done": true
   },
