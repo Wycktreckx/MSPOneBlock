@@ -10992,9 +10992,27 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/gold_block_1x": {
+    "criteria": {
+      "has_gold_block": "2025-01-02 18:10:58 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare_gem": {
     "criteria": {
       "gem": "2025-01-02 17:28:21 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/tools/crafting/divination_rod": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-01-02 18:07:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/lenses": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-01-02 18:07:35 +0000"
     },
     "done": true
   },
@@ -11076,6 +11094,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/spirit_attuned_pickaxe_head": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-01-02 18:07:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "has_sugar": "2025-01-02 17:21:22 +0000"
@@ -11103,6 +11127,12 @@
   "occultism:recipes/misc/smelting/burnt_otherstone": {
     "criteria": {
       "has_otherstone": "2025-01-02 17:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-02 18:10:58 +0000"
     },
     "done": true
   },
@@ -11163,6 +11193,12 @@
   "occultism:recipes/misc/crafting/book_of_calling_foliot_lumberjack": {
     "criteria": {
       "has_book_of_binding_bound_foliot": "2025-01-02 17:41:51 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/spirit_attuned_crystal": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-01-02 18:07:35 +0000"
     },
     "done": true
   },
