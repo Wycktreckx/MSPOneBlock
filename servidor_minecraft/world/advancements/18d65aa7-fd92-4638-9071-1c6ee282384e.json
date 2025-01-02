@@ -8667,141 +8667,39 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/spruce": {
-    "criteria": {
-      "has_planks": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
-    "criteria": {
-      "has_item": "2025-01-02 00:35:19 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/print_cottage": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/blueprint_bannerpatterns": {
-    "criteria": {
-      "has_paper": "2025-01-02 00:53:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2025-01-02 00:33:41 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/dark_oak_barrel": {
-    "criteria": {
-      "has_dark_oak_plank": "2025-01-02 01:04:23 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/utility/spruce_logs_to_slabs": {
-    "criteria": {
-      "has_log": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/dandelion_to_poppy": {
-    "criteria": {
-      "has_dandelion": "2025-01-02 02:12:39 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/building_blocks/force_brick": {
-    "criteria": {
-      "has_force_gem": "2025-01-02 02:28:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-01-02 00:54:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-01-02 02:04:09 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/building_blocks/rice_bale": {
     "criteria": {
       "has_rice_panicle": "2025-01-02 00:16:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+  "farmersdelight:recipes/food/rice": {
     "criteria": {
-      "has_planks": "2025-01-02 01:04:23 +0000"
+      "has_rice_panicle": "2025-01-02 00:16:20 +0000"
     },
     "done": true
   },
-  "botania:recipes/redstone/red_string_comparator": {
+  "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
-      "has_base_block": "2025-01-02 00:59:50 +0000"
+      "has_packed_ice": "2025-01-02 00:16:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+  "apotheosis:enchanting/30ench": {
     "criteria": {
-      "has_polished_andesite": "2025-01-02 02:07:40 +0000"
+      "enchanted_item": "2025-01-02 00:24:53 +0000"
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/lead_dust": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "has_lead": "2025-01-02 00:35:29 +0000"
+      "enchanted_item": "2025-01-02 00:24:53 +0000"
     },
     "done": true
   },
-  "allthecompressed:recipes/building_blocks/compress/spruce_log_1x": {
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_pickaxe": {
     "criteria": {
-      "has_spruce_log": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/misc/vehicle_control_module": {
-    "criteria": {
-      "paper": "2025-01-02 00:53:13 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/crafting/dictionary_of_spirits": {
-    "criteria": {
-      "has_datura": "2025-01-02 01:02:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
-    "criteria": {
-      "has_quartz_block": "2025-01-02 00:59:39 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_black2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-02 02:21:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_stairs": {
-    "criteria": {
-      "has_blackstone": "2025-01-02 00:49:16 +0000"
+      "has_tool": "2025-01-02 00:25:07 +0000"
     },
     "done": true
   },
@@ -8811,69 +8709,213 @@
     },
     "done": true
   },
-  "utilitarian:recipes/misc/utility/dark_oak_logs_to_stairs": {
-    "criteria": {
-      "has_log": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/smelting/arcane_crystal_dust_from_smelting": {
-    "criteria": {
-      "has_item": "2025-01-02 02:28:09 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/clibano_combustion/arcane_crystal_dust_from_clibano_combusting": {
-    "criteria": {
-      "has_item": "2025-01-02 02:28:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-01-02 00:30:46 +0000"
     },
     "done": true
   },
+  "xnet:recipes/xnet/antenna_base": {
+    "criteria": {
+      "block": "2025-01-02 00:30:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-01-02 00:30:46 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/iron_block_1x": {
+    "criteria": {
+      "has_iron_block": "2025-01-02 00:30:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ore_hammer": {
+    "criteria": {
+      "has_iron_block": "2025-01-02 00:30:46 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/anvil_cart": {
+    "criteria": {
+      "criterion0": "2025-01-02 00:30:51 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_anvil": {
+    "criteria": {
+      "has_anvil": "2025-01-02 00:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-02 00:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-01-02 00:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-02 00:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-01-02 00:33:41 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/netherite_scrap_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-01-02 00:33:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-01-02 00:35:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-01-02 00:35:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-01-02 00:35:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-01-02 00:35:19 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/zinc_dust": {
+    "criteria": {
+      "has_zinc": "2025-01-02 00:35:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-01-02 00:35:22 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/aluminum_dust": {
+    "criteria": {
+      "has_aluminum": "2025-01-02 00:35:22 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-01-02 00:35:22 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/lead_dust": {
+    "criteria": {
+      "has_lead": "2025-01-02 00:35:29 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-01-02 00:35:29 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-01-02 00:35:29 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-01-02 00:35:31 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/tin_dust": {
+    "criteria": {
+      "has_tin": "2025-01-02 00:35:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-01-02 00:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-01-02 00:40:07 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_helmet": {
+    "criteria": {
+      "has_armor": "2025-01-02 00:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-02 00:40:18 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_axe": {
+    "criteria": {
+      "has_tool": "2025-01-02 00:43:15 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_cottage": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/spruce_logs_to_slabs": {
+    "criteria": {
+      "has_log": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/spruce_log_1x": {
+    "criteria": {
+      "has_spruce_log": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-02 00:49:16 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/dark_oak_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-01-02 00:54:10 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/lime_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-01-02 02:12:39 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/blueprint_paper": {
-    "criteria": {
-      "has_paper": "2025-01-02 00:53:13 +0000"
     },
     "done": true
   },
@@ -8889,141 +8931,9 @@
     },
     "done": true
   },
-  "rftoolsbuilder:recipes/misc/vehicle_status_module": {
-    "criteria": {
-      "paper": "2025-01-02 00:53:13 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/yellow_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-01-02 02:12:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_black": {
-    "criteria": {
-      "has_dyes/black": "2025-01-02 02:21:44 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/aluminum_ingot_from_ore_blasting": {
-    "criteria": {
-      "has_item": "2025-01-02 00:35:22 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/purple_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-01-02 02:12:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-01-02 01:53:05 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/dark_oak": {
-    "criteria": {
-      "has_wood": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/diamond_from_axe": {
-    "criteria": {
-      "has_tool": "2025-01-02 00:43:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-01-02 00:59:39 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/blaze_powder_from_rod": {
-    "criteria": {
-      "has_blaze_rod": "2025-01-02 01:15:17 +0000"
-    },
-    "done": true
-  },
   "utilitarian:recipes/misc/utility/spruce_logs_to_stairs": {
     "criteria": {
       "has_log": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/conveyor_basic": {
-    "criteria": {
-      "has_leather": "2025-01-02 00:54:10 +0000"
-    },
-    "done": true
-  },
-  "silentgear:root": {
-    "criteria": {
-      "get_item": "2025-01-02 01:01:00 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/spirit_fire/spirit_fire/purified_ink": {
-    "criteria": {
-      "has_black_dye": "2025-01-02 02:21:44 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
-    "criteria": {
-      "has_quartz_block": "2025-01-02 00:59:39 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/tools/obsidian_skull": {
-    "criteria": {
-      "has_obsidian": "2025-01-02 02:23:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2025-01-02 00:16:43 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/red_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-01-02 02:12:39 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
@@ -9033,231 +8943,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/lead_ingot_from_ore": {
-    "criteria": {
-      "has_item": "2025-01-02 00:35:29 +0000"
-    },
-    "done": true
-  },
-  "xnet:recipes/xnet/antenna_base": {
-    "criteria": {
-      "block": "2025-01-02 00:30:46 +0000"
-    },
-    "done": true
-  },
-  "exmachinis:recipes/misc/comparator_upgrade": {
-    "criteria": {
-      "has_comparator": "2025-01-02 00:59:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_black_dye": "2025-01-02 02:21:44 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/tin_ingot_from_ore_blasting": {
-    "criteria": {
-      "has_item": "2025-01-02 00:35:31 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_blue_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-01-02 02:12:39 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_dust_from_blasting": {
-    "criteria": {
-      "has_item": "2025-01-02 02:28:09 +0000"
-    },
-    "done": true
-  },
   "mcwdoors:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-02 00:49:16 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/aluminum_dust": {
-    "criteria": {
-      "has_aluminum": "2025-01-02 00:35:22 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-01-02 02:12:39 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/tps_meter": {
-    "criteria": {
-      "has_comparator": "2025-01-02 00:59:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-01-02 02:07:40 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
-    "criteria": {
-      "has_item": "2025-01-02 00:35:19 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/orange_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-01-02 02:12:39 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/dead_bush": {
-    "criteria": {
-      "has_salts": "2025-01-02 02:28:09 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-02 00:49:16 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/utility/dark_oak_logs_to_pressure_plates": {
-    "criteria": {
-      "has_log": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
-    "criteria": {
-      "has_backpack": "2025-01-02 00:54:33 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/lead_ingot_from_ore_blasting": {
-    "criteria": {
-      "has_item": "2025-01-02 00:35:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab": {
-    "criteria": {
-      "has_quartz_block": "2025-01-02 00:59:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks": {
-    "criteria": {
-      "has_quartz_block": "2025-01-02 00:59:39 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/dark_oak": {
-    "criteria": {
-      "has_wood": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/virus_nullodermal": {
-    "criteria": {
-      "has_alt_item": "2025-01-02 01:56:16 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/end_stone_dust": {
-    "criteria": {
-      "has_end_stone": "2025-01-02 01:53:05 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/upgrade_tome": {
-    "criteria": {
-      "has_book": "2025-01-02 02:04:09 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/balustrade_blackstone_bridge": {
-    "criteria": {
-      "has_planks": "2025-01-02 00:49:16 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/utility/dark_oak_logs_to_boats": {
-    "criteria": {
-      "has_log": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/diamond_from_boots": {
-    "criteria": {
-      "has_armor": "2025-01-02 02:18:26 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_compacting_upgrade_from_backpack_compacting_upgrade": {
-    "criteria": {
-      "has_backpack_upgrade": "2025-01-02 01:03:58 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/tools/lens_of_veritatis": {
-    "criteria": {
-      "has_arcane_crystal": "2025-01-02 02:28:09 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_compacting_upgrade": {
-    "criteria": {
-      "has_compacting_upgrade": "2025-01-02 01:03:59 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/end_stone_lamp": {
-    "criteria": {
-      "has_end_stone": "2025-01-02 01:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-01-02 02:04:09 +0000"
     },
     "done": true
   },
@@ -9267,117 +8955,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-01-02 00:55:13 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-01-02 00:51:37 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/blue_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-01-02 02:12:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/green_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-01-02 02:12:39 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2025-01-02 00:54:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-01-02 02:21:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-02 00:49:16 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/obsidian_1x": {
-    "criteria": {
-      "has_obsidian": "2025-01-02 02:23:43 +0000"
-    },
-    "done": true
-  },
-  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
-    "criteria": {
-      "has_shear": "2025-01-02 02:22:54 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/blueprint_bullets": {
-    "criteria": {
-      "has_paper": "2025-01-02 00:53:13 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/quartz_block_1x": {
-    "criteria": {
-      "has_quartz_block": "2025-01-02 00:59:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-01-02 00:54:10 +0000"
-    },
-    "done": true
-  },
-  "rftoolsbase:recipes/rftoolsbase/manual": {
-    "criteria": {
-      "book": "2025-01-02 02:04:09 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/paper_from_tag_filter": {
-    "criteria": {
-      "has_paper": "2025-01-02 00:53:13 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_glowing_membrane": {
-    "criteria": {
-      "has_chorus": "2025-01-02 00:52:11 +0000"
     },
     "done": true
   },
@@ -9387,135 +8967,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-01-02 00:59:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "rftoolsbase:recipes/rftoolsbase/tablet": {
-    "criteria": {
-      "quartz": "2025-01-02 00:59:39 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/blackstone_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-01-02 00:49:16 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/building_blocks/integrateddynamics/sign_post_menril": {
-    "criteria": {
-      "has_planks": "2025-01-02 02:12:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_sign": {
-    "criteria": {
-      "has_planks": "2025-01-02 01:04:23 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-01-02 02:00:06 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/dark_oak_planks": {
-    "criteria": {
-      "has_planks": "2025-01-02 01:04:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-01-02 00:33:41 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/diamond_from_pickaxe": {
-    "criteria": {
-      "has_tool": "2025-01-02 00:25:07 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/misc/force_and_you": {
-    "criteria": {
-      "has_book": "2025-01-02 02:04:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-02 00:49:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-01-02 01:04:23 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/decorations/crafting/spirit_torch": {
-    "criteria": {
-      "has_datura": "2025-01-02 02:05:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-01-02 00:53:13 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/blackstone_1x": {
-    "criteria": {
-      "has_blackstone": "2025-01-02 00:49:16 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/food/fortune_cookie": {
-    "criteria": {
-      "has_paper": "2025-01-02 00:53:13 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/pink_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-01-02 02:12:39 +0000"
-    },
-    "done": true
-  },
-  "xycraft_machines:recipes/misc/shaped/fabricator": {
-    "criteria": {
-      "has_crafting_table": "2025-01-02 01:01:00 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
     },
     "done": true
   },
@@ -9525,45 +8979,177 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/spruce_logs_to_trapdoors": {
+    "criteria": {
+      "has_log": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/spruce_logs_to_pressure_plates": {
+    "criteria": {
+      "has_log": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/spruce_logs_to_doors": {
+    "criteria": {
+      "has_log": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/spruce_logs_to_boats": {
+    "criteria": {
+      "has_log": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/spruce_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_stairs": {
+    "criteria": {
+      "has_log": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_covered_black": {
+  "mcwdoors:recipes/dark_oak": {
     "criteria": {
-      "has_dyes/black": "2025-01-02 02:21:44 +0000"
+      "has_wood": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
     "criteria": {
-      "has_item": "2025-01-02 00:53:13 +0000"
+      "has_logs": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap": {
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
     "criteria": {
-      "has_ancient_debris": "2025-01-02 00:33:41 +0000"
+      "has_logs": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_black_pane2": {
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_pressure_plates": {
     "criteria": {
-      "recipe_condition2": "2025-01-02 02:21:44 +0000"
+      "has_log": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_filter_upgrade": {
+  "mcwwindows:recipes/dark_oak": {
     "criteria": {
-      "has_filter_upgrade": "2025-01-02 01:10:14 +0000"
+      "has_wood": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/sand_paper": {
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_boats": {
     "criteria": {
-      "has_item": "2025-01-02 00:53:13 +0000"
+      "has_log": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
@@ -9579,69 +9165,333 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/red_sand_paper": {
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_trapdoors": {
     "criteria": {
-      "has_item": "2025-01-02 00:53:13 +0000"
+      "has_log": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_doors": {
     "criteria": {
-      "has_logs": "2025-01-02 00:43:21 +0000"
+      "has_log": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_quartz": {
+  "allthecompressed:recipes/building_blocks/compress/dark_oak_log_1x": {
     "criteria": {
-      "has_quartz_block": "2025-01-02 00:59:39 +0000"
+      "has_dark_oak_log": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_smart_black": {
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
     "criteria": {
-      "has_dyes/black": "2025-01-02 02:21:44 +0000"
+      "has_logs": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
-  "enderio:recipes/misc/black_paper": {
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
     "criteria": {
-      "has_ingredient": "2025-01-02 00:53:13 +0000"
+      "has_logs": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+  "mcwfurnitures:recipes/dark_oak": {
     "criteria": {
-      "has_quartz_block": "2025-01-02 00:59:39 +0000"
+      "has_wood": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/rope_dark_oak_bridge": {
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
     "criteria": {
-      "has_planks": "2025-01-02 01:04:23 +0000"
+      "has_logs": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/cherry/cherry_ranch_trapdoor": {
+  "mcwroofs:recipes/dark_oak": {
     "criteria": {
-      "has_logs": "2025-01-02 00:43:21 +0000"
+      "has_planks": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
     "criteria": {
-      "has_polished_andesite": "2025-01-02 02:07:40 +0000"
+      "has_logs": "2025-01-02 00:46:55 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/one_way_glass": {
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
     "criteria": {
-      "has_wood": "2025-01-02 02:21:44 +0000"
+      "has_logs": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_slabs": {
+    "criteria": {
+      "has_log": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_four_panel": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/blackstone_1x": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blackstone": {
+    "criteria": {
+      "has_wood": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-02 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 00:51:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 00:51:37 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_glowing_membrane": {
+    "criteria": {
+      "has_chorus": "2025-01-02 00:52:11 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_membrane": {
+    "criteria": {
+      "has_chorus": "2025-01-02 00:52:11 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_dark_membrane": {
+    "criteria": {
+      "has_chorus": "2025-01-02 00:52:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bannerpatterns": {
+    "criteria": {
+      "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_control_module": {
+    "criteria": {
+      "paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blueprint_paper": {
+    "criteria": {
+      "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_status_module": {
+    "criteria": {
+      "paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bullets": {
+    "criteria": {
+      "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/paper_from_tag_filter": {
+    "criteria": {
+      "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/food/fortune_cookie": {
+    "criteria": {
+      "has_paper": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/black_paper": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 00:53:13 +0000"
     },
     "done": true
   },
@@ -9657,87 +9507,75 @@
     },
     "done": true
   },
-  "utilitarian:recipes/misc/utility/dark_oak_logs_to_trapdoors": {
+  "rftoolsbuilder:recipes/misc/vehicle_card": {
     "criteria": {
-      "has_log": "2025-01-02 00:46:55 +0000"
+      "paper": "2025-01-02 00:53:13 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/dark_oak_rail_bridge": {
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
-      "has_planks": "2025-01-02 01:04:23 +0000"
+      "has_item": "2025-01-02 00:53:13 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/smart_black": {
+  "immersiveengineering:recipes/misc/crafting/blueprint_components": {
     "criteria": {
-      "has_dyes/black": "2025-01-02 02:21:44 +0000"
+      "has_paper": "2025-01-02 00:53:13 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+  "buildinggadgets2:recipes/misc/template_manager": {
     "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+      "has_paper": "2025-01-02 00:53:13 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/cheese": {
+  "supplementaries:recipes/candy": {
     "criteria": {
-      "has_salt": "2025-01-02 02:28:09 +0000"
+      "has_paper": "2025-01-02 00:53:13 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_advanced_filter_upgrade_from_backpack_advanced_filter_upgrade": {
+  "supplementaries:recipes/present": {
     "criteria": {
-      "has_backpack_upgrade": "2025-01-02 01:10:22 +0000"
+      "has_paper": "2025-01-02 00:53:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
     "criteria": {
-      "has_obsidian": "2025-01-02 02:23:43 +0000"
+      "has_paper": "2025-01-02 00:53:13 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+  "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+      "has_leather": "2025-01-02 00:54:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_candle": {
+  "minecraft:recipes/combat/leather_boots": {
     "criteria": {
-      "has_black_dye": "2025-01-02 02:21:44 +0000"
+      "has_leather": "2025-01-02 00:54:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+  "immersiveengineering:recipes/misc/crafting/conveyor_basic": {
     "criteria": {
-      "has_end_stone": "2025-01-02 01:53:05 +0000"
+      "has_leather": "2025-01-02 00:54:10 +0000"
     },
     "done": true
   },
-  "apotheosis:spawner/capturing": {
+  "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
-      "egg": "2025-01-02 01:50:06 +0000"
+      "has_leather": "2025-01-02 00:54:10 +0000"
     },
     "done": true
   },
-  "utilitarian:recipes/misc/utility/dark_oak_logs_to_doors": {
+  "minecraft:recipes/decorations/item_frame": {
     "criteria": {
-      "has_log": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-01-02 01:01:00 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/end_stone_1x": {
-    "criteria": {
-      "has_end_stone": "2025-01-02 01:53:05 +0000"
+      "has_leather": "2025-01-02 00:54:10 +0000"
     },
     "done": true
   },
@@ -9747,45 +9585,261 @@
     },
     "done": true
   },
-  "croptopia:recipes/beef_jerky": {
+  "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
-      "has_salt": "2025-01-02 02:28:09 +0000"
+      "has_leather": "2025-01-02 00:54:10 +0000"
     },
     "done": true
   },
-  "allthecompressed:recipes/building_blocks/compress/dark_oak_log_1x": {
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
-      "has_dark_oak_log": "2025-01-02 00:46:55 +0000"
+      "has_leather": "2025-01-02 00:54:10 +0000"
     },
     "done": true
   },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/magenta_soliciting_carpet": {
+  "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
-      "has_flower": "2025-01-02 02:12:39 +0000"
+      "has_leather": "2025-01-02 00:54:10 +0000"
     },
     "done": true
   },
-  "integrateddynamics:meneglin_basics/menril_production": {
+  "forcecraft:recipes/misc/force_pack_upgrade": {
     "criteria": {
-      "criteria_0": "2025-01-02 02:22:28 +0000"
+      "has_leather": "2025-01-02 00:54:10 +0000"
     },
     "done": true
   },
-  "exdeorum:recipes/misc/dark_oak_sieve": {
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
-      "has_item": "2025-01-02 01:04:23 +0000"
+      "has_backpack": "2025-01-02 00:54:33 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/pork_jerky": {
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
-      "has_salt": "2025-01-02 02:28:09 +0000"
+      "has_backpack": "2025-01-02 00:54:33 +0000"
     },
     "done": true
   },
-  "integrateddynamics:meneglin_basics/drying": {
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
-      "criteria_0": "2025-01-02 02:22:02 +0000"
+      "has_iron_backpack": "2025-01-02 00:55:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-01-02 00:55:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-02 00:55:13 +0000"
+    },
+    "done": true
+  },
+  "rftoolspower:recipes/rftoolspower/powercell_card": {
+    "criteria": {
+      "paper": "2025-01-02 00:59:22 +0000"
+    },
+    "done": true
+  },
+  "rftoolspower:recipes/rftoolspower/power_core1": {
+    "criteria": {
+      "core": "2025-01-02 00:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-01-02 00:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-02 00:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-01-02 00:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-01-02 00:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-01-02 00:59:39 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/quartz_block_1x": {
+    "criteria": {
+      "has_quartz_block": "2025-01-02 00:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-02 00:59:39 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/tablet": {
+    "criteria": {
+      "quartz": "2025-01-02 00:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-01-02 00:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-01-02 00:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-02 00:59:39 +0000"
+    },
+    "done": true
+  },
+  "laserio:recipes/misc/logic_chip_raw": {
+    "criteria": {
+      "has_quartz": "2025-01-02 00:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-02 00:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-02 00:59:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_comparator": {
+    "criteria": {
+      "has_base_block": "2025-01-02 00:59:50 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:recipes/misc/comparator_upgrade": {
+    "criteria": {
+      "has_comparator": "2025-01-02 00:59:50 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/tps_meter": {
+    "criteria": {
+      "has_comparator": "2025-01-02 00:59:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
     },
     "done": true
   },
@@ -9795,51 +9849,135 @@
     },
     "done": true
   },
-  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
-      "has_item": "2025-01-02 01:15:17 +0000"
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/dark_oak_window": {
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
-      "has_ingredient": "2025-01-02 01:04:23 +0000"
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
-      "has_end_stone": "2025-01-02 01:53:05 +0000"
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blackstone_wall": {
+  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
     "criteria": {
-      "has_blackstone": "2025-01-02 00:49:16 +0000"
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
-      "blaze_rod": "2025-01-02 01:15:17 +0000"
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
-      "diamond_helmet": "2025-01-02 00:40:07 +0000"
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
     "criteria": {
-      "has_planks": "2025-01-02 01:04:23 +0000"
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
     "criteria": {
-      "has_blackstone": "2025-01-02 00:49:16 +0000"
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-01-02 01:01:00 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/fabricator": {
+    "criteria": {
+      "has_crafting_table": "2025-01-02 01:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-02 01:01:00 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/crafting_card": {
+    "criteria": {
+      "crafter": "2025-01-02 01:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-01-02 01:01:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_crafting_upgrade_from_backpack_crafting_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-01-02 01:01:03 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/dictionary_of_spirits": {
+    "criteria": {
+      "has_datura": "2025-01-02 01:02:02 +0000"
     },
     "done": true
   },
@@ -9849,33 +9987,75 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+  "sophisticatedstorage:recipes/misc/storage_compacting_upgrade_from_backpack_compacting_upgrade": {
     "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+      "has_backpack_upgrade": "2025-01-02 01:03:58 +0000"
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_membrane": {
+  "sophisticatedbackpacks:recipes/misc/advanced_compacting_upgrade": {
     "criteria": {
-      "has_chorus": "2025-01-02 00:52:11 +0000"
+      "has_compacting_upgrade": "2025-01-02 01:03:59 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
+  "sophisticatedstorage:recipes/misc/dark_oak_barrel": {
     "criteria": {
-      "has_logs": "2025-01-02 00:46:55 +0000"
+      "has_dark_oak_plank": "2025-01-02 01:04:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
-      "has_leather": "2025-01-02 00:54:10 +0000"
+      "has_planks": "2025-01-02 01:04:23 +0000"
     },
     "done": true
   },
-  "occultism:recipes/misc/crafting/spirit_campfire": {
+  "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
-      "has_datura": "2025-01-02 02:05:35 +0000"
+      "has_planks": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak_planks": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_dark_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/dark_oak_sieve": {
+    "criteria": {
+      "has_item": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:04:23 +0000"
     },
     "done": true
   },
@@ -9909,9 +10089,381 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/clear_glass_black_pane2": {
+  "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
-      "recipe_condition2": "2025-01-02 02:21:44 +0000"
+      "has_planks": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_chest": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "oreberriesreplanted:recipes/misc/dark_oak_vat": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_filter_upgrade": {
+    "criteria": {
+      "has_filter_upgrade": "2025-01-02 01:10:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_filter_upgrade_from_backpack_filter_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-01-02 01:10:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_advanced_filter_upgrade_from_backpack_advanced_filter_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-01-02 01:10:22 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/blaze_powder_from_rod": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-02 01:15:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-01-02 01:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-02 01:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-02 01:15:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2025-01-02 01:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-02 01:15:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_advanced_compacting_upgrade_from_backpack_advanced_compacting_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-01-02 01:24:18 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_trade/spirit_trade/otherworld_sapling": {
+    "criteria": {
+      "has_otherworld_sapling_natural": "2025-01-02 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-01-02 01:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:53:05 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/end_stone_dust": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:53:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:53:05 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/end_stone_1x": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:53:05 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shapeless/balloon_on_a_stick": {
+    "criteria": {
+      "has_lead": "2025-01-02 01:56:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-01-02 01:56:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-01-02 02:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-02 02:04:09 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/upgrade_tome": {
+    "criteria": {
+      "has_book": "2025-01-02 02:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-02 02:04:09 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/manual": {
+    "criteria": {
+      "book": "2025-01-02 02:04:09 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_and_you": {
+    "criteria": {
+      "has_book": "2025-01-02 02:04:09 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/manual": {
+    "criteria": {
+      "has_book": "2025-01-02 02:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-02 02:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-02 02:04:09 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/enchanter": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 02:04:09 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/taboo_book": {
+    "criteria": {
+      "has_book": "2025-01-02 02:04:09 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/decorations/crafting/spirit_torch": {
+    "criteria": {
+      "has_datura": "2025-01-02 02:05:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/spirit_campfire": {
+    "criteria": {
+      "has_datura": "2025-01-02 02:05:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_fruit": {
+    "criteria": {
+      "has_datura": "2025-01-02 02:05:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/datura": {
+    "criteria": {
+      "has_datura": "2025-01-02 02:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-02 02:07:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-02 02:07:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-02 02:07:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-02 02:07:40 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/dandelion_to_poppy": {
+    "criteria": {
+      "has_dandelion": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/lime_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/yellow_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/purple_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/red_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/orange_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/green_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/pink_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/magenta_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:12:39 +0000"
     },
     "done": true
   },
@@ -9927,105 +10479,141 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2025-01-02 01:04:23 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "utilitix:recipes/misc/anvil_cart": {
-    "criteria": {
-      "criterion0": "2025-01-02 00:30:51 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-01-02 01:04:23 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/building_blocks/force_brick_black": {
-    "criteria": {
-      "has_black_dye": "2025-01-02 02:21:44 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/food/crafting/demons_dream_essence_from_fruit": {
-    "criteria": {
-      "has_datura": "2025-01-02 02:05:35 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/dark_oak_chest": {
-    "criteria": {
-      "has_dark_oak_plank": "2025-01-02 01:04:23 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/spirit_trade/spirit_trade/otherworld_sapling": {
-    "criteria": {
-      "has_otherworld_sapling_natural": "2025-01-02 01:44:40 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/utility/spruce_logs_to_trapdoors": {
-    "criteria": {
-      "has_log": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/white_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-01-02 02:12:39 +0000"
     },
     "done": true
   },
-  "rftoolsbase:recipes/rftoolsbase/crafting_card": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "crafter": "2025-01-02 01:01:00 +0000"
+      "has_dandelion": "2025-01-02 02:12:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_gray_soliciting_carpet": {
     "criteria": {
-      "has_end_stone": "2025-01-02 01:53:05 +0000"
+      "has_flower": "2025-01-02 02:12:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/gray_soliciting_carpet": {
     "criteria": {
-      "has_polished_andesite": "2025-01-02 02:07:40 +0000"
+      "has_flower": "2025-01-02 02:12:39 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/manual": {
+  "integrateddynamics:meneglin_basics/meneglin_discovery": {
     "criteria": {
-      "has_book": "2025-01-02 02:04:09 +0000"
+      "criteria_0": "2025-01-02 02:12:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+  "supplementaries:recipes/building_blocks/integrateddynamics/sign_post_menril": {
     "criteria": {
-      "has_quartz_block": "2025-01-02 00:59:39 +0000"
+      "has_planks": "2025-01-02 02:12:46 +0000"
     },
     "done": true
   },
-  "rftoolsbuilder:recipes/misc/vehicle_card": {
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_boots": {
     "criteria": {
-      "paper": "2025-01-02 00:53:13 +0000"
+      "has_armor": "2025-01-02 02:18:26 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_chestplate": {
+    "criteria": {
+      "has_armor": "2025-01-02 02:18:26 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_leggings": {
+    "criteria": {
+      "has_armor": "2025-01-02 02:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-01-02 02:21:19 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/purified_ink": {
+    "criteria": {
+      "has_black_dye": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/one_way_glass": {
+    "criteria": {
+      "has_wood": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 02:21:44 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_black": {
+    "criteria": {
+      "has_black_dye": "2025-01-02 02:21:44 +0000"
     },
     "done": true
   },
@@ -10041,231 +10629,9 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_dark_membrane": {
-    "criteria": {
-      "has_chorus": "2025-01-02 00:52:11 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/tinted_borderless_glass_black2": {
     "criteria": {
       "recipe_condition2": "2025-01-02 02:21:44 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/tin_dust": {
-    "criteria": {
-      "has_tin": "2025-01-02 00:35:31 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/utility/spruce_logs_to_pressure_plates": {
-    "criteria": {
-      "has_log": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-01-02 02:04:09 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/utility/spruce_logs_to_doors": {
-    "criteria": {
-      "has_log": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_crafting_upgrade_from_backpack_crafting_upgrade": {
-    "criteria": {
-      "has_backpack_upgrade": "2025-01-02 01:01:03 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-01-02 00:55:09 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/dark_oak": {
-    "criteria": {
-      "has_wood": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/aluminum_ingot_from_ore": {
-    "criteria": {
-      "has_item": "2025-01-02 00:35:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2025-01-02 00:53:13 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-01-02 02:04:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-01-02 02:12:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-01-02 02:21:19 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/blueprint_components": {
-    "criteria": {
-      "has_paper": "2025-01-02 00:53:13 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "buildinggadgets2:recipes/misc/template_manager": {
-    "criteria": {
-      "has_paper": "2025-01-02 00:53:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-01-02 01:04:23 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/arcane_crystal_dust_from_gem": {
-    "criteria": {
-      "has_arcane_crystal_gem": "2025-01-02 02:28:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_planks": "2025-01-02 01:04:23 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/dark_oak": {
-    "criteria": {
-      "has_planks": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/crema": {
-    "criteria": {
-      "has_salt": "2025-01-02 02:28:09 +0000"
-    },
-    "done": true
-  },
-  "laserio:recipes/misc/logic_chip_raw": {
-    "criteria": {
-      "has_quartz": "2025-01-02 00:59:39 +0000"
-    },
-    "done": true
-  },
-  "rftoolsutility:recipes/rftoolsutility/crafter2": {
-    "criteria": {
-      "crafter1": "2025-01-02 02:33:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-01-02 00:59:39 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-01-02 00:51:37 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/tin_ingot_from_ore": {
-    "criteria": {
-      "has_item": "2025-01-02 00:35:31 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_leather": "2025-01-02 00:54:10 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/butter": {
-    "criteria": {
-      "has_salt": "2025-01-02 02:28:09 +0000"
     },
     "done": true
   },
@@ -10275,51 +10641,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-02 00:49:16 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2025-01-02 00:55:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2025-01-02 02:21:44 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-01-02 00:30:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-01-02 01:53:05 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
-    "criteria": {
-      "has_plankss": "2025-01-02 01:04:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-01-02 01:15:17 +0000"
     },
     "done": true
   },
@@ -10329,81 +10653,9 @@
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/datura": {
-    "criteria": {
-      "has_datura": "2025-01-02 02:05:35 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/spruce_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/borderless_glass_black2": {
     "criteria": {
       "recipe_condition2": "2025-01-02 02:21:44 +0000"
-    },
-    "done": true
-  },
-  "oreberriesreplanted:recipes/misc/dark_oak_vat": {
-    "criteria": {
-      "has_planks": "2025-01-02 01:04:23 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
-    "criteria": {
-      "has_item": "2025-01-02 01:01:00 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/30ench": {
-    "criteria": {
-      "enchanted_item": "2025-01-02 00:24:53 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_anvil": {
-    "criteria": {
-      "has_anvil": "2025-01-02 00:30:51 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_filter_upgrade_from_backpack_filter_upgrade": {
-    "criteria": {
-      "has_backpack_upgrade": "2025-01-02 01:10:14 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/blackstone_lamp": {
-    "criteria": {
-      "has_blackstone": "2025-01-02 00:49:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-02 00:49:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-01-02 00:33:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-02 00:49:16 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/diamond_from_chestplate": {
-    "criteria": {
-      "has_armor": "2025-01-02 02:18:26 +0000"
     },
     "done": true
   },
@@ -10413,87 +10665,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/rice": {
-    "criteria": {
-      "has_rice_panicle": "2025-01-02 00:16:20 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_gray_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-01-02 02:12:39 +0000"
-    },
-    "done": true
-  },
   "sfm:recipes/redstone/labelgun": {
     "criteria": {
       "has_ink": "2025-01-02 02:21:44 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_slab": {
-    "criteria": {
-      "has_blackstone": "2025-01-02 00:49:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-01-02 02:23:43 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candy": {
-    "criteria": {
-      "has_paper": "2025-01-02 00:53:13 +0000"
-    },
-    "done": true
-  },
-  "integrateddynamics:meneglin_basics/meneglin_discovery": {
-    "criteria": {
-      "criteria_0": "2025-01-02 02:12:43 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/present": {
-    "criteria": {
-      "has_paper": "2025-01-02 00:53:13 +0000"
     },
     "done": true
   },
@@ -10503,315 +10677,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/iron_block_1x": {
-    "criteria": {
-      "has_iron_block": "2025-01-02 00:30:46 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
-    "criteria": {
-      "has_paper": "2025-01-02 00:53:13 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/diamond_from_leggings": {
-    "criteria": {
-      "has_armor": "2025-01-02 02:18:26 +0000"
-    },
-    "done": true
-  },
-  "xycraft_machines:recipes/misc/shapeless/balloon_on_a_stick": {
-    "criteria": {
-      "has_lead": "2025-01-02 01:56:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-01-02 00:54:10 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-01-02 01:04:23 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/zinc_ingot_from_ore_blasting": {
-    "criteria": {
-      "has_item": "2025-01-02 00:35:19 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/utility/spruce_logs_to_boats": {
-    "criteria": {
-      "has_log": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/utility/dark_oak_logs_to_slabs": {
-    "criteria": {
-      "has_log": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/blackstone": {
-    "criteria": {
-      "has_wood": "2025-01-02 00:49:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_button": {
-    "criteria": {
-      "has_planks": "2025-01-02 01:04:23 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/blaze_block": {
-    "criteria": {
-      "has_item": "2025-01-02 01:15:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-01-02 00:24:53 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-01-02 00:59:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-01-02 00:40:18 +0000"
-    },
-    "done": true
-  },
   "forcecraft:recipes/building_blocks/force_black_torch": {
     "criteria": {
       "has_dye": "2025-01-02 02:21:44 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/arcane_crystal_block_from_arcane_crystal": {
-    "criteria": {
-      "has_arcane_crystal": "2025-01-02 02:28:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-02 00:49:16 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/zinc_ingot_from_ore": {
-    "criteria": {
-      "has_item": "2025-01-02 00:35:19 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/spruce_bark_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-02 00:49:16 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/print_four_panel": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_fence": {
-    "criteria": {
-      "has_planks": "2025-01-02 01:04:23 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/gray_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-01-02 02:12:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-02 00:49:16 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/blackstone_bridge": {
-    "criteria": {
-      "has_planks": "2025-01-02 00:49:16 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/misc/force_pack_upgrade": {
-    "criteria": {
-      "has_leather": "2025-01-02 00:54:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
-    "criteria": {
-      "has_backpack": "2025-01-02 00:54:33 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/enchanter": {
-    "criteria": {
-      "has_ingredient": "2025-01-02 02:04:09 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/diamond_from_helmet": {
-    "criteria": {
-      "has_armor": "2025-01-02 00:40:07 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:43:21 +0000"
-    },
-    "done": true
-  },
-  "integrateddynamics:network_foundations/cables_logic": {
-    "criteria": {
-      "criteria_0": "2025-01-02 02:30:19 +0000"
-    },
-    "done": true
-  },
-  "rftoolspower:recipes/rftoolspower/powercell_card": {
-    "criteria": {
-      "paper": "2025-01-02 00:59:22 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/spirit_fire/spirit_fire/taboo_book": {
-    "criteria": {
-      "has_book": "2025-01-02 02:04:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-01-02 01:15:17 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-02 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 01:00:55 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/obsidian_dust": {
-    "criteria": {
-      "has_obsidian": "2025-01-02 02:23:43 +0000"
-    },
-    "done": true
-  },
-  "rftoolspower:recipes/rftoolspower/power_core1": {
-    "criteria": {
-      "core": "2025-01-02 00:59:22 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/zinc_dust": {
-    "criteria": {
-      "has_zinc": "2025-01-02 00:35:19 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_advanced_compacting_upgrade_from_backpack_advanced_compacting_upgrade": {
-    "criteria": {
-      "has_backpack_upgrade": "2025-01-02 01:24:18 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/clibano_combustion/netherite_scrap_from_clibano_combusting": {
-    "criteria": {
-      "has_item": "2025-01-02 00:33:41 +0000"
     },
     "done": true
   },
@@ -10821,9 +10689,141 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/iron_ore_hammer": {
+  "integrateddynamics:meneglin_basics/drying": {
     "criteria": {
-      "has_iron_block": "2025-01-02 00:30:46 +0000"
+      "criteria_0": "2025-01-02 02:22:02 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/menril_production": {
+    "criteria": {
+      "criteria_0": "2025-01-02 02:22:28 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
+    "criteria": {
+      "has_shear": "2025-01-02 02:22:54 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/obsidian_skull": {
+    "criteria": {
+      "has_obsidian": "2025-01-02 02:23:43 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/obsidian_1x": {
+    "criteria": {
+      "has_obsidian": "2025-01-02 02:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-02 02:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-02 02:23:43 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/obsidian_dust": {
+    "criteria": {
+      "has_obsidian": "2025-01-02 02:23:43 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick": {
+    "criteria": {
+      "has_force_gem": "2025-01-02 02:28:09 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/smelting/arcane_crystal_dust_from_smelting": {
+    "criteria": {
+      "has_item": "2025-01-02 02:28:09 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/arcane_crystal_dust_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-01-02 02:28:09 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_dust_from_blasting": {
+    "criteria": {
+      "has_item": "2025-01-02 02:28:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/dead_bush": {
+    "criteria": {
+      "has_salts": "2025-01-02 02:28:09 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/lens_of_veritatis": {
+    "criteria": {
+      "has_arcane_crystal": "2025-01-02 02:28:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheese": {
+    "criteria": {
+      "has_salt": "2025-01-02 02:28:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_salt": "2025-01-02 02:28:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_salt": "2025-01-02 02:28:09 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/arcane_crystal_dust_from_gem": {
+    "criteria": {
+      "has_arcane_crystal_gem": "2025-01-02 02:28:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/crema": {
+    "criteria": {
+      "has_salt": "2025-01-02 02:28:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/butter": {
+    "criteria": {
+      "has_salt": "2025-01-02 02:28:09 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/arcane_crystal_block_from_arcane_crystal": {
+    "criteria": {
+      "has_arcane_crystal": "2025-01-02 02:28:09 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:network_foundations/cables_logic": {
+    "criteria": {
+      "criteria_0": "2025-01-02 02:30:19 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/crafter2": {
+    "criteria": {
+      "crafter1": "2025-01-02 02:33:43 +0000"
     },
     "done": true
   },
