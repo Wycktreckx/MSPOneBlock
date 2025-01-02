@@ -8073,9 +8073,21 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_five_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-01-02 00:33:39 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
     },
     "done": true
   },
@@ -8088,6 +8100,12 @@
   "alltheores:recipes/misc/nickel_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-01-02 01:27:55 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
     },
     "done": true
   },
@@ -8175,6 +8193,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_sixty_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/gold_block_from_smelting": {
     "criteria": {
       "has_raw_gold": "2025-01-02 00:31:00 +0000"
@@ -8253,6 +8277,18 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_ten_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_five_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-01-02 01:29:51 +0000"
@@ -8292,6 +8328,18 @@
   "xycraft_world:recipes/building_blocks/shaped/kivi_bricks_cloud_light": {
     "criteria": {
       "has_kivi": "2025-01-02 01:31:52 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:51:27 +0000"
     },
     "done": true
   },
@@ -8445,6 +8493,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_dark": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
@@ -8469,6 +8523,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/nickel_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-01-02 01:27:55 +0000"
@@ -8484,6 +8544,12 @@
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_light": {
     "criteria": {
       "has_ingots/aluminum": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
     },
     "done": true
   },
@@ -8508,6 +8574,12 @@
   "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-02 01:14:38 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/end_stone_dust": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:51:27 +0000"
     },
     "done": true
   },
@@ -8541,6 +8613,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_five_inv": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/constantan_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2025-01-02 01:28:46 +0000"
@@ -8550,6 +8628,24 @@
   "immersiveengineering:recipes/misc/crafting/wire_aluminum": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/otherworld_ashes": {
+    "criteria": {
+      "has_otherworld_log": "2025-01-02 01:45:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:51:27 +0000"
     },
     "done": true
   },
@@ -8652,6 +8748,12 @@
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-01-02 01:29:51 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
     },
     "done": true
   },
@@ -8787,6 +8889,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/chalk_white_impure": {
+    "criteria": {
+      "has_ashes": "2025-01-02 01:45:35 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/building_blocks/runic_glass": {
     "criteria": {
       "has_glass": "2025-01-02 01:27:20 +0000"
@@ -8847,6 +8955,18 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/chalk_gold_impure": {
+    "criteria": {
+      "has_chalk_white": "2025-01-02 01:47:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-01-02 01:27:19 +0000"
@@ -8862,6 +8982,12 @@
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_dark": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
     },
     "done": true
   },
@@ -8967,6 +9093,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_ten_inv": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/decorations/utrem_jar": {
     "criteria": {
       "has_glass/colorless": "2025-01-02 01:27:20 +0000"
@@ -8979,6 +9111,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:51:27 +0000"
+    },
+    "done": true
+  },
+  "projecte:root": {
+    "criteria": {
+      "philstone_recipe": "2025-01-02 01:45:56 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-02 01:14:38 +0000"
@@ -8988,6 +9132,18 @@
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_red": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/end_stone_1x": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:51:27 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
     },
     "done": true
   },
@@ -9009,6 +9165,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_three_hundred": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/blazeblock_deconstruct": {
     "criteria": {
       "has_item": "2025-01-02 01:15:09 +0000"
@@ -9018,6 +9180,12 @@
   "occultism:recipes/crushing/crushing/aluminum_dust_from_ingot": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:51:27 +0000"
     },
     "done": true
   },
@@ -9042,6 +9210,12 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
     },
     "done": true
   },
@@ -9159,6 +9333,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/chalk_red_impure": {
+    "criteria": {
+      "has_chalk_white": "2025-01-02 01:47:17 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge": {
     "criteria": {
       "has_planks": "2025-01-02 01:14:38 +0000"
@@ -9171,9 +9351,27 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/chalk_gold": {
+    "criteria": {
+      "has_chalk_gold_impure": "2025-01-02 01:47:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:51:27 +0000"
     },
     "done": true
   },
@@ -9267,9 +9465,21 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_sixty": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
     },
     "done": true
   },
@@ -9300,6 +9510,12 @@
   "xycraft_world:recipes/building_blocks/shaped/glass_viewer_immortal": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
     },
     "done": true
   },
@@ -9423,6 +9639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:51:27 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/building_blocks/crafting/sacrificial_bowl": {
     "criteria": {
       "has_otherstone": "2025-01-02 01:14:53 +0000"
@@ -9474,6 +9696,12 @@
   "xycraft_world:recipes/building_blocks/shaped/kivi_bricks_cloud_blue_r": {
     "criteria": {
       "has_kivi": "2025-01-02 01:31:52 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
     },
     "done": true
   },
@@ -9579,6 +9807,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-01-02 00:33:39 +0000"
@@ -9675,6 +9909,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-02 01:14:38 +0000"
@@ -9690,6 +9930,18 @@
   "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-02 01:14:38 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_five": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:49:01 +0000"
     },
     "done": true
   },
@@ -9834,6 +10086,12 @@
   "mcwbridges:recipes/blackstone_bridge": {
     "criteria": {
       "has_planks": "2025-01-02 00:32:04 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/chalk_purple_impure": {
+    "criteria": {
+      "has_chalk_white": "2025-01-02 01:47:17 +0000"
     },
     "done": true
   },

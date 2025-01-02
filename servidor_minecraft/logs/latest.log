@@ -2133,3 +2133,4 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [02Jan2025 01:11:41.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YeferJV moved too quickly! -9.86831422186333,1.6661092609382138,-1.9523825333072287
 [02Jan2025 01:15:09.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Into Fire]
 [02Jan2025 01:15:17.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Into Fire]
+[02Jan2025 01:50:06.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Captured!]

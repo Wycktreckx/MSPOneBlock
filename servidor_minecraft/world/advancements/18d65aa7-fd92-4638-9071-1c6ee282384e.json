@@ -8865,6 +8865,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:53:05 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 01:00:55 +0000"
@@ -9051,6 +9057,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/end_stone_dust": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:53:05 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_blackstone_bridge": {
     "criteria": {
       "has_planks": "2025-01-02 00:49:16 +0000"
@@ -9084,6 +9096,12 @@
   "sophisticatedbackpacks:recipes/misc/advanced_compacting_upgrade": {
     "criteria": {
       "has_compacting_upgrade": "2025-01-02 01:03:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:53:05 +0000"
     },
     "done": true
   },
@@ -9417,6 +9435,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:53:05 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-01-02 01:50:06 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/dark_oak_logs_to_doors": {
     "criteria": {
       "has_log": "2025-01-02 00:46:55 +0000"
@@ -9426,6 +9456,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-01-02 01:01:00 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/end_stone_1x": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:53:05 +0000"
     },
     "done": true
   },
@@ -9462,6 +9498,12 @@
   "create:recipes/building_blocks/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:53:05 +0000"
     },
     "done": true
   },
@@ -9591,6 +9633,12 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_trade/spirit_trade/otherworld_sapling": {
+    "criteria": {
+      "has_otherworld_sapling_natural": "2025-01-02 01:44:40 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/spruce_logs_to_trapdoors": {
     "criteria": {
       "has_log": "2025-01-02 00:43:21 +0000"
@@ -9600,6 +9648,12 @@
   "rftoolsbase:recipes/rftoolsbase/crafting_card": {
     "criteria": {
       "crafter": "2025-01-02 01:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:53:05 +0000"
     },
     "done": true
   },
@@ -9810,6 +9864,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-01-02 00:30:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-02 01:53:05 +0000"
     },
     "done": true
   },
