@@ -10986,6 +10986,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-01-02 18:20:52 +0000",
+      "minecraft:cow": "2025-01-02 18:20:48 +0000"
+    },
+    "done": false
+  },
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2025-01-02 17:12:28 +0000"
@@ -11055,6 +11062,12 @@
   "silentgear:recipes/misc/leather_from_scraps": {
     "criteria": {
       "has_item": "2025-01-02 17:28:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-02 18:20:48 +0000"
     },
     "done": true
   },
