@@ -2933,3 +2933,7 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [02Jan2025 20:14:34.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Wycktreckz> de netherite
 [02Jan2025 20:14:42.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YeferJV> no
 [02Jan2025 20:14:46.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Wycktreckz> a
+[02Jan2025 20:19:34.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Wycktreckz> oye que te parece un alo
+[02Jan2025 20:19:42.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Wycktreckz> un valo
+[02Jan2025 20:19:47.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Wycktreckz> o ahorita que acabes llamada
+[02Jan2025 20:25:44.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Madzermur'/24346, l='ServerLevel[world]', x=4146.99, y=67.00, z=9.55] died: Madzermur was slain by YeferJV using    [Captive Dreams]

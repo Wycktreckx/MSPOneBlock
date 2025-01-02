@@ -11769,6 +11769,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/building_blocks/compressed_crushed_netherrack": {
+    "criteria": {
+      "has_item": "2025-01-02 20:15:27 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/tools/netherite_hammer": {
     "criteria": {
       "has_item": "2025-01-02 19:33:36 +0000"
