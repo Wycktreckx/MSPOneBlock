@@ -6682,6 +6682,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "rice": "2025-01-01 02:44:46 +0000",
+      "chorus_flower": "2025-01-02 02:42:19 +0000",
       "sugar_cane": "2025-01-01 02:31:04 +0000",
       "wheat": "2025-01-01 01:07:52 +0000"
     },
@@ -8103,6 +8104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-01-02 02:42:01 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/nickel_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-01-02 01:27:55 +0000"
@@ -8286,6 +8293,12 @@
   "immersiveengineering:recipes/misc/crafting/stick_aluminum": {
     "criteria": {
       "has_alu_ingot": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_upgrade": {
+    "criteria": {
+      "pearl": "2025-01-02 02:42:03 +0000"
     },
     "done": true
   },
@@ -8499,6 +8512,12 @@
     },
     "done": true
   },
+  "allthetweaks:recipes/misc/ender_pearl_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-02 02:42:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_carpet": {
     "criteria": {
       "has_needed_dye": "2025-01-02 02:08:41 +0000"
@@ -8652,6 +8671,12 @@
   "alltheores:recipes/misc/constantan_ingot_from_dust_blasting": {
     "criteria": {
       "has_item": "2025-01-02 01:28:20 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/food/end_cake": {
+    "criteria": {
+      "has_item": "2025-01-02 02:41:56 +0000"
     },
     "done": true
   },
@@ -8835,6 +8860,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2025-01-02 02:42:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-02 01:14:38 +0000"
@@ -8946,6 +8977,12 @@
   "mcwbridges:recipes/blackstone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-02 00:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-01-02 02:42:01 +0000"
     },
     "done": true
   },
@@ -9159,6 +9196,12 @@
     },
     "done": true
   },
+  "shrink:recipes/tools/shrinking_device": {
+    "criteria": {
+      "has_enderpearls": "2025-01-02 02:42:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-02 01:14:38 +0000"
@@ -9363,6 +9406,18 @@
     },
     "done": true
   },
+  "xycraft_machines:recipes/misc/shaped/collector": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-02 02:42:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/itemfinder": {
+    "criteria": {
+      "has_item": "2025-01-02 02:42:01 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_three_hundred": {
     "criteria": {
       "has_ingredient": "2025-01-02 01:49:01 +0000"
@@ -9531,6 +9586,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/building_blocks/compressed_crushed_end_stone": {
+    "criteria": {
+      "has_item": "2025-01-02 02:41:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2025-01-02 02:08:41 +0000"
@@ -9609,6 +9670,12 @@
     },
     "done": true
   },
+  "buildinggadgets2:recipes/misc/gadget_destruction": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-02 02:42:03 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_sixty_from_prev": {
     "criteria": {
       "has_ingredient": "2025-01-02 01:49:01 +0000"
@@ -9630,6 +9697,12 @@
   "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
     "criteria": {
       "has_raw_silver": "2025-01-02 02:03:21 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/charged_porter": {
+    "criteria": {
+      "pearl": "2025-01-02 02:42:03 +0000"
     },
     "done": true
   },
@@ -10071,6 +10144,12 @@
     },
     "done": true
   },
+  "allthemodium:recipes/misc/teleport_pad": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-02 02:42:03 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/stonecutting/glass_viewer_dire": {
     "criteria": {
       "has_for_glass_viewer_dire": "2025-01-02 01:27:20 +0000"
@@ -10152,6 +10231,12 @@
   "allthecompressed:recipes/building_blocks/compress/glass_1x": {
     "criteria": {
       "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/ender_eye_block": {
+    "criteria": {
+      "has_item": "2025-01-02 02:42:01 +0000"
     },
     "done": true
   },
@@ -10449,6 +10534,12 @@
     },
     "done": true
   },
+  "entangled:recipes/misc/block": {
+    "criteria": {
+      "recipe_condition": "2025-01-02 02:42:03 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/smelting/silver_ingot": {
     "criteria": {
       "has_silver_ore": "2025-01-02 02:03:19 +0000"
@@ -10458,6 +10549,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-01-02 01:14:38 +0000"
+    },
+    "done": true
+  },
+  "entangled:recipes/misc/item": {
+    "criteria": {
+      "recipe_condition": "2025-01-02 02:42:03 +0000"
     },
     "done": true
   },
@@ -10524,6 +10621,12 @@
   "alltheores:recipes/misc/raw_nickel_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2025-01-02 01:27:13 +0000"
+    },
+    "done": true
+  },
+  "itemcollectors:recipes/misc/basic_collector": {
+    "criteria": {
+      "recipe_condition": "2025-01-02 02:42:03 +0000"
     },
     "done": true
   },
