@@ -8379,6 +8379,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_item": "2025-01-02 02:28:41 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/kivi_bricks_cloud_light": {
     "criteria": {
       "has_kivi": "2025-01-02 01:31:52 +0000"
@@ -8913,6 +8919,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/gold_block_1x": {
+    "criteria": {
+      "has_gold_block": "2025-01-02 02:29:58 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_blue": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
@@ -9096,6 +9108,12 @@
   "enderio:recipes/redstone/resetting_lever_thirty_inv": {
     "criteria": {
       "has_ingredient": "2025-01-02 01:49:01 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/redstone_block_1x": {
+    "criteria": {
+      "has_redstone_block": "2025-01-02 02:28:41 +0000"
     },
     "done": true
   },
@@ -9765,6 +9783,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-01-02 02:28:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-02 01:14:38 +0000"
@@ -9942,6 +9966,12 @@
   "xycraft_machines:recipes/misc/shaped/extractor": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-02 02:29:58 +0000"
     },
     "done": true
   },

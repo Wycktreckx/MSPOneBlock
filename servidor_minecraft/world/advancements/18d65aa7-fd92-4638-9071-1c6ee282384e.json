@@ -8715,6 +8715,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/building_blocks/force_brick": {
+    "criteria": {
+      "has_force_gem": "2025-01-02 02:28:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-01-02 00:54:10 +0000"
@@ -8814,6 +8820,18 @@
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/smelting/arcane_crystal_dust_from_smelting": {
+    "criteria": {
+      "has_item": "2025-01-02 02:28:09 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/arcane_crystal_dust_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-01-02 02:28:09 +0000"
     },
     "done": true
   },
@@ -9057,6 +9075,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_dust_from_blasting": {
+    "criteria": {
+      "has_item": "2025-01-02 02:28:09 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-01-02 00:43:21 +0000"
@@ -9102,6 +9126,12 @@
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/orange_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-01-02 02:12:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/dead_bush": {
+    "criteria": {
+      "has_salts": "2025-01-02 02:28:09 +0000"
     },
     "done": true
   },
@@ -9198,6 +9228,12 @@
   "sophisticatedstorage:recipes/misc/storage_compacting_upgrade_from_backpack_compacting_upgrade": {
     "criteria": {
       "has_backpack_upgrade": "2025-01-02 01:03:58 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/lens_of_veritatis": {
+    "criteria": {
+      "has_arcane_crystal": "2025-01-02 02:28:09 +0000"
     },
     "done": true
   },
@@ -9645,6 +9681,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/cheese": {
+    "criteria": {
+      "has_salt": "2025-01-02 02:28:09 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_advanced_filter_upgrade_from_backpack_advanced_filter_upgrade": {
     "criteria": {
       "has_backpack_upgrade": "2025-01-02 01:10:22 +0000"
@@ -9705,6 +9747,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_salt": "2025-01-02 02:28:09 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/dark_oak_log_1x": {
     "criteria": {
       "has_dark_oak_log": "2025-01-02 00:46:55 +0000"
@@ -9726,6 +9774,12 @@
   "exdeorum:recipes/misc/dark_oak_sieve": {
     "criteria": {
       "has_item": "2025-01-02 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_salt": "2025-01-02 02:28:09 +0000"
     },
     "done": true
   },
@@ -10131,6 +10185,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/arcane_crystal_dust_from_gem": {
+    "criteria": {
+      "has_arcane_crystal_gem": "2025-01-02 02:28:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-01-02 01:04:23 +0000"
@@ -10143,9 +10203,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/crema": {
+    "criteria": {
+      "has_salt": "2025-01-02 02:28:09 +0000"
+    },
+    "done": true
+  },
   "laserio:recipes/misc/logic_chip_raw": {
     "criteria": {
       "has_quartz": "2025-01-02 00:59:39 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/crafter2": {
+    "criteria": {
+      "crafter1": "2025-01-02 02:33:43 +0000"
     },
     "done": true
   },
@@ -10188,6 +10260,12 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-01-02 00:54:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/butter": {
+    "criteria": {
+      "has_salt": "2025-01-02 02:28:09 +0000"
     },
     "done": true
   },
@@ -10557,6 +10635,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/arcane_crystal_block_from_arcane_crystal": {
+    "criteria": {
+      "has_arcane_crystal": "2025-01-02 02:28:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 00:49:16 +0000"
@@ -10656,6 +10740,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-02 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:network_foundations/cables_logic": {
+    "criteria": {
+      "criteria_0": "2025-01-02 02:30:19 +0000"
     },
     "done": true
   },
