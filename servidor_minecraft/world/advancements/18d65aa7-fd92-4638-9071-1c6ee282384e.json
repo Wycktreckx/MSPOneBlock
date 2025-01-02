@@ -11029,6 +11029,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-02 19:04:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 19:02:05 +0000"
@@ -11465,6 +11471,12 @@
   "reliquary:recipes/misc/mob_charm_fragments/spider": {
     "criteria": {
       "has_chelicerae": "2025-01-02 17:27:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-02 19:04:34 +0000"
     },
     "done": true
   },

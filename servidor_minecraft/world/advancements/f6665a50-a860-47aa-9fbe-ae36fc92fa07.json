@@ -10316,7 +10316,8 @@
       "minecraft:spider": "2025-01-02 02:44:50 +0000",
       "minecraft:creeper": "2025-01-02 02:04:35 +0000",
       "minecraft:phantom": "2025-01-02 18:38:14 +0000",
-      "minecraft:zombie": "2025-01-02 17:12:00 +0000"
+      "minecraft:zombie": "2025-01-02 17:12:00 +0000",
+      "minecraft:zombie_villager": "2025-01-02 19:08:36 +0000"
     },
     "done": false
   },
@@ -11257,6 +11258,12 @@
     },
     "done": false
   },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_glowing_membrane": {
+    "criteria": {
+      "has_chorus": "2025-01-02 19:10:59 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/scratched_glass_purple_pane2": {
     "criteria": {
       "recipe_condition2": "2025-01-02 18:13:57 +0000"
@@ -11497,6 +11504,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_membrane": {
+    "criteria": {
+      "has_chorus": "2025-01-02 19:10:59 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/beef_to_porkchop": {
     "criteria": {
       "has_beef": "2025-01-02 17:30:52 +0000"
@@ -11554,6 +11567,12 @@
   "forcecraft:recipes/transmutation/transmutation/diamond_from_sword": {
     "criteria": {
       "has_tool": "2025-01-02 17:18:17 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_dark_membrane": {
+    "criteria": {
+      "has_chorus": "2025-01-02 19:10:59 +0000"
     },
     "done": true
   },
