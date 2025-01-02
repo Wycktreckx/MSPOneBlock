@@ -1,9 +1,9 @@
 minecraft:overworld
-allthemodium:the_beyond
 bloodmagic:dungeon
+minecraft:the_end
+allthemodium:the_beyond
 mythicbotany:alfheim
+allthemodium:the_other
 allthemodium:mining
 minecraft:the_nether
-minecraft:the_end
-allthemodium:the_other
 ae2:spatial_storage

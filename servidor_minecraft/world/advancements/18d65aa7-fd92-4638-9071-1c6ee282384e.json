@@ -7777,357 +7777,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2025-01-01 02:35:47 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/invar_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-01-01 02:09:33 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/raw_silver_block": {
-    "criteria": {
-      "has_raw_TagKey[minecraft:item / forge:raw_materials/silver]": "2025-01-01 02:32:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2025-01-01 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2025-01-01 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2025-01-01 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/connector_mv_relay": {
-    "criteria": {
-      "has_electrum_ingot": "2025-01-01 02:35:17 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/nickel_dust_from_raw": {
-    "criteria": {
-      "has_raw_nickel": "2025-01-01 02:08:57 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/blood_pendant": {
-    "criteria": {
-      "has_item": "2025-01-01 02:20:28 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/invar_plate": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-01-01 02:09:33 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/quartz": {
-    "criteria": {
-      "has_wood": "2025-01-01 02:20:25 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/quartz_blaze": {
-    "criteria": {
-      "has_item": "2025-01-01 02:20:25 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/invar_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2025-01-01 02:09:33 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/electrum_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2025-01-01 02:35:17 +0000"
-    },
-    "done": true
-  },
-  "croptopia:eatcrafted": {
-    "criteria": {
-      "eat_crafted": "2025-01-01 03:00:36 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/incense_stick": {
-    "criteria": {
-      "has_item": "2025-01-01 02:20:28 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/signalum_gear": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/signalum]_ingot": "2025-01-01 02:36:28 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/invar_ingot_from_dust": {
-    "criteria": {
-      "has_item": "2025-01-01 02:09:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-01-01 02:12:14 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/diamond_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-01-01 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/crafting/raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2025-01-01 02:32:25 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mana_fluxfield": {
-    "criteria": {
-      "has_item": "2025-01-01 02:55:08 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_netherwart_stew": {
-    "criteria": {
-      "has_nether_wart": "2025-01-01 02:20:30 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/tools/diamond_hammer": {
-    "criteria": {
-      "has_item": "2025-01-01 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/signalum_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/signalum]_ingot": "2025-01-01 02:36:28 +0000"
-    },
-    "done": true
-  },
-  "pylons:recipes/misc/infusion_pylon": {
-    "criteria": {
-      "has_emerald_block": "2025-01-01 02:35:47 +0000"
-    },
-    "done": true
-  },
-  "utilitix:recipes/misc/reinforced_filter_rail": {
-    "criteria": {
-      "criterion1": "2025-01-01 02:12:14 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/nether_quartz_axe": {
-    "criteria": {
-      "has_nether_quartz": "2025-01-01 02:20:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-01-01 02:20:25 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/irom_ingot_from_cauldron": {
-    "criteria": {
-      "has_cauldron": "2025-01-01 02:57:52 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/spirit_fire/spirit_fire/spirit_attuned_gem": {
-    "criteria": {
-      "has_diamond": "2025-01-01 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "buildinggadgets2:recipes/misc/gadget_building": {
-    "criteria": {
-      "has_diamond": "2025-01-01 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/copper_ingot_from_dust_blasting": {
-    "criteria": {
-      "has_item": "2025-01-01 02:10:55 +0000"
-    },
-    "done": true
-  },
-  "mythicbotany:recipes/misc/central_rune_holder": {
-    "criteria": {
-      "criterion0": "2025-01-01 02:27:00 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/connector_mv": {
-    "criteria": {
-      "has_electrum_ingot": "2025-01-01 02:35:17 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/misc/diamond_mesh_from_golden_mesh": {
-    "criteria": {
-      "has_item": "2025-01-01 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/constantan_ingot_from_dust_blasting": {
-    "criteria": {
-      "has_item": "2025-01-01 02:11:04 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/silver_ingot_from_raw_blasting": {
-    "criteria": {
-      "has_item": "2025-01-01 02:32:25 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/generator": {
-    "criteria": {
-      "has_electrum_ingot": "2025-01-01 02:35:17 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/nickel_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-01-01 02:08:49 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/glowing_water": {
-    "criteria": {
-      "has_nether_wart": "2025-01-01 02:20:30 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/constantan_gear": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2025-01-01 02:11:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-01-01 02:20:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-01-01 02:20:25 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/silent_stone_pressure_plate": {
-    "criteria": {
-      "has_ingredient": "2025-01-01 02:51:14 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/signalum_ingot_from_dust_blasting": {
-    "criteria": {
-      "has_item": "2025-01-01 02:35:14 +0000"
-    },
-    "done": true
-  },
-  "utilitix:recipes/misc/experience_crystal": {
-    "criteria": {
-      "criterion1": "2025-01-01 02:27:00 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/quartz_dust_from_gem": {
-    "criteria": {
-      "has_quartz_gem": "2025-01-01 02:20:25 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/signalum_dust_from_ingot": {
-    "criteria": {
-      "has_signalum_ingot": "2025-01-01 02:36:28 +0000"
-    },
-    "done": true
-  },
-  "utilitix:recipes/misc/diamond_shears": {
-    "criteria": {
-      "criterion0": "2025-01-01 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/ornate_iron_window": {
-    "criteria": {
-      "has_ingredient": "2025-01-01 02:12:14 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
-    "criteria": {
-      "has_nether_quartz": "2025-01-01 02:20:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2025-01-01 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/invar_gear": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-01-01 02:09:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-01-01 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/emerald_block_1x": {
-    "criteria": {
-      "has_emerald_block": "2025-01-01 02:35:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/diamond_knife": {
-    "criteria": {
-      "has_diamond": "2025-01-01 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/signalum_ingot_from_dust": {
-    "criteria": {
-      "has_item": "2025-01-01 02:35:14 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/constantan_mix": {
-    "criteria": {
-      "has_nickel_dust": "2025-01-01 02:09:02 +0000"
     },
     "done": true
   },
@@ -8137,63 +7789,15 @@
     },
     "done": true
   },
-  "silentgear:recipes/misc/emerald_from_shards": {
+  "occultism:recipes/crushing/crushing/nickel_dust": {
     "criteria": {
-      "has_item": "2025-01-01 02:27:00 +0000"
+      "has_nickel": "2025-01-01 02:08:49 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/wirecoil_electrum": {
+  "occultism:recipes/crushing/crushing/nickel_dust_from_raw": {
     "criteria": {
-      "has_electrum_ingot": "2025-01-01 02:35:17 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/tools/diamond_blacksmith_gavel": {
-    "criteria": {
-      "has_gems/diamond": "2025-01-01 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-01-01 02:20:30 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/signalum_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2025-01-01 02:36:28 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/heavy_engineering": {
-    "criteria": {
-      "has_electrum_ingot": "2025-01-01 02:35:17 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/nether_quartz_wrench": {
-    "criteria": {
-      "has_nether_quartz": "2025-01-01 02:20:25 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/redstone_block_1x": {
-    "criteria": {
-      "has_redstone_block": "2025-01-01 02:55:08 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/silver_dust": {
-    "criteria": {
-      "has_silver": "2025-01-01 02:32:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-01-01 02:20:30 +0000"
+      "has_raw_nickel": "2025-01-01 02:08:57 +0000"
     },
     "done": true
   },
@@ -8203,87 +7807,57 @@
     },
     "done": true
   },
-  "occultism:recipes/misc/blasting/copper_ingot_from_dust": {
+  "alltheores:recipes/misc/nickel_ingot_from_raw_blasting": {
     "criteria": {
-      "has_copper_dust": "2025-01-01 02:10:55 +0000"
+      "has_item": "2025-01-01 02:08:57 +0000"
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/nickel_dust": {
+  "alltheores:recipes/misc/raw_nickel_block": {
     "criteria": {
-      "has_nickel": "2025-01-01 02:08:49 +0000"
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2025-01-01 02:08:57 +0000"
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/silver_dust_from_raw": {
+  "immersiveengineering:recipes/misc/crafting/constantan_mix": {
     "criteria": {
-      "has_raw_silver": "2025-01-01 02:32:25 +0000"
+      "has_nickel_dust": "2025-01-01 02:09:02 +0000"
     },
     "done": true
   },
-  "alltheores:recipes/misc/diamond_plate": {
+  "alltheores:recipes/misc/invar_ingot_from_dust": {
     "criteria": {
-      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-01-01 02:26:32 +0000"
+      "has_item": "2025-01-01 02:09:09 +0000"
     },
     "done": true
   },
-  "buildinggadgets2:recipes/misc/gadget_exchanging": {
+  "alltheores:recipes/misc/invar_ingot_from_dust_blasting": {
     "criteria": {
-      "has_diamond": "2025-01-01 02:26:32 +0000"
+      "has_item": "2025-01-01 02:09:09 +0000"
     },
     "done": true
   },
-  "forcecraft:recipes/misc/treasure_core": {
+  "alltheores:recipes/misc/invar_rod": {
     "criteria": {
-      "has_diamond": "2025-01-01 02:26:32 +0000"
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-01-01 02:09:33 +0000"
     },
     "done": true
   },
-  "buildinggadgets2:recipes/misc/gadget_copy_paste": {
+  "alltheores:recipes/misc/invar_plate": {
     "criteria": {
-      "has_emerald": "2025-01-01 02:27:00 +0000"
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-01-01 02:09:33 +0000"
     },
     "done": true
   },
-  "alltheores:recipes/misc/signalum_block": {
+  "alltheores:recipes/misc/invar_nugget_from_ingot": {
     "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/signalum]_ingot": "2025-01-01 02:36:28 +0000"
+      "has_item": "2025-01-01 02:09:33 +0000"
     },
     "done": true
   },
-  "alltheores:recipes/misc/constantan_ingot_from_dust": {
+  "alltheores:recipes/misc/invar_gear": {
     "criteria": {
-      "has_item": "2025-01-01 02:11:04 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/silver_ingot_from_ore": {
-    "criteria": {
-      "has_item": "2025-01-01 02:32:16 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/constantan_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2025-01-01 02:11:44 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/smelting/copper_ingot_from_dust": {
-    "criteria": {
-      "has_copper_dust": "2025-01-01 02:10:55 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
-    "criteria": {
-      "has_raw_silver": "2025-01-01 02:32:25 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/blasting/silver_ingot": {
-    "criteria": {
-      "has_silver_ore": "2025-01-01 02:32:16 +0000"
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-01-01 02:09:33 +0000"
     },
     "done": true
   },
@@ -8293,45 +7867,27 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/electrum_ingot_from_dust": {
+  "alltheores:recipes/misc/invar_block": {
     "criteria": {
-      "has_item": "2025-01-01 02:33:52 +0000"
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-01-01 02:09:33 +0000"
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/electrum_dust_from_ingot": {
+  "alltheores:recipes/misc/copper_ingot_from_dust_blasting": {
     "criteria": {
-      "has_electrum_ingot": "2025-01-01 02:35:17 +0000"
+      "has_item": "2025-01-01 02:10:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "occultism:recipes/misc/blasting/copper_ingot_from_dust": {
     "criteria": {
-      "has_diamond": "2025-01-01 02:26:32 +0000"
+      "has_copper_dust": "2025-01-01 02:10:55 +0000"
     },
     "done": true
   },
-  "alltheores:recipes/misc/silver_ingot_from_ore_blasting": {
+  "occultism:recipes/misc/smelting/copper_ingot_from_dust": {
     "criteria": {
-      "has_item": "2025-01-01 02:32:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-01-01 02:20:25 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/smelting/silver_ingot_from_dust": {
-    "criteria": {
-      "has_silver_dust": "2025-01-01 02:33:06 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/signalum_plate": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/signalum]_ingot": "2025-01-01 02:36:28 +0000"
+      "has_copper_dust": "2025-01-01 02:10:55 +0000"
     },
     "done": true
   },
@@ -8341,27 +7897,27 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/silver_ingot_from_raw": {
+  "alltheores:recipes/misc/constantan_ingot_from_dust_blasting": {
     "criteria": {
-      "has_item": "2025-01-01 02:32:25 +0000"
+      "has_item": "2025-01-01 02:11:04 +0000"
     },
     "done": true
   },
-  "constructionwand:recipes/tools/diamond_wand": {
+  "alltheores:recipes/misc/constantan_ingot_from_dust": {
     "criteria": {
-      "has_item": "2025-01-01 02:26:32 +0000"
+      "has_item": "2025-01-01 02:11:04 +0000"
     },
     "done": true
   },
-  "exdeorum:recipes/misc/diamond_mesh": {
+  "alltheores:recipes/misc/constantan_gear": {
     "criteria": {
-      "has_item": "2025-01-01 02:26:32 +0000"
+      "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2025-01-01 02:11:44 +0000"
     },
     "done": true
   },
-  "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
+  "alltheores:recipes/misc/constantan_rod": {
     "criteria": {
-      "has_raw_silver": "2025-01-01 02:32:25 +0000"
+      "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2025-01-01 02:11:44 +0000"
     },
     "done": true
   },
@@ -8377,15 +7933,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diamond_block": {
+  "occultism:recipes/crushing/crushing/constantan_dust_from_ingot": {
     "criteria": {
-      "has_diamond": "2025-01-01 02:26:32 +0000"
+      "has_constantan_ingot": "2025-01-01 02:11:44 +0000"
     },
     "done": true
   },
-  "alltheores:recipes/misc/diamond_gear": {
+  "alltheores:recipes/misc/constantan_block": {
     "criteria": {
-      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-01-01 02:26:32 +0000"
+      "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2025-01-01 02:11:44 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/constantan_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-01-01 02:11:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-01 02:12:14 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/reinforced_filter_rail": {
+    "criteria": {
+      "criterion1": "2025-01-01 02:12:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 02:12:14 +0000"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/misc/synthetic_point": {
+    "criteria": {
+      "has_nugget": "2025-01-01 02:12:14 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/filter_rail": {
+    "criteria": {
+      "criterion1": "2025-01-01 02:12:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-01 02:12:14 +0000"
     },
     "done": true
   },
@@ -8395,15 +7993,69 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/electrum_block": {
+  "allthecompressed:recipes/building_blocks/compress/netherrack_1x": {
     "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/electrum]_ingot": "2025-01-01 02:35:17 +0000"
+      "has_netherrack": "2025-01-01 02:15:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
+  "mcwwindows:recipes/quartz": {
     "criteria": {
-      "has_emerald": "2025-01-01 02:27:00 +0000"
+      "has_wood": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/quartz_dust_from_gem": {
+    "criteria": {
+      "has_quartz_gem": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-01-01 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-01 02:20:25 +0000"
     },
     "done": true
   },
@@ -8419,129 +8071,15 @@
     },
     "done": true
   },
-  "bloodmagic:recipes/misc/synthetic_point": {
-    "criteria": {
-      "has_nugget": "2025-01-01 02:12:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-01-01 02:55:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-01-01 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/diamond_dust_from_gem": {
-    "criteria": {
-      "has_diamond_gem": "2025-01-01 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/nickel_ingot_from_raw_blasting": {
-    "criteria": {
-      "has_item": "2025-01-01 02:08:57 +0000"
-    },
-    "done": true
-  },
-  "utilitix:recipes/misc/filter_rail": {
-    "criteria": {
-      "criterion1": "2025-01-01 02:12:14 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/constantan_dust_from_ingot": {
-    "criteria": {
-      "has_constantan_ingot": "2025-01-01 02:11:44 +0000"
-    },
-    "done": true
-  },
-  "mythicbotany:recipes/misc/alfsteel_pylon": {
-    "criteria": {
-      "criterion2": "2025-01-01 02:20:28 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/electrum_ingot_from_dust_blasting": {
-    "criteria": {
-      "has_item": "2025-01-01 02:33:52 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/electrum_gear": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/electrum]_ingot": "2025-01-01 02:35:17 +0000"
-    },
-    "done": true
-  },
-  "exmachinis:recipes/misc/diamond_upgrade": {
-    "criteria": {
-      "has_diamond": "2025-01-01 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/constantan_block": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2025-01-01 02:11:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2025-01-01 02:26:32 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/misc/quartz_lavender": {
     "criteria": {
       "has_item": "2025-01-01 02:20:25 +0000"
     },
     "done": true
   },
-  "silentgear:recipes/misc/diamond_shard": {
-    "criteria": {
-      "has_item": "2025-01-01 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/blasting/silver_ingot_from_dust": {
-    "criteria": {
-      "has_silver_dust": "2025-01-01 02:33:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2025-01-01 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wire_electrum": {
-    "criteria": {
-      "has_electrum_ingot": "2025-01-01 02:35:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-01-01 02:20:25 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/misc/high_covalence_dust": {
-    "criteria": {
-      "has_diamond": "2025-01-01 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/emerald_dust_from_gem": {
-    "criteria": {
-      "has_emerald_gem": "2025-01-01 02:27:00 +0000"
     },
     "done": true
   },
@@ -8554,18 +8092,6 @@
   "botania:recipes/misc/quartz_dark": {
     "criteria": {
       "has_item": "2025-01-01 02:20:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2025-01-01 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/invar_ingot_from_dust_blasting": {
-    "criteria": {
-      "has_item": "2025-01-01 02:09:09 +0000"
     },
     "done": true
   },
@@ -8587,45 +8113,225 @@
     },
     "done": true
   },
-  "allthecompressed:recipes/building_blocks/compress/netherrack_1x": {
-    "criteria": {
-      "has_netherrack": "2025-01-01 02:15:18 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/emerald_shard": {
-    "criteria": {
-      "has_item": "2025-01-01 02:27:00 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/electrum_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/electrum]_ingot": "2025-01-01 02:35:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-01-01 02:20:25 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/plate_electrum_hammering": {
+  "botania:recipes/tools/blood_pendant": {
     "criteria": {
-      "has_electrum_ingot": "2025-01-01 02:35:17 +0000"
+      "has_item": "2025-01-01 02:20:28 +0000"
     },
     "done": true
   },
-  "alltheores:recipes/misc/constantan_nugget_from_ingot": {
+  "botania:recipes/misc/incense_stick": {
     "criteria": {
-      "has_item": "2025-01-01 02:11:44 +0000"
+      "has_item": "2025-01-01 02:20:28 +0000"
     },
     "done": true
   },
-  "occultism:recipes/misc/smelting/silver_ingot": {
+  "mythicbotany:recipes/misc/alfsteel_pylon": {
     "criteria": {
-      "has_silver_ore": "2025-01-01 02:32:16 +0000"
+      "criterion2": "2025-01-01 02:20:28 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2025-01-01 02:20:30 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/glowing_water": {
+    "criteria": {
+      "has_nether_wart": "2025-01-01 02:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-01 02:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-01 02:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/diamond_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_item": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/spirit_attuned_gem": {
+    "criteria": {
+      "has_diamond": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_building": {
+    "criteria": {
+      "has_diamond": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/diamond_mesh_from_golden_mesh": {
+    "criteria": {
+      "has_item": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/diamond_shears": {
+    "criteria": {
+      "criterion0": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/diamond_blacksmith_gavel": {
+    "criteria": {
+      "has_gems/diamond": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/diamond_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_exchanging": {
+    "criteria": {
+      "has_diamond": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/treasure_core": {
+    "criteria": {
+      "has_diamond": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/diamond_mesh": {
+    "criteria": {
+      "has_item": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/diamond_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/diamond_dust_from_gem": {
+    "criteria": {
+      "has_diamond_gem": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:recipes/misc/diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/diamond_shard": {
+    "criteria": {
+      "has_item": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/high_covalence_dust": {
+    "criteria": {
+      "has_diamond": "2025-01-01 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-01-01 02:26:32 +0000"
     },
     "done": true
   },
@@ -8635,33 +8341,327 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/electrum_plate": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/electrum]_ingot": "2025-01-01 02:35:17 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/invar_block": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-01-01 02:09:33 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sconce_soul": {
-    "criteria": {
-      "has_iron_nugget": "2025-01-01 02:12:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-01-01 02:26:32 +0000"
     },
     "done": true
   },
-  "alltheores:recipes/misc/raw_nickel_block": {
+  "mythicbotany:recipes/misc/central_rune_holder": {
     "criteria": {
-      "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2025-01-01 02:08:57 +0000"
+      "criterion0": "2025-01-01 02:27:00 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/experience_crystal": {
+    "criteria": {
+      "criterion1": "2025-01-01 02:27:00 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/emerald_from_shards": {
+    "criteria": {
+      "has_item": "2025-01-01 02:27:00 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_copy_paste": {
+    "criteria": {
+      "has_emerald": "2025-01-01 02:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-01 02:27:00 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/emerald_dust_from_gem": {
+    "criteria": {
+      "has_emerald_gem": "2025-01-01 02:27:00 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/emerald_shard": {
+    "criteria": {
+      "has_item": "2025-01-01 02:27:00 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/silver_dust": {
+    "criteria": {
+      "has_silver": "2025-01-01 02:32:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-01-01 02:32:16 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/silver_ingot": {
+    "criteria": {
+      "has_silver_ore": "2025-01-01 02:32:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-01-01 02:32:16 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/silver_ingot": {
+    "criteria": {
+      "has_silver_ore": "2025-01-01 02:32:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/silver]": "2025-01-01 02:32:25 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-01-01 02:32:25 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-01-01 02:32:25 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/silver_dust_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-01-01 02:32:25 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-01-01 02:32:25 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-01-01 02:32:25 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-01-01 02:32:25 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/silver_ingot_from_dust": {
+    "criteria": {
+      "has_silver_dust": "2025-01-01 02:33:06 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/silver_ingot_from_dust": {
+    "criteria": {
+      "has_silver_dust": "2025-01-01 02:33:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/electrum_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-01-01 02:33:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/electrum_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-01-01 02:33:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/signalum_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-01-01 02:35:14 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/signalum_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-01-01 02:35:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_mv_relay": {
+    "criteria": {
+      "has_electrum_ingot": "2025-01-01 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/electrum_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-01-01 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_mv": {
+    "criteria": {
+      "has_electrum_ingot": "2025-01-01 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/generator": {
+    "criteria": {
+      "has_electrum_ingot": "2025-01-01 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_electrum": {
+    "criteria": {
+      "has_electrum_ingot": "2025-01-01 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/heavy_engineering": {
+    "criteria": {
+      "has_electrum_ingot": "2025-01-01 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/electrum_dust_from_ingot": {
+    "criteria": {
+      "has_electrum_ingot": "2025-01-01 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/electrum_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/electrum]_ingot": "2025-01-01 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/electrum_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/electrum]_ingot": "2025-01-01 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_electrum": {
+    "criteria": {
+      "has_electrum_ingot": "2025-01-01 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/electrum_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/electrum]_ingot": "2025-01-01 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_electrum_hammering": {
+    "criteria": {
+      "has_electrum_ingot": "2025-01-01 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/electrum_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/electrum]_ingot": "2025-01-01 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-01 02:35:47 +0000"
+    },
+    "done": true
+  },
+  "pylons:recipes/misc/infusion_pylon": {
+    "criteria": {
+      "has_emerald_block": "2025-01-01 02:35:47 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/emerald_block_1x": {
+    "criteria": {
+      "has_emerald_block": "2025-01-01 02:35:47 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/signalum_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/signalum]_ingot": "2025-01-01 02:36:28 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/signalum_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/signalum]_ingot": "2025-01-01 02:36:28 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/signalum_dust_from_ingot": {
+    "criteria": {
+      "has_signalum_ingot": "2025-01-01 02:36:28 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/signalum_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-01-01 02:36:28 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/signalum_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/signalum]_ingot": "2025-01-01 02:36:28 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/signalum_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/signalum]_ingot": "2025-01-01 02:36:28 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/silent_stone_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 02:51:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_item": "2025-01-01 02:55:08 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/redstone_block_1x": {
+    "criteria": {
+      "has_redstone_block": "2025-01-01 02:55:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-01-01 02:55:08 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/irom_ingot_from_cauldron": {
+    "criteria": {
+      "has_cauldron": "2025-01-01 02:57:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-01-01 03:00:36 +0000"
     },
     "done": true
   },
