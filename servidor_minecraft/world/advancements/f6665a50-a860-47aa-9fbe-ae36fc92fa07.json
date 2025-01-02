@@ -8224,6 +8224,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_wood": "2025-01-02 02:45:39 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/scratched_glass_white_pane2": {
     "criteria": {
       "recipe_condition2": "2025-01-02 02:08:41 +0000"
@@ -8245,6 +8251,12 @@
   "utilitarian:recipes/misc/utility/gold_block_from_smelting": {
     "criteria": {
       "has_raw_gold": "2025-01-02 00:31:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-01-02 02:45:39 +0000"
     },
     "done": true
   },
@@ -8308,9 +8320,21 @@
     },
     "done": true
   },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-01-02 02:50:53 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/infuser_from_enchanting_table": {
     "criteria": {
       "has_enchanting_table": "2025-01-02 00:23:01 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/cave_spider": {
+    "criteria": {
+      "has_chelicerae": "2025-01-02 02:44:51 +0000"
     },
     "done": true
   },
@@ -8398,6 +8422,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-01-02 02:52:20 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/purpur_block_dark_r": {
+    "criteria": {
+      "has_purpur_block": "2025-01-02 02:52:20 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/kivi_bricks_cloud_light": {
     "criteria": {
       "has_kivi": "2025-01-02 01:31:52 +0000"
@@ -8476,6 +8512,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-01-02 02:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-02 02:45:39 +0000"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/misc/space_chamber_card": {
     "criteria": {
       "glass": "2025-01-02 01:27:20 +0000"
@@ -8539,6 +8587,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2025-01-02 00:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-01-02 02:52:16 +0000"
     },
     "done": true
   },
@@ -8635,6 +8689,12 @@
   "forcecraft:recipes/misc/white_force_furnace_from_dye": {
     "criteria": {
       "has_white_dye": "2025-01-02 02:08:41 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/spider_eye": {
+    "criteria": {
+      "has_chelicerae": "2025-01-02 02:44:51 +0000"
     },
     "done": true
   },
@@ -8794,6 +8854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-02 02:45:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2025-01-02 02:08:41 +0000"
@@ -8803,6 +8869,12 @@
   "mcwbridges:recipes/glass_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-02 02:45:39 +0000"
     },
     "done": true
   },
@@ -8830,6 +8902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-01-02 02:52:20 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_green": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
@@ -8845,6 +8923,18 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-02 00:31:00 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_dark_chorus": {
+    "criteria": {
+      "has_chorus": "2025-01-02 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/quartz_dust_from_gem": {
+    "criteria": {
+      "has_quartz_gem": "2025-01-02 02:45:39 +0000"
     },
     "done": true
   },
@@ -8926,6 +9016,24 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-01-02 02:45:39 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/purpur_block_dark": {
+    "criteria": {
+      "has_purpur_block": "2025-01-02 02:52:20 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/purpur_block_red_r": {
+    "criteria": {
+      "has_purpur_block": "2025-01-02 02:52:20 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/kivi_bricks_cloud_red": {
     "criteria": {
       "has_kivi": "2025-01-02 01:31:52 +0000"
@@ -8941,6 +9049,12 @@
   "forbidden_arcanus:recipes/building_blocks/deorum_glass": {
     "criteria": {
       "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-01-02 02:52:20 +0000"
     },
     "done": true
   },
@@ -9148,6 +9262,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-01-02 02:45:39 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/redstone_block_1x": {
     "criteria": {
       "has_redstone_block": "2025-01-02 02:28:41 +0000"
@@ -9235,6 +9355,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-01-02 01:57:57 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/purpur_block_green": {
+    "criteria": {
+      "has_purpur_block": "2025-01-02 02:52:20 +0000"
     },
     "done": true
   },
@@ -9337,6 +9463,12 @@
   "forbidden_arcanus:recipes/decorations/utrem_jar": {
     "criteria": {
       "has_glass/colorless": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/purpur_block_red": {
+    "criteria": {
+      "has_purpur_block": "2025-01-02 02:52:20 +0000"
     },
     "done": true
   },
@@ -9550,6 +9682,24 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_glowing_chorus": {
+    "criteria": {
+      "has_chorus": "2025-01-02 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_chorus": {
+    "criteria": {
+      "has_chorus": "2025-01-02 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/purpur_block_light_r": {
+    "criteria": {
+      "has_purpur_block": "2025-01-02 02:52:20 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_torch_raw": {
     "criteria": {
       "has_aluminum": "2025-01-02 01:20:31 +0000"
@@ -9595,6 +9745,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2025-01-02 02:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-02 02:45:39 +0000"
     },
     "done": true
   },
@@ -9718,6 +9874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-02 02:52:20 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/constantan_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2025-01-02 01:28:46 +0000"
@@ -9733,6 +9895,12 @@
   "immersiveengineering:recipes/misc/crafting/plate_constantan_hammering": {
     "criteria": {
       "has_constantan_ingot": "2025-01-02 01:28:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 02:45:35 +0000"
     },
     "done": true
   },
@@ -9796,9 +9964,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-02 02:52:20 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_sixty": {
     "criteria": {
       "has_ingredient": "2025-01-02 01:49:01 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/string": {
+    "criteria": {
+      "has_chelicerae": "2025-01-02 02:44:51 +0000"
     },
     "done": true
   },
@@ -9814,6 +9994,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 02:45:07 +0000"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/misc/red_shield_template_block": {
     "criteria": {
       "glass": "2025-01-02 01:27:20 +0000"
@@ -9823,6 +10009,12 @@
   "alltheores:recipes/misc/aluminum_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-01-02 01:20:16 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-01-02 02:45:39 +0000"
     },
     "done": true
   },
@@ -9841,6 +10033,12 @@
   "xycraft_world:recipes/building_blocks/shaped/glass_viewer_immortal": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-01-02 02:45:39 +0000"
     },
     "done": true
   },
@@ -9877,6 +10075,12 @@
   "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-02 01:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-02 02:44:51 +0000"
     },
     "done": true
   },
@@ -9943,6 +10147,12 @@
   "immersiveengineering:recipes/misc/crafting/wirecoil_redstone": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/purpur_block_light": {
+    "criteria": {
+      "has_purpur_block": "2025-01-02 02:52:20 +0000"
     },
     "done": true
   },
@@ -10102,6 +10312,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-01-02 02:44:52 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_dark": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
@@ -10123,6 +10339,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-02 00:31:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-01-02 02:45:39 +0000"
     },
     "done": true
   },
@@ -10158,6 +10380,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-02 02:44:52 +0000",
+      "minecraft:spider": "2025-01-02 02:44:50 +0000",
       "minecraft:creeper": "2025-01-02 02:04:35 +0000"
     },
     "done": false
@@ -10240,15 +10464,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-02 02:45:39 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-01-02 01:21:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-01-02 02:52:16 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_red": {
     "criteria": {
       "has_ingots/aluminum": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-02 02:43:59 +0000"
     },
     "done": true
   },
@@ -10267,6 +10509,12 @@
   "sfm:recipes/redstone/labelgun": {
     "criteria": {
       "has_ink": "2025-01-02 00:33:36 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/purpur_block_blue": {
+    "criteria": {
+      "has_purpur_block": "2025-01-02 02:52:20 +0000"
     },
     "done": true
   },
@@ -10312,6 +10560,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/building_blocks/shaped/purpur_block_blue_r": {
+    "criteria": {
+      "has_purpur_block": "2025-01-02 02:52:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-01-02 00:33:36 +0000"
@@ -10333,6 +10587,18 @@
   "occultism:recipes/misc/crafting/book_of_binding_marid": {
     "criteria": {
       "has_taboo_book": "2025-01-02 02:08:08 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-01-02 02:45:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-01-02 02:45:39 +0000"
     },
     "done": true
   },
@@ -10378,6 +10644,18 @@
     },
     "done": true
   },
+  "botania:recipes/misc/quartz_red": {
+    "criteria": {
+      "has_item": "2025-01-02 02:45:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_sunny": {
+    "criteria": {
+      "has_item": "2025-01-02 02:45:39 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/stonecutting/kivi_bricks": {
     "criteria": {
       "has_for_kivi_bricks": "2025-01-02 01:31:52 +0000"
@@ -10387,6 +10665,18 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/purpur_block_green_r": {
+    "criteria": {
+      "has_purpur_block": "2025-01-02 02:52:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-01-02 02:45:39 +0000"
     },
     "done": true
   },
@@ -10492,6 +10782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-02 02:45:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-02 01:14:38 +0000"
@@ -10570,6 +10866,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/mob_charm_fragments/spider": {
+    "criteria": {
+      "has_chelicerae": "2025-01-02 02:44:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-01-02 01:15:09 +0000"
@@ -10603,6 +10905,12 @@
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2025-01-02 01:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-02 02:52:20 +0000"
     },
     "done": true
   },
