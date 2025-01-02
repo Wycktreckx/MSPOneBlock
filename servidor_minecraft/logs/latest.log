@@ -2282,3 +2282,9 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [02Jan2025 17:13:08.590] [Server thread/INFO] [tombstone/]: The player Wycktreckz has successfully been saved
 [02Jan2025 17:13:18.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has reached the goal [Here They Come]
 [02Jan2025 17:17:12.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Best Friends Forever]
+[02Jan2025 17:26:04.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Neighborhood Brawl]
+[02Jan2025 17:26:49.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Ashes 'n Bones]
+[02Jan2025 17:26:52.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Ashes 'n Bones]
+[02Jan2025 17:28:21.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Far From Perfect]
+[02Jan2025 17:28:28.422] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Necrotic Farmer'/3017, l='ServerLevel[world]', x=4090.40, y=67.00, z=-12.65] died: Necrotic Farmer was slain by Wycktreckz
+[02Jan2025 17:34:52.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [The Parrots and the Bats]
