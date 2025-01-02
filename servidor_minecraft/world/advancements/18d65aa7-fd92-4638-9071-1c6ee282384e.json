@@ -10191,6 +10191,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_advanced_compacting_upgrade_from_backpack_advanced_compacting_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-01-02 01:24:18 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/netherite_scrap_from_clibano_combusting": {
     "criteria": {
       "has_item": "2025-01-02 00:33:41 +0000"

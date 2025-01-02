@@ -8055,6 +8055,18 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/invar_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-01-02 01:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-02 01:14:38 +0000"
@@ -8070,6 +8082,18 @@
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_light": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-01-02 01:27:55 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/nickel_dust_from_raw": {
+    "criteria": {
+      "has_raw_nickel": "2025-01-02 01:27:13 +0000"
     },
     "done": true
   },
@@ -8097,9 +8121,27 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/kivi_bricks_cloud_dark_r": {
+    "criteria": {
+      "has_kivi": "2025-01-02 01:31:52 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_mv": {
+    "criteria": {
+      "has_nickel_ingot": "2025-01-02 01:27:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-02 01:14:38 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_hv": {
+    "criteria": {
+      "has_nickel_ingot": "2025-01-02 01:27:55 +0000"
     },
     "done": true
   },
@@ -8115,15 +8157,51 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/invar_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-01-02 01:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_nickel_hammering": {
+    "criteria": {
+      "has_nickel_ingot": "2025-01-02 01:27:55 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/gold_block_from_smelting": {
     "criteria": {
       "has_raw_gold": "2025-01-02 00:31:00 +0000"
     },
     "done": true
   },
+  "exmachinis:recipes/misc/flux_hammer": {
+    "criteria": {
+      "has_diamond_hammer": "2025-01-02 01:25:12 +0000"
+    },
+    "done": true
+  },
   "xycraft_machines:recipes/misc/shaped/machine_base": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/invar_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-01-02 01:23:55 +0000"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/misc/sacrificial_dagger": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
     },
     "done": true
   },
@@ -8157,6 +8235,48 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/stonecutting/kivi_rajan": {
+    "criteria": {
+      "has_for_kivi_rajan": "2025-01-02 01:31:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-01-02 01:27:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-02 01:29:51 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/kivi_bricks_cloud_light_r": {
+    "criteria": {
+      "has_kivi": "2025-01-02 01:31:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/glass_black": {
     "criteria": {
       "has_dyes/black": "2025-01-02 00:33:36 +0000"
@@ -8166,6 +8286,12 @@
   "alltheores:recipes/misc/aluminum_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-01-02 01:20:16 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/kivi_bricks_cloud_light": {
+    "criteria": {
+      "has_kivi": "2025-01-02 01:31:52 +0000"
     },
     "done": true
   },
@@ -8205,15 +8331,45 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/reinforced_filter_rail": {
+    "criteria": {
+      "criterion1": "2025-01-02 01:29:51 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/facade": {
+    "criteria": {
+      "glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/glass_viewer_immortal_r": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/space_chamber_card": {
+    "criteria": {
+      "glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks": {
     "criteria": {
       "has_aluminum": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
     },
     "done": true
   },
@@ -8247,6 +8403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 00:32:04 +0000"
@@ -8256,6 +8418,24 @@
   "occultism:recipes/crushing/crushing/aluminum_dust": {
     "criteria": {
       "has_aluminum": "2025-01-02 01:20:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-01-02 01:27:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/kivi_bricks_cloud_blue": {
+    "criteria": {
+      "has_kivi": "2025-01-02 01:31:52 +0000"
     },
     "done": true
   },
@@ -8271,6 +8451,24 @@
     },
     "done": true
   },
+  "rftoolsbuilder:recipes/misc/yellow_shield_template_block": {
+    "criteria": {
+      "glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/green_shield_template_block": {
+    "criteria": {
+      "glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-01-02 01:27:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 00:32:04 +0000"
@@ -8280,6 +8478,12 @@
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_light": {
     "criteria": {
       "has_ingots/aluminum": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/constantan_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-01-02 01:28:20 +0000"
     },
     "done": true
   },
@@ -8313,6 +8517,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-01-02 01:27:10 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/constantan_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2025-01-02 01:28:46 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/wire_aluminum": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
@@ -8322,6 +8550,18 @@
   "apotheosis:enchanting/enchanter": {
     "criteria": {
       "enchanting_table": "2025-01-02 00:23:01 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/stonecutting/kivi_tiles": {
+    "criteria": {
+      "has_for_kivi_tiles": "2025-01-02 01:31:52 +0000"
     },
     "done": true
   },
@@ -8343,9 +8583,21 @@
     },
     "done": true
   },
+  "exdeorum:recipes/tools/compressed_diamond_hammer": {
+    "criteria": {
+      "has_item": "2025-01-02 01:25:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-02 00:31:00 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/stonecutting/glass": {
+    "criteria": {
+      "has_for_glass": "2025-01-02 01:27:20 +0000"
     },
     "done": true
   },
@@ -8391,9 +8643,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 01:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-02 01:14:38 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/kivi_bricks_cloud_red": {
+    "criteria": {
+      "has_kivi": "2025-01-02 01:31:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-01-02 01:27:55 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/deorum_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/kivi_bricks_cloud_green_r": {
+    "criteria": {
+      "has_kivi": "2025-01-02 01:31:52 +0000"
     },
     "done": true
   },
@@ -8409,9 +8691,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/invar_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-01-02 01:23:55 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/blackstone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-02 00:32:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/stonecutting/glass_viewer_silicon": {
+    "criteria": {
+      "has_for_glass_viewer_silicon": "2025-01-02 01:27:20 +0000"
     },
     "done": true
   },
@@ -8433,9 +8727,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/constantan_mix": {
+    "criteria": {
+      "has_nickel_dust": "2025-01-02 01:28:11 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/tools/crafting/divination_rod": {
     "criteria": {
       "has_spirit_attuned_gem": "2025-01-02 01:13:23 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-01-02 01:27:10 +0000"
     },
     "done": true
   },
@@ -8472,6 +8778,12 @@
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_green": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/runic_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
     },
     "done": true
   },
@@ -8529,6 +8841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:19 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/lenses": {
     "criteria": {
       "has_spirit_attuned_gem": "2025-01-02 01:13:23 +0000"
@@ -8544,6 +8862,18 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-02 01:14:38 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-01-02 01:27:13 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/kivi_bricks_cloud_green": {
+    "criteria": {
+      "has_kivi": "2025-01-02 01:31:52 +0000"
     },
     "done": true
   },
@@ -8577,15 +8907,45 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/blasting/copper_ingot_from_dust": {
+    "criteria": {
+      "has_copper_dust": "2025-01-02 01:27:27 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_glass": {
+    "criteria": {
+      "has_wood": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_torch": {
     "criteria": {
       "has_aluminum": "2025-01-02 01:21:29 +0000"
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/nickel_dust": {
+    "criteria": {
+      "has_nickel": "2025-01-02 01:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/alu_scaffolding_standard": {
     "criteria": {
       "has_alu_ingot": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-01-02 01:27:55 +0000"
     },
     "done": true
   },
@@ -8598,6 +8958,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-01-02 01:14:38 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/decorations/utrem_jar": {
+    "criteria": {
+      "has_glass/colorless": "2025-01-02 01:27:20 +0000"
     },
     "done": true
   },
@@ -8625,6 +8991,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/constantan_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-01-02 01:28:20 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-01-02 00:50:17 +0000"
@@ -8643,9 +9015,33 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/constantan_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2025-01-02 01:28:46 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_dark": {
     "criteria": {
       "has_ingots/aluminum": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/copper_ingot_from_dust": {
+    "criteria": {
+      "has_copper_dust": "2025-01-02 01:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/nickel_dust_from_ingot": {
+    "criteria": {
+      "has_nickel_ingot": "2025-01-02 01:27:55 +0000"
     },
     "done": true
   },
@@ -8655,9 +9051,27 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/kivi_bricks_cloud_red_r": {
+    "criteria": {
+      "has_kivi": "2025-01-02 01:31:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-01-02 01:15:09 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/invar_dust_from_ingot": {
+    "criteria": {
+      "has_invar_ingot": "2025-01-02 01:23:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-01-02 01:27:20 +0000"
     },
     "done": true
   },
@@ -8703,6 +9117,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-01-02 01:27:27 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/building_blocks/force_brick_black": {
     "criteria": {
       "has_black_dye": "2025-01-02 00:33:36 +0000"
@@ -8721,6 +9147,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/stonecutting/smooth_kivi": {
+    "criteria": {
+      "has_for_smooth_kivi": "2025-01-02 01:31:52 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge": {
     "criteria": {
       "has_planks": "2025-01-02 01:14:38 +0000"
@@ -8730,6 +9162,12 @@
   "occultism:recipes/spirit_trade/spirit_trade/otherworld_sapling": {
     "criteria": {
       "has_otherworld_sapling_natural": "2025-01-02 01:15:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-01-02 01:27:20 +0000"
     },
     "done": true
   },
@@ -8745,9 +9183,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/constantan_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2025-01-02 01:28:46 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_constantan_hammering": {
+    "criteria": {
+      "has_constantan_ingot": "2025-01-02 01:28:46 +0000"
     },
     "done": true
   },
@@ -8811,9 +9261,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/red_shield_template_block": {
+    "criteria": {
+      "glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-01-02 01:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
     },
     "done": true
   },
@@ -8829,9 +9297,21 @@
     },
     "done": true
   },
+  "bloodmagic:recipes/misc/synthetic_point": {
+    "criteria": {
+      "has_nugget": "2025-01-02 01:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-02 01:14:38 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-01-02 01:27:13 +0000"
     },
     "done": true
   },
@@ -8844,6 +9324,18 @@
   "occultism:recipes/crushing/crushing/aluminum_dust_from_raw": {
     "criteria": {
       "has_raw_aluminum": "2025-01-02 01:20:31 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/filter_rail": {
+    "criteria": {
+      "criterion1": "2025-01-02 01:29:51 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/constantan_dust_from_ingot": {
+    "criteria": {
+      "has_constantan_ingot": "2025-01-02 01:28:46 +0000"
     },
     "done": true
   },
@@ -8865,6 +9357,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/kivi_bricks": {
+    "criteria": {
+      "has_kivi": "2025-01-02 01:31:52 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_blue": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
@@ -8883,6 +9381,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/redstone/force_engine": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-01-02 01:20:31 +0000"
@@ -8892,6 +9396,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 00:32:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/kivi_bricks_cloud_dark": {
+    "criteria": {
+      "has_kivi": "2025-01-02 01:31:52 +0000"
     },
     "done": true
   },
@@ -8943,15 +9453,45 @@
     },
     "done": true
   },
+  "rftoolsbuilder:recipes/misc/blue_shield_template_block": {
+    "criteria": {
+      "glass": "2025-01-02 01:27:19 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/kivi_bricks_cloud_blue_r": {
+    "criteria": {
+      "has_kivi": "2025-01-02 01:31:52 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/misc/compacting/aluminum_ingot": {
     "criteria": {
       "has_aluminum_ingot": "2025-01-02 01:21:29 +0000"
     },
     "done": true
   },
+  "utilitix:recipes/misc/piston_cart": {
+    "criteria": {
+      "criterion0": "2025-01-02 01:29:42 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass1": {
+    "criteria": {
+      "recipe_condition": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-02 01:14:38 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/constantan_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2025-01-02 01:28:46 +0000"
     },
     "done": true
   },
@@ -8991,6 +9531,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/stonecutting/glass_viewer_dire": {
+    "criteria": {
+      "has_for_glass_viewer_dire": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackstone_lamp": {
     "criteria": {
       "has_blackstone": "2025-01-02 00:32:04 +0000"
@@ -9000,6 +9552,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 00:32:04 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/dark_runic_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
     },
     "done": true
   },
@@ -9021,6 +9579,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/stonecutting/kivi": {
+    "criteria": {
+      "has_for_kivi": "2025-01-02 01:31:52 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting_raw_gold": {
     "criteria": {
       "has_item": "2025-01-02 00:31:00 +0000"
@@ -9030,6 +9594,12 @@
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2025-01-02 00:33:36 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/glass_1x": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
     },
     "done": true
   },
@@ -9060,6 +9630,12 @@
   "sfm:recipes/redstone/labelgun": {
     "criteria": {
       "has_ink": "2025-01-02 00:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
     },
     "done": true
   },
@@ -9105,9 +9681,27 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/stonecutting/glass_viewer": {
+    "criteria": {
+      "has_for_glass_viewer": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-01-02 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/stonecutting/kivi_bricks": {
+    "criteria": {
+      "has_for_kivi_bricks": "2025-01-02 01:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
     },
     "done": true
   },
@@ -9141,6 +9735,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/force_flask": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-01-02 00:24:16 +0000"
@@ -9153,9 +9753,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:27:20 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/building_blocks/force_black_torch": {
     "criteria": {
       "has_dye": "2025-01-02 00:33:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_piston": "2025-01-02 01:29:42 +0000"
     },
     "done": true
   },
@@ -9207,6 +9819,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/constantan_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-01-02 01:28:46 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/building_blocks/crafting/otherstone_slab": {
     "criteria": {
       "has_otherstone": "2025-01-02 01:14:53 +0000"
@@ -9231,9 +9849,27 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/invar_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-01-02 01:23:55 +0000"
+    },
+    "done": true
+  },
+  "rftoolspower:recipes/rftoolspower/power_core1": {
+    "criteria": {
+      "core": "2025-01-02 01:24:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-01-02 01:14:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-02 01:29:51 +0000"
     },
     "done": true
   },
@@ -9249,9 +9885,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_nickel_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2025-01-02 01:27:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2025-01-02 00:33:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-01-02 01:27:20 +0000"
     },
     "done": true
   },
