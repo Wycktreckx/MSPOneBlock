@@ -8043,5 +8043,47 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/infuser_from_enchanting_table": {
+    "criteria": {
+      "has_enchanting_table": "2025-01-02 00:23:01 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-01-02 00:23:01 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-01-02 00:21:46 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_pickaxe": {
+    "criteria": {
+      "has_tool": "2025-01-02 00:23:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/paper_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2025-01-02 00:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-02 00:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-02 00:18:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
