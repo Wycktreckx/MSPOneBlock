@@ -10827,5 +10827,71 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_upgrade": {
+    "criteria": {
+      "pearl": "2025-01-02 17:11:33 +0000"
+    },
+    "done": true
+  },
+  "allthetweaks:recipes/misc/ender_pearl_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-02 17:11:33 +0000"
+    },
+    "done": true
+  },
+  "shrink:recipes/tools/shrinking_device": {
+    "criteria": {
+      "has_enderpearls": "2025-01-02 17:11:33 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/collector": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-02 17:11:33 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_destruction": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-02 17:11:33 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/charged_porter": {
+    "criteria": {
+      "pearl": "2025-01-02 17:11:33 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_sword": {
+    "criteria": {
+      "has_tool": "2025-01-02 17:04:27 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/teleport_pad": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-02 17:11:33 +0000"
+    },
+    "done": true
+  },
+  "entangled:recipes/misc/block": {
+    "criteria": {
+      "recipe_condition": "2025-01-02 17:11:33 +0000"
+    },
+    "done": true
+  },
+  "entangled:recipes/misc/item": {
+    "criteria": {
+      "recipe_condition": "2025-01-02 17:11:33 +0000"
+    },
+    "done": true
+  },
+  "itemcollectors:recipes/misc/basic_collector": {
+    "criteria": {
+      "recipe_condition": "2025-01-02 17:11:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

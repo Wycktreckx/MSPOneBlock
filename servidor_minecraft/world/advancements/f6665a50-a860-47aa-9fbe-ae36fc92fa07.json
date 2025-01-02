@@ -10310,7 +10310,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-02 02:44:52 +0000",
       "minecraft:spider": "2025-01-02 02:44:50 +0000",
-      "minecraft:creeper": "2025-01-02 02:04:35 +0000"
+      "minecraft:creeper": "2025-01-02 02:04:35 +0000",
+      "minecraft:zombie": "2025-01-02 17:12:00 +0000"
     },
     "done": false
   },
@@ -10953,6 +10954,30 @@
   "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-01-02 02:52:20 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/gold_nugget": {
+    "criteria": {
+      "has_zombie_heart": "2025-01-02 17:12:03 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/zombie": {
+    "criteria": {
+      "has_zombie_heart": "2025-01-02 17:12:03 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/rotten_flesh": {
+    "criteria": {
+      "has_zombie_heart": "2025-01-02 17:12:03 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/zombified_piglin": {
+    "criteria": {
+      "has_zombie_heart": "2025-01-02 17:12:03 +0000"
     },
     "done": true
   },
