@@ -8043,6 +8043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-02 00:58:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-01-02 00:33:39 +0000"
@@ -8088,6 +8094,12 @@
   "forcecraft:recipes/transmutation/transmutation/diamond_from_axe": {
     "criteria": {
       "has_tool": "2025-01-02 00:40:07 +0000"
+    },
+    "done": true
+  },
+  "pylons:recipes/misc/infusion_pylon": {
+    "criteria": {
+      "has_emerald_block": "2025-01-02 00:58:35 +0000"
     },
     "done": true
   },
@@ -8178,6 +8190,12 @@
   "mcwbridges:recipes/blackstone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-02 00:32:04 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/emerald_block_1x": {
+    "criteria": {
+      "has_emerald_block": "2025-01-02 00:58:35 +0000"
     },
     "done": true
   },
@@ -8286,6 +8304,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 00:32:04 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_sword": {
+    "criteria": {
+      "has_tool": "2025-01-02 00:58:35 +0000"
     },
     "done": true
   },
