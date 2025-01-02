@@ -10831,6 +10831,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/netherite_trapdoor": {
     "criteria": {
       "has_netherite_scrap": "2025-01-02 18:30:18 +0000"
@@ -10843,15 +10849,33 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_white": {
+    "criteria": {
+      "has_dyes/black": "2025-01-02 19:49:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-01-02 18:41:07 +0000"
     },
     "done": true
   },
+  "forcecraft:recipes/building_blocks/force_brick_white": {
+    "criteria": {
+      "has_white_dye": "2025-01-02 19:49:16 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/hay_block_1x": {
     "criteria": {
       "has_hay_block": "2025-01-02 17:12:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
+    "criteria": {
+      "forge:dyes/white": "2025-01-02 19:49:16 +0000"
     },
     "done": true
   },
@@ -10873,9 +10897,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/gold_nugget": {
     "criteria": {
       "has_zombie_heart": "2025-01-02 17:27:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 19:49:16 +0000"
     },
     "done": true
   },
@@ -10894,6 +10936,12 @@
   "exmachinis:recipes/misc/flux_hammer": {
     "criteria": {
       "has_diamond_hammer": "2025-01-02 19:32:06 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 19:49:16 +0000"
     },
     "done": true
   },
@@ -10951,6 +10999,12 @@
     },
     "done": true
   },
+  "exmachinis:recipes/misc/netherite_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/dark_oak_cabinet": {
     "criteria": {
       "has_dark_oak_trapdoor": "2025-01-02 18:44:44 +0000"
@@ -10975,6 +11029,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/building_blocks/crafting/otherstone_pedestal": {
     "criteria": {
       "has_otherstone": "2025-01-02 17:56:27 +0000"
@@ -10990,6 +11050,12 @@
   "forbidden_arcanus:recipes/building_blocks/clibano_core": {
     "criteria": {
       "has_blast_furnace": "2025-01-02 17:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-02 19:49:16 +0000"
     },
     "done": true
   },
@@ -11023,9 +11089,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-02 19:49:16 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 19:49:16 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/fine_silk_cloth": {
     "criteria": {
       "has_item": "2025-01-02 17:27:55 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_white_torch": {
+    "criteria": {
+      "has_dye": "2025-01-02 19:49:16 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/white_force_furnace_from_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-02 19:49:16 +0000"
     },
     "done": true
   },
@@ -11041,15 +11131,33 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/netherite_mesh": {
+    "criteria": {
+      "has_item": "2025-01-02 19:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-01-02 17:57:28 +0000"
     },
     "done": true
   },
+  "exdeorum:recipes/tools/netherite_watering_can": {
+    "criteria": {
+      "has_item": "2025-01-02 19:47:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-01-02 19:04:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_gold_tier_upgrade": "2025-01-02 19:44:03 +0000"
     },
     "done": true
   },
@@ -11074,6 +11182,12 @@
   "sophisticatedstorage:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 19:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-02 19:49:16 +0000"
     },
     "done": true
   },
@@ -11119,12 +11233,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-02 19:49:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2025-01-02 18:20:52 +0000",
       "minecraft:cow": "2025-01-02 18:20:48 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
+    },
+    "done": true
   },
   "apotheosis:affix/gem": {
     "criteria": {
@@ -11150,15 +11276,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/tools/crafting/divination_rod": {
     "criteria": {
       "has_spirit_attuned_gem": "2025-01-02 18:07:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-01-02 19:49:16 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/gold_chest": {
     "criteria": {
       "has_iron_chest": "2025-01-02 19:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/gauntlet_perfected_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
     },
     "done": true
   },
@@ -11177,6 +11321,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-01-02 17:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-01-02 19:49:16 +0000"
     },
     "done": true
   },
@@ -11204,9 +11354,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-02 19:49:16 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/iron_shulker_from_iron_chest": {
     "criteria": {
       "has_iron_chest": "2025-01-02 19:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
     },
     "done": true
   },
@@ -11252,6 +11414,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 19:49:16 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_sword": {
     "criteria": {
       "has_tool": "2025-01-02 17:26:08 +0000"
@@ -11288,6 +11456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-02 19:49:16 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/leather_scrap": {
     "criteria": {
       "has_item": "2025-01-02 17:28:29 +0000"
@@ -11312,6 +11486,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/tools/netherite_hammer": {
+    "criteria": {
+      "has_item": "2025-01-02 19:47:26 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/string": {
     "criteria": {
       "has_chelicerae": "2025-01-02 17:27:24 +0000"
@@ -11327,6 +11507,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2025-01-02 17:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
     },
     "done": true
   },
@@ -11348,15 +11534,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/netherite_dust_from_ingot": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/egg_roll": {
     "criteria": {
       "has_egg": "2025-01-02 18:41:07 +0000"
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/basic_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_diamond_tier_upgrade": "2025-01-02 19:45:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-01-02 17:12:29 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 19:49:16 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 19:49:16 +0000"
     },
     "done": true
   },
@@ -11375,6 +11597,18 @@
   "forcecraft:recipes/transmutation/transmutation/diamond_from_shovel": {
     "criteria": {
       "has_tool": "2025-01-02 18:58:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_white": {
+    "criteria": {
+      "has_dyes/black": "2025-01-02 19:49:16 +0000"
+    },
+    "done": true
+  },
+  "functionalstorage:recipes/misc/netherite_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
     },
     "done": true
   },
@@ -11420,6 +11654,12 @@
     },
     "done": true
   },
+  "rsinfinitybooster:recipes/misc/infinity_card": {
+    "criteria": {
+      "has_item": "2025-01-02 19:47:26 +0000"
+    },
+    "done": true
+  },
   "allthemodium:recipes/misc/teleport_pad": {
     "criteria": {
       "has_ender_pearl": "2025-01-02 17:11:33 +0000"
@@ -11441,6 +11681,12 @@
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2025-01-02 17:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
     },
     "done": true
   },
@@ -11486,6 +11732,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-02 19:49:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-01-02 18:41:07 +0000"
@@ -11498,15 +11750,39 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/smart_white": {
+    "criteria": {
+      "has_dyes/black": "2025-01-02 19:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 19:02:05 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 19:47:26 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/book_of_calling_foliot_lumberjack": {
     "criteria": {
       "has_book_of_binding_bound_foliot": "2025-01-02 17:41:51 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_white": {
+    "criteria": {
+      "has_dyes/black": "2025-01-02 19:49:16 +0000"
     },
     "done": true
   },
