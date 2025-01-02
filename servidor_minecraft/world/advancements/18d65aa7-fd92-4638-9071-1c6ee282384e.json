@@ -11011,6 +11011,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/iesnium_dust_from_raw": {
+    "criteria": {
+      "has_raw_iesnium": "2025-01-02 20:05:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-01-02 17:57:28 +0000"
@@ -11239,6 +11245,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2025-01-02 20:09:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2025-01-02 18:20:52 +0000",
@@ -11312,6 +11324,12 @@
     },
     "done": true
   },
+  "dankstorage:recipes/tools/dank_1": {
+    "criteria": {
+      "has_barrel": "2025-01-02 20:09:26 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/lenses": {
     "criteria": {
       "has_spirit_attuned_gem": "2025-01-02 18:07:35 +0000"
@@ -11372,6 +11390,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-01-02 20:09:26 +0000"
+    },
+    "done": true
+  },
   "projecte:root": {
     "criteria": {
       "philstone_recipe": "2025-01-02 19:38:13 +0000"
@@ -11405,6 +11429,12 @@
   "reliquary:recipes/misc/mob_charm_fragments/zombified_piglin": {
     "criteria": {
       "has_zombie_heart": "2025-01-02 17:27:56 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/iesnium_ingot_from_raw": {
+    "criteria": {
+      "has_raw_iesnium": "2025-01-02 20:05:22 +0000"
     },
     "done": true
   },
@@ -11732,6 +11762,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/smelting/iesnium_ingot_from_raw": {
+    "criteria": {
+      "has_raw_iesnium": "2025-01-02 20:05:22 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_white_pane2": {
     "criteria": {
       "recipe_condition2": "2025-01-02 19:49:16 +0000"
@@ -11798,6 +11834,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-01-02 20:09:26 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/building_blocks/crafting/otherstone_slab": {
     "criteria": {
       "has_otherstone": "2025-01-02 17:56:27 +0000"
@@ -11813,6 +11855,12 @@
   "entangled:recipes/misc/item": {
     "criteria": {
       "recipe_condition": "2025-01-02 17:11:33 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/raw_iesnium_block": {
+    "criteria": {
+      "has_raw_iesnium": "2025-01-02 20:05:22 +0000"
     },
     "done": true
   },

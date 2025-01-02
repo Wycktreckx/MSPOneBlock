@@ -11048,6 +11048,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-02 20:04:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_comparator": {
+    "criteria": {
+      "has_base_block": "2025-01-02 20:03:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-02 19:33:36 +0000"
@@ -11144,6 +11156,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-02 20:04:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-02 20:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-02 20:04:30 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 17:22:47 +0000"
@@ -11159,6 +11189,12 @@
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-02 19:33:36 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:recipes/misc/comparator_upgrade": {
+    "criteria": {
+      "has_comparator": "2025-01-02 20:03:17 +0000"
     },
     "done": true
   },
@@ -11216,6 +11252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-02 20:04:30 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/dead_bush": {
     "criteria": {
       "has_salts": "2025-01-02 19:37:55 +0000"
@@ -11258,6 +11300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-02 20:08:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-01-02 17:30:57 +0000"
@@ -11267,6 +11315,12 @@
   "exdeorum:recipes/tools/netherite_watering_can": {
     "criteria": {
       "has_item": "2025-01-02 19:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-02 20:04:30 +0000"
     },
     "done": true
   },
@@ -11297,6 +11351,12 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 17:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-02 20:04:30 +0000"
     },
     "done": true
   },
@@ -11475,6 +11535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-02 20:08:51 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_purple_pane2": {
     "criteria": {
       "recipe_condition2": "2025-01-02 18:13:57 +0000"
@@ -11502,6 +11568,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_magenta_dye": "2025-01-02 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-02 20:04:30 +0000"
     },
     "done": true
   },
@@ -11667,6 +11739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-02 20:04:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-01-02 17:29:36 +0000"
@@ -11766,6 +11844,12 @@
   "ae2:recipes/misc/network/cables/smart_magenta": {
     "criteria": {
       "has_dyes/black": "2025-01-02 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-02 20:04:30 +0000"
     },
     "done": true
   },
@@ -11910,6 +11994,12 @@
   "occultism:recipes/spirit_fire/spirit_fire/awakened_feather": {
     "criteria": {
       "has_feather": "2025-01-02 17:30:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-02 20:04:30 +0000"
     },
     "done": true
   },
@@ -12069,6 +12159,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_link": {
+    "criteria": {
+      "has_repeater": "2025-01-02 20:09:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-01-02 17:30:59 +0000"
@@ -12138,6 +12234,12 @@
   "connectedglass:recipes/misc/borderless_glass_magenta2": {
     "criteria": {
       "recipe_condition2": "2025-01-02 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pane1": {
+    "criteria": {
+      "recipe_condition": "2025-01-02 20:04:30 +0000"
     },
     "done": true
   },
