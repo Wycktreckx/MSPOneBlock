@@ -11126,6 +11126,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-01-02 17:34:52 +0000"
+    },
+    "done": false
+  },
   "computercraft:recipes/redstone/pocket_computer_advanced": {
     "criteria": {
       "has_apple": "2025-01-02 17:14:15 +0000"
@@ -11276,6 +11282,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-02 17:34:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2025-01-02 17:30:34 +0000"
@@ -11354,6 +11366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-01-02 17:33:14 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/mutton_to_chicken": {
     "criteria": {
       "has_mutton": "2025-01-02 17:30:57 +0000"
@@ -11381,6 +11399,12 @@
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-01-02 17:27:58 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_calling_foliot_transport_items": {
+    "criteria": {
+      "has_book_of_binding_bound_foliot": "2025-01-02 17:36:34 +0000"
     },
     "done": true
   },
@@ -11450,6 +11474,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/book_of_calling_foliot_cleaner": {
+    "criteria": {
+      "has_book_of_binding_bound_foliot": "2025-01-02 17:36:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-01-02 17:30:52 +0000"
@@ -11483,6 +11513,12 @@
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 17:22:47 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_calling_foliot_lumberjack": {
+    "criteria": {
+      "has_book_of_binding_bound_foliot": "2025-01-02 17:36:34 +0000"
     },
     "done": true
   },
