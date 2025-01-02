@@ -3464,7 +3464,8 @@
     "criteria": {
       "cooked_beef": "2025-01-01 00:22:31 +0000",
       "apple": "2025-01-01 01:09:15 +0000",
-      "bread": "2025-01-02 00:45:01 +0000"
+      "bread": "2025-01-02 00:45:01 +0000",
+      "carrot": "2025-01-02 18:46:56 +0000"
     },
     "done": false
   },
@@ -10923,6 +10924,12 @@
   "supplementaries:recipes/sign_post_dark_oak": {
     "criteria": {
       "has_dark_oak_sign": "2025-01-02 18:26:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-01-02 18:44:44 +0000"
     },
     "done": true
   },

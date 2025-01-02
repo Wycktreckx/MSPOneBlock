@@ -4527,6 +4527,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "fried_chicken": "2025-01-02 18:45:03 +0000",
       "scrambled_eggs": "2025-01-01 00:37:55 +0000",
       "toast": "2025-01-01 01:09:54 +0000"
     },
@@ -11129,6 +11130,18 @@
     },
     "done": true
   },
+  "reliquary:recipes/mob_charm": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-01-02 18:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-02 18:48:37 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/meringue": {
     "criteria": {
       "has_egg": "2025-01-02 18:14:55 +0000"
@@ -11168,6 +11181,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-01-02 17:26:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-02 18:48:37 +0000"
     },
     "done": true
   },
@@ -11637,6 +11656,12 @@
   "occultism:occultism/summon_foliot_crusher": {
     "criteria": {
       "summon_foliot_crusher": "2025-01-02 18:00:26 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_belt": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-01-02 18:46:05 +0000"
     },
     "done": true
   },

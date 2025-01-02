@@ -2724,3 +2724,7 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [02Jan2025 18:38:00.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YeferJV moved too quickly! 0.0,397.31921814927057,0.0
 [02Jan2025 18:38:14.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Ambush]
 [02Jan2025 18:40:54.349] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Hrothkornmorn'/8828, l='ServerLevel[world]', x=4141.69, y=67.00, z=6.90] died: Hrothkornmorn was slain by YeferJV using    [Captive Dreams]
+[02Jan2025 18:46:03.010] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Crymaracthyr'/8941, l='ServerLevel[world]', x=4133.50, y=67.00, z=-3.34] died: Crymaracthyr was slain by YeferJV using    [Bonesplitter]
+[02Jan2025 18:48:37.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Spooky Scary Skeleton]
+[02Jan2025 18:51:29.516] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PossessedHoglinEntity['Hafdornder'/8986, l='ServerLevel[world]', x=4143.14, y=67.14, z=-9.02] died: Hafdornder was slain by YeferJV using    [Captive Dreams]
+[02Jan2025 18:55:38.066] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PossessedHoglinEntity['Sigdelldrin'/9016, l='ServerLevel[world]', x=4139.63, y=67.50, z=-10.48] died: Sigdelldrin was slain by YeferJV using    [Captive Dreams]
