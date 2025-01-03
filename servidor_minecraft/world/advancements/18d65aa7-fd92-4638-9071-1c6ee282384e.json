@@ -12305,9 +12305,57 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_input": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-01-03 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-03 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_chest": {
+    "criteria": {
+      "has_chest": "2025-01-03 02:27:22 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/sushi": {
     "criteria": {
       "has_rice": "2025-01-03 02:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-03 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_output": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-01-03 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-03 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_chest": {
+    "criteria": {
+      "has_chest": "2025-01-03 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/chicken_to_beef": {
+    "criteria": {
+      "has_chicken": "2025-01-03 02:20:59 +0000"
     },
     "done": true
   },
@@ -12317,9 +12365,39 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-01-03 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2025-01-03 02:20:59 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/steamed_rice": {
     "criteria": {
       "has_rice": "2025-01-03 02:13:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-03 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/shulker_from_chest": {
+    "criteria": {
+      "has_chest": "2025-01-03 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_io": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-01-03 02:27:22 +0000"
     },
     "done": true
   },
@@ -12338,6 +12416,12 @@
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
       "has_rice": "2025-01-03 02:13:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_noodles": {
+    "criteria": {
+      "has_chicken": "2025-01-03 02:20:59 +0000"
     },
     "done": true
   },
