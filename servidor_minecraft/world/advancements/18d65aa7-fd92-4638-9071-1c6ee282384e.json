@@ -7656,6 +7656,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-01-03 18:33:23 +0000",
       "minecraft:spider": "2025-01-02 17:12:27 +0000",
       "minecraft:creeper": "2025-01-03 02:02:53 +0000",
       "minecraft:phantom": "2025-01-02 00:51:37 +0000",
@@ -12570,6 +12571,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/tools/force_arrow": {
+    "criteria": {
+      "has_feather": "2025-01-03 18:32:53 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/uranium_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-01-03 18:11:49 +0000"
@@ -12594,9 +12601,33 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/lantern_of_paranoia": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:07 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/blaze": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:07 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/uranium_dust": {
     "criteria": {
       "has_uranium": "2025-01-03 18:11:08 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/midas_touchstone": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:07 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/salamander_eye": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:07 +0000"
     },
     "done": true
   },
@@ -12648,15 +12679,39 @@
     },
     "done": true
   },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-01-03 18:32:53 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/ores/uranium_tag": {
     "criteria": {
       "has_item": "2025-01-03 18:06:20 +0000"
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/magma_cream": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:07 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/uranium_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-01-03 18:11:08 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/magma_cube": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:07 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/awakened_feather": {
+    "criteria": {
+      "has_feather": "2025-01-03 18:32:53 +0000"
     },
     "done": true
   },
@@ -12675,6 +12730,30 @@
   "alltheores:recipes/misc/raw_uranium_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/uranium]": "2025-01-03 18:11:27 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/blaze_rod": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:07 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2025-01-03 18:32:53 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/destruction_catalyst": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:07 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/interdiction_torch": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:07 +0000"
     },
     "done": true
   },

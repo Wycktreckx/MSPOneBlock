@@ -10313,6 +10313,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-01-03 18:32:59 +0000",
       "minecraft:skeleton": "2025-01-02 02:44:52 +0000",
       "minecraft:zoglin": "2025-01-02 18:40:54 +0000",
       "minecraft:spider": "2025-01-02 02:44:50 +0000",
@@ -13025,6 +13026,216 @@
   "forcecraft:recipes/transmutation/transmutation/diamond_from_hoe": {
     "criteria": {
       "has_tool": "2025-01-03 03:56:58 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/lantern_of_paranoia": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_dark": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_blue": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/blaze": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:21 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/midas_touchstone": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:21 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/salamander_eye": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:21 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-01-03 18:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/nether_bricks": {
+    "criteria": {
+      "has_planks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_light_r": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/magma_cream": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:21 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/magma_cube": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:21 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_red": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-01-03 18:26:42 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_light": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_red_r": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_dark_r": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/blaze_rod": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_green": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/destruction_catalyst": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:21 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/interdiction_torch": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:21 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_blue_r": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_green_r": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:29:26 +0000"
     },
     "done": true
   },
