@@ -12379,6 +12379,84 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_stairs": {
+    "criteria": {
+      "has_log": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 03:17:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-01-03 03:20:05 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_pressure_plates": {
+    "criteria": {
+      "has_log": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_gold_tier_upgrade": "2025-01-03 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_boats": {
+    "criteria": {
+      "has_log": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-01-03 02:31:14 +0000"
@@ -12397,15 +12475,57 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/dark_oak_compressed_sieve": {
+    "criteria": {
+      "has_item": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_iron_tier_upgrade": "2025-01-03 03:16:43 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_dark_oak_bridge": {
     "criteria": {
       "has_planks": "2025-01-03 02:31:14 +0000"
     },
     "done": true
   },
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_trapdoors": {
+    "criteria": {
+      "has_log": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/dark_oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-01-03 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_doors": {
+    "criteria": {
+      "has_log": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/dark_oak_log_1x": {
+    "criteria": {
+      "has_dark_oak_log": "2025-01-03 03:12:11 +0000"
     },
     "done": true
   },
@@ -12424,6 +12544,12 @@
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_planks": "2025-01-03 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
     },
     "done": true
   },
@@ -12457,6 +12583,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-01-03 02:31:14 +0000"
@@ -12475,6 +12607,24 @@
     },
     "done": true
   },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-01-03 03:11:47 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-03 02:31:14 +0000"
@@ -12487,9 +12637,39 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_diamond_tier_upgrade": "2025-01-03 03:18:46 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-01-03 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-03 03:19:51 +0000"
     },
     "done": true
   },
@@ -12499,9 +12679,27 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-03 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_slabs": {
+    "criteria": {
+      "has_log": "2025-01-03 03:12:11 +0000"
     },
     "done": true
   },
@@ -12511,9 +12709,27 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_four_panel": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-01-03 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
     },
     "done": true
   },

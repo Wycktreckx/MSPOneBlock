@@ -12305,6 +12305,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-01-03 03:20:01 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_input": {
     "criteria": {
       "has_base_tier_wooden_storage": "2025-01-03 02:27:22 +0000"
@@ -12320,6 +12326,12 @@
   "sophisticatedstorage:recipes/misc/copper_chest": {
     "criteria": {
       "has_chest": "2025-01-03 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/globe": {
+    "criteria": {
+      "has_globe_sepia": "2025-01-03 03:19:55 +0000"
     },
     "done": true
   },
@@ -12347,9 +12359,21 @@
     },
     "done": true
   },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2025-01-03 03:12:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-01-03 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-01-03 03:11:35 +0000"
     },
     "done": true
   },
@@ -12362,6 +12386,12 @@
   "forcecraft:recipes/transmutation/transmutation/chicken_to_beef": {
     "criteria": {
       "has_chicken": "2025-01-03 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2025-01-03 03:18:03 +0000"
     },
     "done": true
   },
