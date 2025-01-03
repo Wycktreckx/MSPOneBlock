@@ -12379,150 +12379,6 @@
     },
     "done": true
   },
-  "utilitarian:recipes/misc/utility/dark_oak_logs_to_stairs": {
-    "criteria": {
-      "has_log": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/component_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/dark_oak_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/shovel_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/steel_block": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-01-03 03:20:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-01-03 03:22:42 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/dark_oak": {
-    "criteria": {
-      "has_wood": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/hoe_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/steel_ingot_from_dust": {
-    "criteria": {
-      "has_item": "2025-01-03 03:20:55 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-01-03 03:17:45 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:adventure/globe": {
-    "criteria": {
-      "unlock": "2025-01-03 03:20:05 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/utility/dark_oak_logs_to_pressure_plates": {
-    "criteria": {
-      "has_log": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/basic_to_diamond_tier_upgrade": {
-    "criteria": {
-      "has_basic_to_gold_tier_upgrade": "2025-01-03 03:17:18 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/axe_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/dark_oak": {
-    "criteria": {
-      "has_wood": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/utility/dark_oak_logs_to_boats": {
-    "criteria": {
-      "has_log": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_standard": {
-    "criteria": {
-      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-01-03 03:35:03 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sawblade": {
-    "criteria": {
-      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-01-03 02:31:14 +0000"
@@ -12541,69 +12397,9 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/steel_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-01-03 03:20:54 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/steel_ingot_from_dust_blasting": {
-    "criteria": {
-      "has_item": "2025-01-03 03:20:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/misc/dark_oak_compressed_sieve": {
-    "criteria": {
-      "has_item": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/steel_plate": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-01-03 03:20:54 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/basic_to_gold_tier_upgrade": {
-    "criteria": {
-      "has_basic_to_iron_tier_upgrade": "2025-01-03 03:16:43 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/rope_dark_oak_bridge": {
     "criteria": {
       "has_planks": "2025-01-03 02:31:14 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sword_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/steel_wallmount": {
-    "criteria": {
-      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/utility/dark_oak_logs_to_trapdoors": {
-    "criteria": {
-      "has_log": "2025-01-03 03:12:11 +0000"
     },
     "done": true
   },
@@ -12613,27 +12409,9 @@
     },
     "done": true
   },
-  "utilitarian:recipes/misc/utility/dark_oak_logs_to_doors": {
-    "criteria": {
-      "has_log": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/dark_oak_log_1x": {
-    "criteria": {
-      "has_dark_oak_log": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
   "exdeorum:recipes/misc/dark_oak_sieve": {
     "criteria": {
       "has_item": "2025-01-03 02:31:14 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/netherite_shulker_from_netherite_chest": {
-    "criteria": {
-      "has_netherite_chest": "2025-01-03 03:23:05 +0000"
     },
     "done": true
   },
@@ -12643,39 +12421,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/drillhead_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_planks": "2025-01-03 02:31:14 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/coil_hv": {
-    "criteria": {
-      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wirecoil_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/gunpart_drum": {
-    "criteria": {
-      "has_ingot_steel": "2025-01-03 03:20:54 +0000"
     },
     "done": true
   },
@@ -12709,12 +12457,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-01-03 02:31:14 +0000"
@@ -12733,48 +12475,6 @@
     },
     "done": true
   },
-  "mekanismgenerators:wind_generator": {
-    "criteria": {
-      "wind_generator": "2025-01-03 03:11:47 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/steel_dust_from_ingot": {
-    "criteria": {
-      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/pickaxe_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/dark_oak": {
-    "criteria": {
-      "has_wood": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/stick_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/rockcutter": {
-    "criteria": {
-      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-03 02:31:14 +0000"
@@ -12787,21 +12487,165 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/dark_oak": {
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-01-03 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "oreberriesreplanted:recipes/misc/dark_oak_vat": {
+    "criteria": {
+      "has_planks": "2025-01-03 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-03 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-03 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-03 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-01-03 03:11:47 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_stairs": {
+    "criteria": {
+      "has_log": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-03 03:12:11 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/plate_steel_hammering": {
+  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
     "criteria": {
-      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+      "has_logs": "2025-01-03 03:12:11 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/basic_to_netherite_tier_upgrade": {
+  "mcwdoors:recipes/dark_oak": {
     "criteria": {
-      "has_basic_to_diamond_tier_upgrade": "2025-01-03 03:18:46 +0000"
+      "has_wood": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_pressure_plates": {
+    "criteria": {
+      "has_log": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_boats": {
+    "criteria": {
+      "has_log": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/dark_oak_compressed_sieve": {
+    "criteria": {
+      "has_item": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_trapdoors": {
+    "criteria": {
+      "has_log": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/dark_oak_logs_to_doors": {
+    "criteria": {
+      "has_log": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/dark_oak_log_1x": {
+    "criteria": {
+      "has_dark_oak_log": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:12:11 +0000"
     },
     "done": true
   },
@@ -12817,39 +12661,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
-    "criteria": {
-      "has_plankss": "2025-01-03 02:31:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-01-03 03:19:51 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/steel_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2025-01-03 03:20:54 +0000"
-    },
-    "done": true
-  },
-  "oreberriesreplanted:recipes/misc/dark_oak_vat": {
-    "criteria": {
-      "has_planks": "2025-01-03 02:31:14 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wire_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
     },
     "done": true
   },
@@ -12859,33 +12673,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/connector_structural": {
-    "criteria": {
-      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-01-03 02:31:14 +0000"
-    },
-    "done": true
-  },
   "utilitarian:recipes/misc/utility/dark_oak_logs_to_slabs": {
     "criteria": {
       "has_log": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_button": {
-    "criteria": {
-      "has_planks": "2025-01-03 02:31:14 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/steel_fence": {
-    "criteria": {
-      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
     },
     "done": true
   },
@@ -12895,9 +12685,201 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_fence": {
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
-      "has_planks": "2025-01-03 02:31:14 +0000"
+      "has_log": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_iron_tier_upgrade": "2025-01-03 03:16:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_gold_tier_upgrade": "2025-01-03 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 03:17:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_diamond_tier_upgrade": "2025-01-03 03:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-03 03:19:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-01-03 03:20:05 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/component_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/shovel_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hoe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/axe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_standard": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sawblade": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sword_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_wallmount": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/drillhead_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coil_hv": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_drum": {
+    "criteria": {
+      "has_ingot_steel": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/steel_dust_from_ingot": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/pickaxe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/rockcutter": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_steel_hammering": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_structural": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_fence": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
     },
     "done": true
   },
@@ -12907,21 +12889,142 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-01-03 03:12:11 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/gunpart_hammer": {
     "criteria": {
       "has_ingot_steel": "2025-01-03 03:20:54 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+  "alltheores:recipes/misc/steel_ingot_from_dust": {
     "criteria": {
-      "has_logs": "2025-01-03 03:12:11 +0000"
+      "has_item": "2025-01-03 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-01-03 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-01-03 03:22:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/netherite_shulker_from_netherite_chest": {
+    "criteria": {
+      "has_netherite_chest": "2025-01-03 03:23:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 03:35:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/doughnut": {
+    "criteria": {
+      "has_milk": "2025-01-03 03:52:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/churros": {
+    "criteria": {
+      "has_milk": "2025-01-03 03:52:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-03 03:52:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mashed_potatoes": {
+    "criteria": {
+      "has_milk": "2025-01-03 03:52:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/oatmeal": {
+    "criteria": {
+      "has_milk": "2025-01-03 03:52:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-03 03:52:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_milk_bottle": {
+    "criteria": {
+      "has_milk": "2025-01-03 03:52:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-01-03 03:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-01-03 03:53:00 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/glue_ball": {
+    "criteria": {
+      "criterion0": "2025-01-03 03:53:04 +0000",
+      "criterion1": "2025-01-03 03:53:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/lead_tagged": {
+    "criteria": {
+      "has_slime": "2025-01-03 03:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-03 03:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-03 03:53:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-01-03 03:53:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/sticky_piston_tagged": {
+    "criteria": {
+      "has_slime": "2025-01-03 03:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-03 03:53:04 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_hoe": {
+    "criteria": {
+      "has_tool": "2025-01-03 03:56:58 +0000"
     },
     "done": true
   },

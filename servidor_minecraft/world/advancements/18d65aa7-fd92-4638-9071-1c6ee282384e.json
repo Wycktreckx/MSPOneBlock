@@ -12305,141 +12305,9 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/nickel_plate": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-01-03 03:31:21 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/plate_nickel_hammering": {
-    "criteria": {
-      "has_nickel_ingot": "2025-01-03 03:31:21 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/nickel_gear": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-01-03 03:31:21 +0000"
-    },
-    "done": true
-  },
-  "mekanism:infusing_efficiency": {
-    "criteria": {
-      "enriched_material": "2025-01-03 03:23:13 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:adventure/globe": {
-    "criteria": {
-      "unlock": "2025-01-03 03:20:01 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/nickel_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-01-03 03:31:21 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_input": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-01-03 02:27:22 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/nickel_block": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-01-03 03:31:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-01-03 02:20:59 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/copper_chest": {
-    "criteria": {
-      "has_chest": "2025-01-03 02:27:22 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/nickel_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2025-01-03 03:31:21 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap/globe": {
-    "criteria": {
-      "has_globe_sepia": "2025-01-03 03:19:55 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/sushi": {
     "criteria": {
       "has_rice": "2025-01-03 02:13:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2025-01-03 02:20:59 +0000"
-    },
-    "done": true
-  },
-  "mekanism:basic_control_circuit": {
-    "criteria": {
-      "basic_control_circuit": "2025-01-03 03:10:07 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/nickel_dust_from_ingot": {
-    "criteria": {
-      "has_nickel_ingot": "2025-01-03 03:31:21 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_output": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-01-03 02:27:22 +0000"
-    },
-    "done": true
-  },
-  "mekanism:energy_transport": {
-    "criteria": {
-      "basic_universal_cable": "2025-01-03 03:12:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-01-03 02:20:59 +0000"
-    },
-    "done": true
-  },
-  "mekanismgenerators:wind_generator": {
-    "criteria": {
-      "wind_generator": "2025-01-03 03:11:35 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_chest": {
-    "criteria": {
-      "has_chest": "2025-01-03 02:27:22 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/chicken_to_beef": {
-    "criteria": {
-      "has_chicken": "2025-01-03 02:20:59 +0000"
-    },
-    "done": true
-  },
-  "mekanism:enricher": {
-    "criteria": {
-      "enrichment_chamber": "2025-01-03 03:18:03 +0000"
     },
     "done": true
   },
@@ -12449,39 +12317,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/controller": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-01-03 02:27:22 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/chicken_and_dumplings": {
-    "criteria": {
-      "has_chicken": "2025-01-03 02:20:59 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/steamed_rice": {
     "criteria": {
       "has_rice": "2025-01-03 02:13:27 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/fried_chicken": {
-    "criteria": {
-      "has_chicken": "2025-01-03 02:20:59 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/shulker_from_chest": {
-    "criteria": {
-      "has_chest": "2025-01-03 02:27:22 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_io": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-01-03 02:27:22 +0000"
     },
     "done": true
   },
@@ -12503,9 +12341,232 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-03 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-03 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-03 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/chicken_to_beef": {
+    "criteria": {
+      "has_chicken": "2025-01-03 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2025-01-03 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-03 02:20:59 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/chicken_and_noodles": {
     "criteria": {
       "has_chicken": "2025-01-03 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_input": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-01-03 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_chest": {
+    "criteria": {
+      "has_chest": "2025-01-03 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_output": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-01-03 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_chest": {
+    "criteria": {
+      "has_chest": "2025-01-03 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-01-03 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/shulker_from_chest": {
+    "criteria": {
+      "has_chest": "2025-01-03 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_io": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-01-03 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-01-03 03:10:07 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-01-03 03:11:35 +0000"
+    },
+    "done": true
+  },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2025-01-03 03:12:55 +0000"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2025-01-03 03:18:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/globe": {
+    "criteria": {
+      "has_globe_sepia": "2025-01-03 03:19:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-01-03 03:20:01 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2025-01-03 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-01-03 03:31:21 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_nickel_hammering": {
+    "criteria": {
+      "has_nickel_ingot": "2025-01-03 03:31:21 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-01-03 03:31:21 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-01-03 03:31:21 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-01-03 03:31:21 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-01-03 03:31:21 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/nickel_dust_from_ingot": {
+    "criteria": {
+      "has_nickel_ingot": "2025-01-03 03:31:21 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/glue_ball": {
+    "criteria": {
+      "criterion0": "2025-01-03 03:53:17 +0000",
+      "criterion1": "2025-01-03 03:53:17 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/lead_tagged": {
+    "criteria": {
+      "has_slime": "2025-01-03 03:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-03 03:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-03 03:53:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-01-03 03:53:17 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/sticky_piston_tagged": {
+    "criteria": {
+      "has_slime": "2025-01-03 03:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-03 03:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-01-03 03:53:25 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/decompress/cobbled_deepslate_1x": {
+    "criteria": {
+      "has_cobbled_deepslate_1x": "2025-01-03 03:59:05 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/cobbled_deepslate_2x": {
+    "criteria": {
+      "has_cobbled_deepslate_1x": "2025-01-03 03:59:05 +0000"
     },
     "done": true
   },
