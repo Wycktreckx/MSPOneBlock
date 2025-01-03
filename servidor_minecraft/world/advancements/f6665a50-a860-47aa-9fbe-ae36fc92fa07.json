@@ -13118,6 +13118,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/mechanical_hammer": {
+    "criteria": {
+      "has_item": "2025-01-03 19:29:30 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/reinforced_stone_from_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
@@ -13142,6 +13148,12 @@
     },
     "done": true
   },
+  "exmachinis:recipes/misc/flux_compactor": {
+    "criteria": {
+      "has_hopper": "2025-01-03 19:29:30 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/compressed_brick_pillar": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
@@ -13151,6 +13163,12 @@
   "pneumaticcraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/mechanical_sieve": {
+    "criteria": {
+      "has_item": "2025-01-03 19:29:30 +0000"
     },
     "done": true
   },
@@ -13232,6 +13250,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/dark_oak_barrel": {
+    "criteria": {
+      "has_item": "2025-01-03 19:30:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-01-03 18:29:26 +0000"
@@ -13271,6 +13295,12 @@
   "pneumaticcraft:recipes/misc/compressed_stone_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/dark_oak_crucible": {
+    "criteria": {
+      "has_item": "2025-01-03 19:30:01 +0000"
     },
     "done": true
   },
@@ -13376,6 +13406,12 @@
     },
     "done": true
   },
+  "exmachinis:recipes/misc/item_buffer": {
+    "criteria": {
+      "has_hopper": "2025-01-03 19:29:30 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/mob_charm_fragments/wither_skeleton": {
     "criteria": {
       "has_withered_rib": "2025-01-03 18:56:44 +0000"
@@ -13421,6 +13457,12 @@
   "pneumaticcraft:recipes/misc/air_canister": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/repair_talisman": {
+    "criteria": {
+      "has_covalence_dust": "2025-01-03 19:27:31 +0000"
     },
     "done": true
   },
@@ -13493,6 +13535,12 @@
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-01-03 18:57:15 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/filter_module": {
+    "criteria": {
+      "hopper": "2025-01-03 19:29:30 +0000"
     },
     "done": true
   },
@@ -13598,6 +13646,12 @@
     },
     "done": true
   },
+  "projecte:recipes/tools/repair_talisman_alt": {
+    "criteria": {
+      "has_covalence_dust": "2025-01-03 19:27:31 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/wither_skeleton_skull": {
     "criteria": {
       "has_withered_rib": "2025-01-03 18:56:44 +0000"
@@ -13691,6 +13745,12 @@
   "pneumaticcraft:recipes/building_blocks/compressed_brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2025-01-03 18:57:47 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/antenna": {
+    "criteria": {
+      "bars": "2025-01-03 19:28:59 +0000"
     },
     "done": true
   },
@@ -13892,6 +13952,12 @@
     },
     "done": true
   },
+  "exmachinis:flux_hammer": {
+    "criteria": {
+      "has_flux_hammer": "2025-01-03 19:33:21 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/cooked_mutton_to_chicken": {
     "criteria": {
       "has_mutton": "2025-01-03 18:36:57 +0000"
@@ -13958,6 +14024,12 @@
     },
     "done": true
   },
+  "exmachinis:flux_sieve": {
+    "criteria": {
+      "has_flux_sieve": "2025-01-03 19:32:01 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/wall_lamp_green": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
@@ -13997,6 +14069,12 @@
   "pneumaticcraft:recipes/misc/compressed_iron_leggings": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_item_filter": {
+    "criteria": {
+      "has_ingredient": "2025-01-03 19:29:30 +0000"
     },
     "done": true
   },
@@ -14192,6 +14270,12 @@
     },
     "done": true
   },
+  "projecte:recipes/decorations/alchemical_chest": {
+    "criteria": {
+      "has_covalence_dust": "2025-01-03 19:27:31 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/copper_ore_hammer": {
     "criteria": {
       "has_copper_ingot": "2025-01-03 18:45:41 +0000"
@@ -14237,6 +14321,12 @@
   "xycraft_override:recipes/building_blocks/shaped/nether_bricks_green_r": {
     "criteria": {
       "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/divining_rod_1": {
+    "criteria": {
+      "has_covalence_dust": "2025-01-03 19:27:28 +0000"
     },
     "done": true
   },

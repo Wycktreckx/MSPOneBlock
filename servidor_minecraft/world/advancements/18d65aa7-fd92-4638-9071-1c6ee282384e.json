@@ -13524,6 +13524,12 @@
     },
     "done": true
   },
+  "exmachinis:flux_hammer": {
+    "criteria": {
+      "has_flux_hammer": "2025-01-03 19:33:49 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_fire/spirit_fire/awakened_feather": {
     "criteria": {
       "has_feather": "2025-01-03 18:32:53 +0000"
@@ -13594,6 +13600,12 @@
   "silentgear:recipes/misc/blaze_gold_nugget": {
     "criteria": {
       "has_item": "2025-01-03 18:58:06 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:flux_sieve": {
+    "criteria": {
+      "has_flux_sieve": "2025-01-03 19:33:49 +0000"
     },
     "done": true
   },
