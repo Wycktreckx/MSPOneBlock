@@ -14042,6 +14042,12 @@
     },
     "done": true
   },
+  "mekanism:steel_ingot": {
+    "criteria": {
+      "ingot_steel": "2025-01-03 19:16:37 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/wall_lamp_inverted_light_blue": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
@@ -14177,6 +14183,12 @@
   "pneumaticcraft:recipes/misc/compressed_iron_chestplate": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
+    },
+    "done": true
+  },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2025-01-03 19:16:17 +0000"
     },
     "done": true
   },
