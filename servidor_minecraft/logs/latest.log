@@ -2023,3 +2023,24 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [03Jan2025 18:56:24.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [A Terrible Fortress]
 [03Jan2025 18:57:15.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement ['X' Marks the Spot]
 [03Jan2025 18:57:17.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [The First Explosion (of many?)]
+[03Jan2025 18:57:48.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Totally Tubular Transfer]
+[03Jan2025 18:57:49.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [I Found It Underground]
+[03Jan2025 18:57:54.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement ['X' Marks the Spot]
+[03Jan2025 18:58:03.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [The First Explosion (of many?)]
+[03Jan2025 18:58:06.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Blaze Gold]
+[03Jan2025 18:58:20.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Strange Flora]
+[03Jan2025 18:58:47.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Apothic Affixes]
+[03Jan2025 18:58:47.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [How'd You Get This?]
+[03Jan2025 19:01:50.754] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Viscount Derrel'/7244, l='ServerLevel[world]', x=112.67, y=53.00, z=-129.02] died: Viscount Derrel was slain by YeferJV using    [Captive Dreams]
+[03Jan2025 19:01:51.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has reached the goal [Worthy Equipment]
+[03Jan2025 19:01:51.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has completed the challenge [He Wasn't So Strong]
+[03Jan2025 19:02:29.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Far From Perfect]
+[03Jan2025 19:03:21.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YeferJV moved too quickly! 0.0,332.8032826417596,0.0
+[03Jan2025 19:03:44.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,333.749026256103,0.0
+[03Jan2025 19:03:51.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,335.0577083927641,0.0
+[03Jan2025 19:03:56.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has reached the goal [Postmortal]
+[03Jan2025 19:03:56.809] [Server thread/INFO] [tombstone/]: The player Wycktreckz has successfully been saved
+[03Jan2025 19:03:58.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YeferJV moved too quickly! 0.0,332.84813188041176,0.0
+[03Jan2025 19:05:25.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,332.4929803799864,0.0
+[03Jan2025 19:05:32.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,335.0577083927641,0.0
+[03Jan2025 19:05:38.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 5.724409031466394,-61.99445636158245,-0.023685448413728327
