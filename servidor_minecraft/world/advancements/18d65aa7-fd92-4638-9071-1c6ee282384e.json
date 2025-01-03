@@ -3462,6 +3462,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-01-02 20:46:51 +0000",
       "cooked_beef": "2025-01-01 00:22:31 +0000",
       "apple": "2025-01-01 01:09:15 +0000",
       "bread": "2025-01-02 00:45:01 +0000",
@@ -10939,6 +10940,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-01-02 20:46:49 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/scratched_glass_white_pane2": {
     "criteria": {
       "recipe_condition2": "2025-01-02 19:49:16 +0000"
@@ -11173,6 +11180,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-01-02 20:46:49 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/building_blocks/force_white_torch": {
     "criteria": {
       "has_dye": "2025-01-02 19:49:16 +0000"
@@ -11363,6 +11376,12 @@
   "apotheosis:affix/rare_gem": {
     "criteria": {
       "gem": "2025-01-02 17:28:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-01-02 20:46:49 +0000"
     },
     "done": true
   },
@@ -11927,6 +11946,12 @@
   "occultism:recipes/misc/smelting/burnt_otherstone": {
     "criteria": {
       "has_otherstone": "2025-01-02 17:56:27 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/cooked_mutton_to_chicken": {
+    "criteria": {
+      "has_mutton": "2025-01-02 20:46:49 +0000"
     },
     "done": true
   },
