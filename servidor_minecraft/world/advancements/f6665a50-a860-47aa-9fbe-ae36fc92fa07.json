@@ -13131,6 +13131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-03 19:56:40 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/reinforced_brick_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
@@ -13227,6 +13233,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_cyan_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-03 19:58:20 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/reinforced_stone_from_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
@@ -13293,9 +13305,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_cyan_dye": {
+    "criteria": {
+      "forge:dyes/cyan": "2025-01-03 19:58:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/mob_jar": {
     "criteria": {
       "has_journal": "2025-01-03 19:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-03 19:56:40 +0000"
     },
     "done": true
   },
@@ -13308,6 +13332,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_flourishing_sapling": {
     "criteria": {
       "has_journal": "2025-01-03 19:50:31 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_cyan": {
+    "criteria": {
+      "has_dyes/black": "2025-01-03 19:58:20 +0000"
     },
     "done": true
   },
@@ -13347,6 +13377,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/building_blocks/force_cyan_torch": {
+    "criteria": {
+      "has_dye": "2025-01-03 19:58:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_tuff": {
     "criteria": {
       "has_journal": "2025-01-03 19:50:31 +0000"
@@ -13374,6 +13410,12 @@
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-01-03 19:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-03 19:56:40 +0000"
     },
     "done": true
   },
@@ -13413,9 +13455,21 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_cyan_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-03 19:58:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/falseweave": {
     "criteria": {
       "has_journal": "2025-01-03 19:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-03 19:56:40 +0000"
     },
     "done": true
   },
@@ -13605,6 +13659,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/smart_cyan": {
+    "criteria": {
+      "has_dyes/black": "2025-01-03 19:58:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-01-03 18:29:26 +0000"
@@ -13713,6 +13773,12 @@
     },
     "done": true
   },
+  "exmachinis:netherite_upgrade": {
+    "criteria": {
+      "has_netherite_upgrade": "2025-01-03 20:03:39 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ring_of_potential": {
     "criteria": {
       "has_journal": "2025-01-03 19:50:31 +0000"
@@ -13779,9 +13845,21 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_cyan2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-03 19:58:20 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/crimson_iron_nugget": {
     "criteria": {
       "has_item": "2025-01-03 18:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-03 19:56:40 +0000"
     },
     "done": true
   },
@@ -13869,6 +13947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-03 19:56:40 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/decorations/relay_mk1": {
     "criteria": {
       "has_diamond": "2025-01-03 19:44:01 +0000"
@@ -13932,6 +14016,12 @@
   "ars_nouveau:recipes/misc/gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-01-03 19:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-03 19:56:40 +0000"
     },
     "done": true
   },
@@ -14079,6 +14169,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_cyan_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-03 19:58:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/redstone_relay": {
     "criteria": {
       "has_journal": "2025-01-03 19:50:31 +0000"
@@ -14115,6 +14211,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/terracotta": {
+    "criteria": {
+      "has_planks": "2025-01-03 19:56:40 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2025-01-03 19:50:31 +0000"
@@ -14124,6 +14226,12 @@
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2025-01-03 18:36:57 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/terracotta_1x": {
+    "criteria": {
+      "has_terracotta": "2025-01-03 19:56:40 +0000"
     },
     "done": true
   },
@@ -14190,6 +14298,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-01-03 19:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-03 19:56:40 +0000"
     },
     "done": true
   },
@@ -14271,6 +14385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-03 19:58:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-01-03 18:29:26 +0000"
@@ -14280,6 +14400,12 @@
   "ars_elemental:recipes/misc/tablet_ritual_squirrels": {
     "criteria": {
       "has_journal": "2025-01-03 19:50:31 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_cyan": {
+    "criteria": {
+      "has_dyes/black": "2025-01-03 19:58:20 +0000"
     },
     "done": true
   },
@@ -14535,6 +14661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-03 19:58:20 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/wither_skeleton_skull": {
     "criteria": {
       "has_withered_rib": "2025-01-03 18:56:44 +0000"
@@ -14703,6 +14835,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/building_blocks/force_brick_cyan": {
+    "criteria": {
+      "has_cyan_dye": "2025-01-03 19:58:20 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/misc/alt_blossom": {
     "criteria": {
       "has_journal": "2025-01-03 19:50:31 +0000"
@@ -14715,9 +14853,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-03 19:56:40 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sunrise_2": {
     "criteria": {
       "has_journal": "2025-01-03 19:50:31 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_cyan2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-03 19:58:20 +0000"
     },
     "done": true
   },
@@ -14781,6 +14931,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-01-03 20:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2025-01-03 19:58:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-01-03 19:50:31 +0000"
@@ -14808,6 +14970,12 @@
   "mekanism:energy_transport": {
     "criteria": {
       "basic_universal_cable": "2025-01-03 19:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-03 19:56:40 +0000"
     },
     "done": true
   },
@@ -14871,6 +15039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-03 19:56:40 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/antenna": {
     "criteria": {
       "bars": "2025-01-03 19:28:59 +0000"
@@ -14892,6 +15066,12 @@
   "pneumaticcraft:recipes/misc/reinforced_bricks": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-01-03 19:57:00 +0000"
     },
     "done": true
   },
@@ -14928,6 +15108,12 @@
   "pneumaticcraft:recipes/misc/minigun": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-03 19:56:40 +0000"
     },
     "done": true
   },
@@ -15057,6 +15243,12 @@
     },
     "done": true
   },
+  "exmachinis:gold_upgrade": {
+    "criteria": {
+      "has_gold_upgrade": "2025-01-03 20:01:54 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/horn_to_bonemeal": {
     "criteria": {
       "has_journal": "2025-01-03 19:50:31 +0000"
@@ -15111,6 +15303,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/cyan_force_furnace_from_dye": {
+    "criteria": {
+      "has_cyan_dye": "2025-01-03 19:58:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_grass_block": {
     "criteria": {
       "has_journal": "2025-01-03 19:50:31 +0000"
@@ -15120,6 +15318,12 @@
   "reliquary:recipes/misc/mob_charm_fragments/magma_cube": {
     "criteria": {
       "has_molten_core": "2025-01-03 18:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-01-03 19:58:27 +0000"
     },
     "done": true
   },
@@ -15138,6 +15342,12 @@
   "allthecompressed:recipes/building_blocks/compress/copper_block_1x": {
     "criteria": {
       "has_copper_block": "2025-01-03 18:45:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_cyan": {
+    "criteria": {
+      "has_dyes/black": "2025-01-03 19:58:20 +0000"
     },
     "done": true
   },
@@ -15210,6 +15420,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-01-03 19:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-03 19:56:40 +0000"
     },
     "done": true
   },
@@ -15321,6 +15537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-03 19:56:40 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/misc/spore_blossom_up": {
     "criteria": {
       "has_journal": "2025-01-03 19:50:31 +0000"
@@ -15426,6 +15648,12 @@
   "pneumaticcraft:recipes/misc/pressure_chamber_valve": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_cyan2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-03 19:58:20 +0000"
     },
     "done": true
   },
@@ -15591,6 +15819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-03 19:58:20 +0000"
+    },
+    "done": true
+  },
   "exmachinis:flux_sieve": {
     "criteria": {
       "has_flux_sieve": "2025-01-03 19:32:01 +0000"
@@ -15636,6 +15870,12 @@
   "pneumaticcraft:recipes/misc/regulator_tube_module": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-03 19:56:40 +0000"
     },
     "done": true
   },
@@ -16089,6 +16329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-03 19:56:40 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-01-03 19:50:31 +0000"
@@ -16146,6 +16392,12 @@
   "ars_nouveau:recipes/misc/scryers_crystal": {
     "criteria": {
       "has_journal": "2025-01-03 19:50:31 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:diamond_upgrade": {
+    "criteria": {
+      "has_diamond_upgrade": "2025-01-03 20:02:13 +0000"
     },
     "done": true
   },
@@ -16296,6 +16548,12 @@
   "xycraft_override:recipes/building_blocks/shaped/nether_bricks_green_r": {
     "criteria": {
       "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_cyan2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-03 19:58:20 +0000"
     },
     "done": true
   },
