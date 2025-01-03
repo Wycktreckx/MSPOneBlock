@@ -7091,6 +7091,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-01-03 20:18:58 +0000",
       "nether_wart": "2025-01-01 02:21:36 +0000",
       "wheat": "2025-01-01 01:09:56 +0000"
     },
@@ -12594,6 +12595,12 @@
   "pneumaticcraft:recipes/misc/wall_lamp_orange": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2025-01-03 20:22:20 +0000"
     },
     "done": true
   },

@@ -13050,6 +13050,12 @@
     },
     "done": true
   },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2025-01-03 20:22:39 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_fertility": {
     "criteria": {
       "has_journal": "2025-01-03 19:50:31 +0000"

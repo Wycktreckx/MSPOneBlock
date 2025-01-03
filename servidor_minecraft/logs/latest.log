@@ -2071,3 +2071,6 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [03Jan2025 20:03:48.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Is this the end?]
 [03Jan2025 20:10:39.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MerchantEntity['Emerald Muncher'/7978, l='ServerLevel[world]', x=4127.88, y=-268.06, z=19.18] died: Emerald Muncher fell out of the world
 [03Jan2025 20:12:40.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Imbued]
+[03Jan2025 20:22:20.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Brazen]
+[03Jan2025 20:22:39.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Brazen]
+[03Jan2025 20:24:02.225] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
