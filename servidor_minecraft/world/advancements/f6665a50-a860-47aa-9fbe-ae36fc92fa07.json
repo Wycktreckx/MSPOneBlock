@@ -13664,6 +13664,12 @@
     },
     "done": true
   },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2025-01-03 19:11:47 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/compressed_bricks": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
@@ -13826,6 +13832,12 @@
     },
     "done": true
   },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2025-01-03 19:10:54 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/logistics_core": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
@@ -13853,6 +13865,12 @@
   "xycraft_override:recipes/building_blocks/shaped/nether_bricks_light": {
     "criteria": {
       "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2025-01-03 19:11:14 +0000"
     },
     "done": true
   },
