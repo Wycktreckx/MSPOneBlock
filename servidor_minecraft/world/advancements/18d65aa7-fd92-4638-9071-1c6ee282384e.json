@@ -12305,5 +12305,41 @@
     },
     "done": true
   },
+  "croptopia:recipes/sushi": {
+    "criteria": {
+      "has_rice": "2025-01-03 02:13:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-01-03 02:13:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/steamed_rice": {
+    "criteria": {
+      "has_rice": "2025-01-03 02:13:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-01-03 02:13:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_rice": {
+    "criteria": {
+      "has_rice": "2025-01-03 02:13:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-01-03 02:13:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
