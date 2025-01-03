@@ -13029,6 +13029,14 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-01-03 18:51:32 +0000",
+      "minecraft:soul_sand_valley": "2025-01-03 18:51:50 +0000",
+      "minecraft:basalt_deltas": "2025-01-03 18:51:07 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-01-03 18:36:57 +0000"
@@ -13053,9 +13061,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/copper_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-01-03 18:45:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-01-03 18:45:41 +0000"
     },
     "done": true
   },
@@ -13113,6 +13133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-01-03 18:45:41 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/salamander_eye": {
     "criteria": {
       "has_molten_core": "2025-01-03 18:33:21 +0000"
@@ -13155,9 +13181,39 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-03 18:51:07 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-01-03 18:51:07 +0000"
+    },
+    "done": true
+  },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-01-03 18:48:53 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/nether_bricks_light_r": {
     "criteria": {
       "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-01-03 18:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-03 18:51:07 +0000"
     },
     "done": true
   },
@@ -13170,6 +13226,12 @@
   "reliquary:recipes/misc/mob_charm_fragments/magma_cube": {
     "criteria": {
       "has_molten_core": "2025-01-03 18:33:21 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/copper_block_1x": {
+    "criteria": {
+      "has_copper_block": "2025-01-03 18:45:41 +0000"
     },
     "done": true
   },
@@ -13191,6 +13253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-01-03 18:45:41 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/cooked_mutton_to_chicken": {
     "criteria": {
       "has_mutton": "2025-01-03 18:36:57 +0000"
@@ -13206,6 +13274,12 @@
   "mcwbridges:recipes/nether_bricks_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-01-03 18:45:41 +0000"
     },
     "done": true
   },
@@ -13236,6 +13310,12 @@
   "xycraft_override:recipes/building_blocks/shaped/nether_bricks_green": {
     "criteria": {
       "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_ore_hammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-03 18:45:41 +0000"
     },
     "done": true
   },

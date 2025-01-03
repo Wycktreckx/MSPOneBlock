@@ -2008,3 +2008,18 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
   "[68, -111, -23, -105, -128, 68, -122, -23, -1, -103, -79]"
 ]
 [03Jan2025 18:33:21.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Not a Diamond]
+[03Jan2025 18:48:44.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [We Need to Go Deeper]
+[03Jan2025 18:48:53.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Tricking a Rock Into Thinking]
+[03Jan2025 18:50:28.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,336.67293190614805,0.0
+[03Jan2025 18:50:50.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,333.85074468477035,0.0
+[03Jan2025 18:50:57.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,338.70536081704347,0.0
+[03Jan2025 18:51:03.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz fell from a high place
+[03Jan2025 18:51:03.030] [Server thread/INFO] [tombstone/]: The player Wycktreckz has successfully been saved
+[03Jan2025 18:51:07.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [We Need to Go Deeper]
+[03Jan2025 18:52:15.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,334.67293190614805,0.0
+[03Jan2025 18:56:02.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Spooky Scary Skeleton]
+[03Jan2025 18:56:03.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Suit Up]
+[03Jan2025 18:56:15.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [A Terrible Fortress]
+[03Jan2025 18:56:24.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [A Terrible Fortress]
+[03Jan2025 18:57:15.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement ['X' Marks the Spot]
+[03Jan2025 18:57:17.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [The First Explosion (of many?)]
