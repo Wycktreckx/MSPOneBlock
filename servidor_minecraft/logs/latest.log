@@ -2055,3 +2055,8 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [03Jan2025 19:35:26.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4099, y=68, z=10} BlockPos{x=4099, y=66, z=10}
 [03Jan2025 19:35:26.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4099, y=68, z=10} BlockPos{x=4099, y=66, z=10}
 [03Jan2025 19:35:28.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4100, y=67, z=8} BlockPos{x=4101, y=67, z=7}
+[03Jan2025 19:48:16.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Not a Fluid!]
+[03Jan2025 19:51:06.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Not a Fluid!]
+[03Jan2025 19:56:38.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Isn't It Iron Pick]
+[03Jan2025 19:56:53.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Unbreaking X]
+[03Jan2025 19:57:00.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Unbreaking X]
