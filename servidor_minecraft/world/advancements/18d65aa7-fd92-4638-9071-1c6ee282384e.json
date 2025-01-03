@@ -12305,6 +12305,12 @@
     },
     "done": true
   },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2025-01-03 03:23:13 +0000"
+    },
+    "done": true
+  },
   "supplementaries:adventure/globe": {
     "criteria": {
       "unlock": "2025-01-03 03:20:01 +0000"

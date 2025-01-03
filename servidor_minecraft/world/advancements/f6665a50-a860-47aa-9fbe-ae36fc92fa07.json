@@ -12385,9 +12385,27 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/component_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/dark_oak_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/shovel_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
     },
     "done": true
   },
@@ -12397,9 +12415,33 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/steel_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-01-03 03:22:42 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hoe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-01-03 03:20:55 +0000"
     },
     "done": true
   },
@@ -12439,6 +12481,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/axe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-01-03 03:12:11 +0000"
@@ -12454,6 +12502,18 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_standard": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sawblade": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
     },
     "done": true
   },
@@ -12475,9 +12535,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/steel_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-01-03 03:20:55 +0000"
     },
     "done": true
   },
@@ -12493,6 +12565,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/steel_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/basic_to_gold_tier_upgrade": {
     "criteria": {
       "has_basic_to_iron_tier_upgrade": "2025-01-03 03:16:43 +0000"
@@ -12502,6 +12580,18 @@
   "mcwbridges:recipes/rope_dark_oak_bridge": {
     "criteria": {
       "has_planks": "2025-01-03 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sword_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_wallmount": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
     },
     "done": true
   },
@@ -12535,9 +12625,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/netherite_shulker_from_netherite_chest": {
+    "criteria": {
+      "has_netherite_chest": "2025-01-03 03:23:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2025-01-03 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/drillhead_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
     },
     "done": true
   },
@@ -12547,9 +12649,27 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/coil_hv": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_drum": {
+    "criteria": {
+      "has_ingot_steel": "2025-01-03 03:20:54 +0000"
     },
     "done": true
   },
@@ -12613,9 +12733,33 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/steel_dust_from_ingot": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/pickaxe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/rockcutter": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
     },
     "done": true
   },
@@ -12640,6 +12784,12 @@
   "mcwroofs:recipes/dark_oak": {
     "criteria": {
       "has_planks": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_steel_hammering": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
     },
     "done": true
   },
@@ -12673,6 +12823,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/steel_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
   "oreberriesreplanted:recipes/misc/dark_oak_vat": {
     "criteria": {
       "has_planks": "2025-01-03 02:31:14 +0000"
@@ -12685,9 +12841,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/wire_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_structural": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
     },
     "done": true
   },
@@ -12709,6 +12877,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/steel_fence": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_four_panel": {
     "criteria": {
       "has_logs": "2025-01-03 03:12:11 +0000"
@@ -12721,9 +12895,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/steel_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-01-03 03:20:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-01-03 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_hammer": {
+    "criteria": {
+      "has_ingot_steel": "2025-01-03 03:20:54 +0000"
     },
     "done": true
   },
