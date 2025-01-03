@@ -1403,6 +1403,7 @@
       "apple": "2024-12-31 23:59:17 +0000",
       "bread": "2025-01-01 01:50:52 +0000",
       "golden_apple": "2025-01-02 17:27:16 +0000",
+      "golden_carrot": "2025-01-03 19:42:37 +0000",
       "carrot": "2025-01-03 02:33:15 +0000"
     },
     "done": false
@@ -13124,6 +13125,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/building_blocks/force_brick_green": {
+    "criteria": {
+      "has_green_dye": "2025-01-03 19:43:07 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/reinforced_stone_from_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
@@ -13184,6 +13191,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-01-03 19:36:04 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-03 19:43:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_pickaxe": "2025-01-03 18:57:49 +0000"
@@ -13235,6 +13254,12 @@
   "pneumaticcraft:recipes/misc/air_cannon": {
     "criteria": {
       "has_pressure_tube": "2025-01-03 18:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-03 19:43:07 +0000"
     },
     "done": true
   },
@@ -13340,6 +13365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-03 19:36:15 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/nether_bricks_dark": {
     "criteria": {
       "has_nether_bricks": "2025-01-03 18:29:26 +0000"
@@ -13388,6 +13419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-03 19:43:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-01-03 18:45:41 +0000"
@@ -13409,6 +13446,12 @@
   "exmachinis:recipes/misc/item_buffer": {
     "criteria": {
       "has_hopper": "2025-01-03 19:29:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-01-03 19:43:07 +0000"
     },
     "done": true
   },
@@ -13502,6 +13545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-03 19:43:07 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/crimson_iron_ingot_from_nugget": {
     "criteria": {
       "has_item": "2025-01-03 18:57:50 +0000"
@@ -13532,6 +13581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-03 19:43:07 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-01-03 18:57:15 +0000"
@@ -13550,9 +13605,21 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-03 19:43:07 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/thermal_lagging": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_green_torch": {
+    "criteria": {
+      "has_dye": "2025-01-03 19:43:07 +0000"
     },
     "done": true
   },
@@ -13583,6 +13650,18 @@
   "pneumaticcraft:recipes/misc/compressed_brick_from_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-03 19:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-03 19:36:15 +0000"
     },
     "done": true
   },
@@ -13634,6 +13713,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-03 19:43:07 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/wall_lamp_pink": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
@@ -13643,6 +13728,12 @@
   "silentgear:nether": {
     "criteria": {
       "entered_nether": "2025-01-03 18:51:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-01-03 19:36:15 +0000"
     },
     "done": true
   },
@@ -13706,9 +13797,21 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/moss_block_1x": {
+    "criteria": {
+      "has_moss_block": "2025-01-03 19:36:15 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/vortex_tube": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/green_force_furnace_from_dye": {
+    "criteria": {
+      "has_green_dye": "2025-01-03 19:43:07 +0000"
     },
     "done": true
   },
@@ -13775,6 +13878,18 @@
   "pneumaticcraft:recipes/misc/minigun": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_green": {
+    "criteria": {
+      "has_dyes/black": "2025-01-03 19:43:07 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/amethyst_block_1x": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-03 19:43:41 +0000"
     },
     "done": true
   },
@@ -13856,6 +13971,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_green_dye": {
+    "criteria": {
+      "forge:dyes/green": "2025-01-03 19:43:07 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-03 19:43:07 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/copper_block_1x": {
     "criteria": {
       "has_copper_block": "2025-01-03 18:45:41 +0000"
@@ -13916,9 +14043,21 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/tinted_borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-03 19:43:07 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/wall_lamp_inverted_cyan": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-03 19:43:07 +0000"
     },
     "done": true
   },
@@ -14126,6 +14265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-03 19:43:00 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/wall_lamp_inverted_light_blue": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:57:17 +0000"
@@ -14252,6 +14397,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_green": {
+    "criteria": {
+      "has_dyes/black": "2025-01-03 19:43:07 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/nether_bricks_green": {
     "criteria": {
       "has_nether_bricks": "2025-01-03 18:29:26 +0000"
@@ -14267,6 +14418,12 @@
   "mekanism:energy_cube": {
     "criteria": {
       "basic_energy_cube": "2025-01-03 19:16:17 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_green": {
+    "criteria": {
+      "has_dyes/black": "2025-01-03 19:43:07 +0000"
     },
     "done": true
   },
@@ -14303,6 +14460,12 @@
   "xycraft_override:recipes/building_blocks/shaped/nether_bricks_blue_r": {
     "criteria": {
       "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_green": {
+    "criteria": {
+      "has_dyes/black": "2025-01-03 19:43:07 +0000"
     },
     "done": true
   },

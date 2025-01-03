@@ -12630,6 +12630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-03 19:35:32 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/blaze_gold_block": {
     "criteria": {
       "has_item": "2025-01-03 18:58:06 +0000"
@@ -12768,6 +12774,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/poppy_to_dandelion": {
+    "criteria": {
+      "has_poppy": "2025-01-03 19:35:32 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/wall_lamp_red": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
@@ -12870,6 +12882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-03 19:36:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-01-03 18:56:02 +0000"
@@ -12939,6 +12957,12 @@
   "reliquary:recipes/misc/salamander_eye": {
     "criteria": {
       "has_molten_core": "2025-01-03 18:33:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-03 19:40:42 +0000"
     },
     "done": true
   },
@@ -13134,6 +13158,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-03 19:36:21 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/nether_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-01-03 18:59:26 +0000"
@@ -13206,6 +13236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-01-03 19:36:21 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/repair_talisman_alt": {
     "criteria": {
       "has_covalence_dust": "2025-01-03 19:19:06 +0000"
@@ -13221,6 +13257,12 @@
   "pneumaticcraft:recipes/misc/omnidirectional_hopper": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/building_blocks/compressed_crushed_blackstone": {
+    "criteria": {
+      "has_item": "2025-01-03 19:40:36 +0000"
     },
     "done": true
   },
@@ -13296,6 +13338,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/moss_block_1x": {
+    "criteria": {
+      "has_moss_block": "2025-01-03 19:36:21 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/beef_to_porkchop": {
     "criteria": {
       "has_beef": "2025-01-03 19:22:46 +0000"
@@ -13305,6 +13353,12 @@
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2025-01-03 18:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-03 19:35:48 +0000"
     },
     "done": true
   },
@@ -13912,6 +13966,12 @@
   "xycraft_override:recipes/building_blocks/shaped/nether_bricks_green_r": {
     "criteria": {
       "has_nether_bricks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-03 19:35:48 +0000"
     },
     "done": true
   },
