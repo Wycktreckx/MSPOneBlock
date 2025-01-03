@@ -13029,6 +13029,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-01-03 18:36:57 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/nether_bricks_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-03 18:29:26 +0000"
@@ -13077,6 +13083,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-01-03 18:36:57 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/nether_bricks_dark": {
     "criteria": {
       "has_nether_bricks": "2025-01-03 18:29:26 +0000"
@@ -13116,6 +13128,12 @@
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-01-03 18:36:57 +0000"
     },
     "done": true
   },
@@ -13170,6 +13188,12 @@
   "xycraft_override:recipes/building_blocks/shaped/nether_bricks_light": {
     "criteria": {
       "has_nether_bricks": "2025-01-03 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/cooked_mutton_to_chicken": {
+    "criteria": {
+      "has_mutton": "2025-01-03 18:36:57 +0000"
     },
     "done": true
   },

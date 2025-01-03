@@ -12571,6 +12571,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/sinew_fiber": {
+    "criteria": {
+      "has_item": "2025-01-03 18:35:18 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/tools/force_arrow": {
     "criteria": {
       "has_feather": "2025-01-03 18:32:53 +0000"
@@ -12667,6 +12673,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/dried_sinew": {
+    "criteria": {
+      "has_item": "2025-01-03 18:35:18 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/uranium_dust_from_ingot": {
     "criteria": {
       "has_uranium_ingot": "2025-01-03 18:11:49 +0000"
@@ -12706,6 +12718,12 @@
   "reliquary:recipes/misc/mob_charm_fragments/magma_cube": {
     "criteria": {
       "has_molten_core": "2025-01-03 18:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-01-03 18:35:42 +0000"
     },
     "done": true
   },
