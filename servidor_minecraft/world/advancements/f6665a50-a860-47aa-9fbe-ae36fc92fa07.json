@@ -17828,5 +17828,11 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/grass_block_1x": {
+    "criteria": {
+      "has_grass_block": "2025-01-04 20:30:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
