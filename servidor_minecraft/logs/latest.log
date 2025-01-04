@@ -3,3 +3,5 @@
 [04Jan2025 00:00:36.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV joined the game
 [04Jan2025 00:00:37.153] [Server thread/INFO] [Jade/]: Syncing config to YeferJV (f6665a50-a860-47aa-9fbe-ae36fc92fa07)
 [04Jan2025 00:00:37.155] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 1 (-2 unused), uncached profiles: 0, total profiles: 3
+[04Jan2025 00:22:19.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YeferJV moved too quickly! 0.0,397.4188540533238,0.0
+[04Jan2025 00:22:51.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [The Andesite Age]
