@@ -17828,9 +17828,27 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_blasting": {
+    "criteria": {
+      "has_ore_aluminum": "2025-01-04 21:51:58 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/grass_block_1x": {
     "criteria": {
       "has_grass_block": "2025-01-04 20:30:24 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum": {
+    "criteria": {
+      "has_ore_aluminum": "2025-01-04 21:51:58 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-01-04 22:29:24 +0000"
     },
     "done": true
   },
