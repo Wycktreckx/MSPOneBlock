@@ -17011,6 +17011,12 @@
     },
     "done": true
   },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-01-04 01:05:11 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/magma_blue": {
     "criteria": {
       "has_magma_block": "2025-01-04 00:28:21 +0000"
