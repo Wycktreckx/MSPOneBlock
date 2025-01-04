@@ -16358,6 +16358,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_globe": "2025-01-04 19:19:15 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_covered_green": {
     "criteria": {
       "has_dyes/black": "2025-01-04 18:19:40 +0000"
