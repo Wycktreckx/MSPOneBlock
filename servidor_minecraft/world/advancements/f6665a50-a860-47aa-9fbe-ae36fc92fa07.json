@@ -17222,9 +17222,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-01-04 18:54:47 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/quartz_fixture": {
     "criteria": {
       "has_charged_certus_quartz_crystal": "2025-01-04 18:09:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2025-01-04 18:58:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2025-01-04 18:58:21 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-01-04 18:55:52 +0000"
     },
     "done": true
   },
@@ -17246,9 +17270,33 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/brass_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-01-04 18:57:58 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-01-04 18:55:52 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/brass_dust_from_ingot": {
+    "criteria": {
+      "has_brass_ingot": "2025-01-04 18:58:21 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/quartz_block": {
     "criteria": {
       "has_certus_quartz_crystal": "2025-01-04 18:09:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2025-01-04 18:58:21 +0000"
     },
     "done": true
   },
@@ -17258,9 +17306,39 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-01-04 18:55:23 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/uranium_block_1x": {
+    "criteria": {
+      "has_uranium_block": "2025-01-04 18:57:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-01-04 18:54:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-01-04 18:54:47 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/sulfur_dust_from_gem": {
     "criteria": {
       "has_sulfur_gem": "2025-01-04 18:09:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-01-04 18:55:52 +0000"
     },
     "done": true
   },
@@ -17276,6 +17354,18 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/brass_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/brass]_ingot": "2025-01-04 18:58:21 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-01-04 18:55:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/kelp_roll": {
     "criteria": {
       "has_dried_kelp": "2025-01-04 18:34:20 +0000"
@@ -17285,6 +17375,12 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-01-04 18:09:40 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-01-04 18:55:52 +0000"
     },
     "done": true
   },
@@ -17300,9 +17396,27 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/zinc_dust_from_raw": {
+    "criteria": {
+      "has_raw_zinc": "2025-01-04 18:55:23 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/zinc_dust_from_ingot": {
+    "criteria": {
+      "has_zinc_ingot": "2025-01-04 18:55:52 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/certus_quartz_wrench": {
     "criteria": {
       "has_certus_quartz": "2025-01-04 18:09:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_scaffolding_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-01-04 18:58:21 +0000"
     },
     "done": true
   },
@@ -17312,9 +17426,75 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/brass_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/brass]_ingot": "2025-01-04 18:58:21 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/brass]_ingot": "2025-01-04 18:58:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2025-01-04 18:58:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_bars_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-01-04 18:58:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_ladder_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-01-04 18:58:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2025-01-04 18:58:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-01-04 18:55:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2025-01-04 18:58:21 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/cinnabar_dust_from_gem": {
     "criteria": {
       "has_cinnabar_gem": "2025-01-04 18:09:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-01-04 18:55:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2025-01-04 19:01:50 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/tin_dust": {
+    "criteria": {
+      "has_tin": "2025-01-04 18:54:40 +0000"
     },
     "done": true
   },
@@ -17336,9 +17516,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-01-04 18:55:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2025-01-04 18:09:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-01-04 18:55:52 +0000"
     },
     "done": true
   },
@@ -17348,9 +17540,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-01-04 18:55:52 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/certus_quartz_dust_from_gem": {
     "criteria": {
       "has_certus_quartz_gem": "2025-01-04 18:09:41 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-01-04 18:54:40 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-01-04 18:57:58 +0000"
     },
     "done": true
   },
@@ -17360,9 +17570,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2025-01-04 18:58:21 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-01-04 18:55:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_zinc_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-01-04 18:55:23 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/certus_quartz_sword": {
     "criteria": {
       "has_certus_quartz": "2025-01-04 18:09:41 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-01-04 18:57:17 +0000"
     },
     "done": true
   },
@@ -17378,9 +17612,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2025-01-04 18:58:21 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/certus_quartz_hoe": {
     "criteria": {
       "has_certus_quartz": "2025-01-04 18:09:41 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-01-04 18:54:47 +0000"
     },
     "done": true
   },
@@ -17399,6 +17645,42 @@
   "occultism:recipes/crushing/crushing/apatite_dust_from_gem": {
     "criteria": {
       "has_apatite_gem": "2025-01-04 18:09:40 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-01-04 18:54:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2025-01-04 19:01:50 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/brass]_ingot": "2025-01-04 18:58:21 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-01-04 18:55:23 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/zinc_dust": {
+    "criteria": {
+      "has_zinc": "2025-01-04 18:54:47 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-01-04 18:58:21 +0000"
     },
     "done": true
   },
