@@ -16939,6 +16939,12 @@
     },
     "done": true
   },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-01-04 01:13:57 +0000"
+    },
+    "done": true
+  },
   "create:burner": {
     "criteria": {
       "0": "2025-01-04 00:48:25 +0000"

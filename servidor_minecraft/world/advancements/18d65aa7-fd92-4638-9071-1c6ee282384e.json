@@ -15950,6 +15950,12 @@
     },
     "done": true
   },
+  "mekanism:chemical_transport": {
+    "criteria": {
+      "basic_pressurized_tube": "2025-01-04 01:13:07 +0000"
+    },
+    "done": true
+  },
   "thermalendergy:recipes/misc/vibrating_core": {
     "criteria": {
       "has_echo_shard": "2025-01-04 00:58:30 +0000"
