@@ -15866,9 +15866,21 @@
     },
     "done": true
   },
+  "reliquary:recipes/mob_charm": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-01-04 01:29:12 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/food/end_cake": {
     "criteria": {
       "has_item": "2025-01-04 00:58:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-01-04 01:30:04 +0000"
     },
     "done": true
   },
@@ -15929,6 +15941,12 @@
   "xnet:recipes/xnet/antenna": {
     "criteria": {
       "bars": "2025-01-04 00:59:01 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_belt": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-01-04 01:29:12 +0000"
     },
     "done": true
   },

@@ -16897,6 +16897,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-01-04 01:26:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_press": {
     "criteria": {
       "has_item": "2025-01-04 00:22:58 +0000"
@@ -16924,6 +16930,12 @@
   "create:recipes/misc/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2025-01-04 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-01-04 01:27:20 +0000"
     },
     "done": true
   },
