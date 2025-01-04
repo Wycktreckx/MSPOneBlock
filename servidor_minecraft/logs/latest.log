@@ -1716,3 +1716,4 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [04Jan2025 23:34:43.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5768ms or 115 ticks behind
 [04Jan2025 23:36:01.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YeferJV moved wrongly!
 [04Jan2025 23:37:16.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [A Pair of Giants]
+[04Jan2025 23:49:03.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4143, y=67, z=-22} BlockPos{x=4142, y=67, z=-21}
