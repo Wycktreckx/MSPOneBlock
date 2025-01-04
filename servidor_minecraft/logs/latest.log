@@ -2328,3 +2328,4 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [
   "opyV#qevn$#Qh]8,0"
 ]
+[04Jan2025 17:38:39.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,398.1597116446959,0.0
