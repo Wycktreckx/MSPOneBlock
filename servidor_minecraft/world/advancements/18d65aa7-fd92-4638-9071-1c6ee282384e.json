@@ -16118,6 +16118,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/advanced_void_upgrade": {
+    "criteria": {
+      "has_void_upgrade": "2025-01-04 19:33:34 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_cyan_pane2": {
     "criteria": {
       "recipe_condition2": "2025-01-04 18:19:59 +0000"
@@ -16157,6 +16163,12 @@
   "connectedglass:recipes/misc/scratched_glass_cyan_pane2": {
     "criteria": {
       "recipe_condition2": "2025-01-04 18:19:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_advanced_void_upgrade_from_storage_advanced_void_upgrade": {
+    "criteria": {
+      "has_storage_upgrade": "2025-01-04 19:33:39 +0000"
     },
     "done": true
   },
@@ -16343,6 +16355,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-01-04 18:21:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_void_upgrade_from_storage_void_upgrade": {
+    "criteria": {
+      "has_storage_upgrade": "2025-01-04 19:33:34 +0000"
     },
     "done": true
   },
