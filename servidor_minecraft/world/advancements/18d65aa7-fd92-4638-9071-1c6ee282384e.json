@@ -15854,51 +15854,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_crystal": {
+  "mekanismgenerators:burn_the_gas": {
     "criteria": {
-      "has_ender_eye": "2025-01-04 00:58:29 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/misc/sculk_core": {
-    "criteria": {
-      "has_item": "2025-01-04 00:58:30 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/mob_charm": {
-    "criteria": {
-      "has_mob_charm_fragment": "2025-01-04 01:29:12 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/food/end_cake": {
-    "criteria": {
-      "has_item": "2025-01-04 00:58:19 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-01-04 01:30:04 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_dark_chorus": {
-    "criteria": {
-      "has_chorus": "2025-01-04 00:58:26 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/ender_hand": {
-    "criteria": {
-      "has_alt_item": "2025-01-04 00:58:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-01-04 00:58:29 +0000"
+      "gas_burning_generator": "2025-01-04 00:34:35 +0000"
     },
     "done": true
   },
@@ -15908,9 +15866,27 @@
     },
     "done": true
   },
-  "botania:recipes/tools/itemfinder": {
+  "allthecompressed:recipes/building_blocks/decompress/end_stone_1x": {
     "criteria": {
-      "has_item": "2025-01-04 00:58:29 +0000"
+      "has_end_stone_1x": "2025-01-04 00:58:09 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/food/end_cake": {
+    "criteria": {
+      "has_item": "2025-01-04 00:58:19 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/building_blocks/compressed_crushed_end_stone": {
+    "criteria": {
+      "has_item": "2025-01-04 00:58:19 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_dark_chorus": {
+    "criteria": {
+      "has_chorus": "2025-01-04 00:58:26 +0000"
     },
     "done": true
   },
@@ -15926,9 +15902,57 @@
     },
     "done": true
   },
-  "exdeorum:recipes/building_blocks/compressed_crushed_end_stone": {
+  "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
-      "has_item": "2025-01-04 00:58:19 +0000"
+      "has_chorus_fruit": "2025-01-04 00:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-01-04 00:58:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2025-01-04 00:58:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-01-04 00:58:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/itemfinder": {
+    "criteria": {
+      "has_item": "2025-01-04 00:58:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/ender_eye_block": {
+    "criteria": {
+      "has_item": "2025-01-04 00:58:29 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/sculk_core": {
+    "criteria": {
+      "has_item": "2025-01-04 00:58:30 +0000"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/vibrating_core": {
+    "criteria": {
+      "has_echo_shard": "2025-01-04 00:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-01-04 00:58:30 +0000"
     },
     "done": true
   },
@@ -15944,51 +15968,27 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/mob_charm_belt": {
-    "criteria": {
-      "has_mob_charm_fragment": "2025-01-04 01:29:12 +0000"
-    },
-    "done": true
-  },
-  "mekanismgenerators:burn_the_gas": {
-    "criteria": {
-      "gas_burning_generator": "2025-01-04 00:34:35 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/ender_eye_block": {
-    "criteria": {
-      "has_item": "2025-01-04 00:58:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-01-04 00:58:26 +0000"
-    },
-    "done": true
-  },
   "mekanism:chemical_transport": {
     "criteria": {
       "basic_pressurized_tube": "2025-01-04 01:13:07 +0000"
     },
     "done": true
   },
-  "thermalendergy:recipes/misc/vibrating_core": {
+  "reliquary:recipes/mob_charm": {
     "criteria": {
-      "has_echo_shard": "2025-01-04 00:58:30 +0000"
+      "has_mob_charm_fragment": "2025-01-04 01:29:12 +0000"
     },
     "done": true
   },
-  "allthecompressed:recipes/building_blocks/decompress/end_stone_1x": {
+  "reliquary:recipes/misc/mob_charm_belt": {
     "criteria": {
-      "has_end_stone_1x": "2025-01-04 00:58:09 +0000"
+      "has_mob_charm_fragment": "2025-01-04 01:29:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/recovery_compass": {
+  "tombstone:adventure/fortuitous_militia": {
     "criteria": {
-      "has_echo_shard": "2025-01-04 00:58:30 +0000"
+      "coded_trigger": "2025-01-04 01:30:04 +0000"
     },
     "done": true
   },
