@@ -12574,15 +12574,319 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/network_node": {
+  "exdeorum:recipes/misc/ores/platinum_tag": {
     "criteria": {
-      "has_capacitor": "2025-01-03 18:58:22 +0000"
+      "has_item": "2025-01-03 18:06:20 +0000"
     },
     "done": true
   },
-  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_stonecutter_stair": {
+  "exdeorum:recipes/misc/ores/uranium_tag": {
     "criteria": {
-      "has_journal": "2025-01-03 19:52:54 +0000"
+      "has_item": "2025-01-03 18:06:20 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/uranium_dust": {
+    "criteria": {
+      "has_uranium": "2025-01-03 18:11:08 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-01-03 18:11:08 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-01-03 18:11:08 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-01-03 18:11:27 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/uranium_dust_from_raw": {
+    "criteria": {
+      "has_raw_uranium": "2025-01-03 18:11:27 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-01-03 18:11:27 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_uranium_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/uranium]": "2025-01-03 18:11:27 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-01-03 18:11:49 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2025-01-03 18:11:49 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_uranium_hammering": {
+    "criteria": {
+      "has_uranium_ingot": "2025-01-03 18:11:49 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2025-01-03 18:11:49 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/uranium_dust_from_ingot": {
+    "criteria": {
+      "has_uranium_ingot": "2025-01-03 18:11:49 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2025-01-03 18:11:49 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2025-01-03 18:11:49 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/uranium_block_1x": {
+    "criteria": {
+      "has_uranium_block": "2025-01-03 18:11:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-01-03 18:11:56 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/tools/force_arrow": {
+    "criteria": {
+      "has_feather": "2025-01-03 18:32:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-01-03 18:32:53 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/awakened_feather": {
+    "criteria": {
+      "has_feather": "2025-01-03 18:32:53 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2025-01-03 18:32:53 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/lantern_of_paranoia": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:07 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/blaze": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:07 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/midas_touchstone": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:07 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/salamander_eye": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:07 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/magma_cream": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:07 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/magma_cube": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:07 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/blaze_rod": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:07 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/destruction_catalyst": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:07 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/interdiction_torch": {
+    "criteria": {
+      "has_molten_core": "2025-01-03 18:33:07 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/sinew_fiber": {
+    "criteria": {
+      "has_item": "2025-01-03 18:35:18 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/dried_sinew": {
+    "criteria": {
+      "has_item": "2025-01-03 18:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-01-03 18:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-03 18:48:44 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-01-03 18:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-03 18:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-03 18:55:50 +0000",
+      "minecraft:nether_wastes": "2025-01-03 18:49:41 +0000",
+      "minecraft:soul_sand_valley": "2025-01-03 18:50:09 +0000",
+      "minecraft:basalt_deltas": "2025-01-03 18:48:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-03 18:56:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-03 18:56:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-01-03 18:56:03 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_boots": {
+    "criteria": {
+      "has_armor": "2025-01-03 18:56:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-03 18:56:24 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/wither_skeleton": {
+    "criteria": {
+      "has_withered_rib": "2025-01-03 18:56:55 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/wither_skeleton_skull": {
+    "criteria": {
+      "has_withered_rib": "2025-01-03 18:56:55 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mercy_cross": {
+    "criteria": {
+      "has_withered_rib": "2025-01-03 18:56:55 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-01-03 18:57:54 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-01-03 18:57:54 +0000"
+    },
+    "done": false
+  },
+  "silentgear:recipes/misc/golden_nether_banana": {
+    "criteria": {
+      "has_item": "2025-01-03 18:57:56 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/glittery_dust": {
+    "criteria": {
+      "has_item": "2025-01-03 18:57:56 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "banana": "2025-01-03 18:57:56 +0000",
+      "sapling": "2025-01-03 18:58:20 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/remote": {
+    "criteria": {
+      "has_transistor": "2025-01-03 18:58:00 +0000"
     },
     "done": true
   },
@@ -12598,9 +12902,1095 @@
     },
     "done": true
   },
-  "ars_nouveau:ritual_brazier": {
+  "pneumaticcraft:recipes/misc/stone_base": {
     "criteria": {
-      "has_ritual_brazier": "2025-01-03 20:22:20 +0000"
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_stone_from_slab": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_brick_slab": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_blue": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_lime": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_yellow": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/thermostat_module": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_stone_from_slab": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/liquid_hopper": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_brick_pillar": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/redstone_module": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_light_blue": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_brick_tile": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_cyan": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_red": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_brown": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_tube": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_brick_tile": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_brick_stairs": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_stone_slab": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_black": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_gray": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_stone_slab": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/liquid_compressor": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_black": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_iron_gear": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/kerosene_lamp": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_pink": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/air_canister": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/vortex_cannon": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/heat_frame": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/crop_support": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_configurator": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/thermal_lagging": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/refinery_output": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_chamber_valve_x1": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_chamber_valve_x4": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_brick_from_slab": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_brick_pillar": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/seismic_sensor": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_brick_stairs": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pneumatic_wrench": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_purple": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/refinery": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_pink": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/omnidirectional_hopper": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_red": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/thermal_compressor": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/vortex_tube": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/thermopneumatic_processing_plant": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_bricks": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_light_gray": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_gray": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_iron_boots": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_bricks": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/minigun": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_magenta": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/heat_sink": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_brick_wall": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_magenta": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_iron_helmet": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/camo_applicator": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_white": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_chamber_wall": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_orange": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_brick_wall": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_green": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/gas_lift": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_core": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/manometer": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_cyan": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_bricks_from_tile": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/small_tank": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_purple": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_chamber_valve": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_gauge": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:root": {
+    "criteria": {
+      "0": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_green": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_bricks_from_tile": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/regulator_tube_module": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_chest": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_iron_leggings": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/transfer_gadget": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_brown": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_white": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_light_blue": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_blue": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_lime": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_chamber_glass": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_brick_from_slab": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_light_gray": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/cannon_barrel": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_brick_slab": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_iron_block_from_ingot": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/elevator_frame": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_stone": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_chamber_glass_x4": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_chamber_glass_x1": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_yellow": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_iron_chestplate": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/heat_pipe": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/spawner_agitator": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blaze_gold_dust": {
+    "criteria": {
+      "has_item": "2025-01-03 18:58:06 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blaze_gold_block": {
+    "criteria": {
+      "has_item": "2025-01-03 18:58:06 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blaze_gold_dust_smelting": {
+    "criteria": {
+      "has_item": "2025-01-03 18:58:06 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blaze_gold_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-01-03 18:58:06 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/material_grader": {
+    "criteria": {
+      "has_item": "2025-01-03 18:58:06 +0000"
+    },
+    "done": true
+  },
+  "silentgear:blaze_gold": {
+    "criteria": {
+      "get_item": "2025-01-03 18:58:06 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blaze_gold_nugget": {
+    "criteria": {
+      "has_item": "2025-01-03 18:58:06 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blaze_gold_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-01-03 18:58:06 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blaze_gold_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2025-01-03 18:58:06 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_frame_storage": {
+    "criteria": {
+      "has_logistics_core": "2025-01-03 18:58:21 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/classify_filter": {
+    "criteria": {
+      "has_logistics_core": "2025-01-03 18:58:21 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_frame_default_storage": {
+    "criteria": {
+      "has_logistics_core": "2025-01-03 18:58:21 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_frame_requester": {
+    "criteria": {
+      "has_logistics_core": "2025-01-03 18:58:21 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_frame_active_provider": {
+    "criteria": {
+      "has_logistics_core": "2025-01-03 18:58:21 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_module": {
+    "criteria": {
+      "has_logistics_core": "2025-01-03 18:58:21 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_frame_passive_provider": {
+    "criteria": {
+      "has_logistics_core": "2025-01-03 18:58:21 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/network_node": {
+    "criteria": {
+      "has_capacitor": "2025-01-03 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/network_registry": {
+    "criteria": {
+      "has_capacitor": "2025-01-03 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/network_api": {
+    "criteria": {
+      "has_capacitor": "2025-01-03 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/network_io_port": {
+    "criteria": {
+      "has_capacitor": "2025-01-03 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/diagnostic_subroutine": {
+    "criteria": {
+      "has_capacitor": "2025-01-03 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/network_data_storage": {
+    "criteria": {
+      "has_capacitor": "2025-01-03 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-01-03 18:58:47 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-01-03 18:58:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_dark": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_blue": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/nether_bricks": {
+    "criteria": {
+      "has_planks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_light_r": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_red": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_light": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_red_r": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_dark_r": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_green": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_blue_r": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_green_r": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-01-03 19:00:58 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_sword": {
+    "criteria": {
+      "has_tool": "2025-01-03 19:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-01-03 19:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-01-03 19:03:56 +0000"
+    },
+    "done": true
+  },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2025-01-03 19:16:37 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_ingot": {
+    "criteria": {
+      "ingot_steel": "2025-01-03 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/divining_rod_1": {
+    "criteria": {
+      "has_covalence_dust": "2025-01-03 19:19:00 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/repair_talisman": {
+    "criteria": {
+      "has_covalence_dust": "2025-01-03 19:19:06 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/repair_talisman_alt": {
+    "criteria": {
+      "has_covalence_dust": "2025-01-03 19:19:06 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/alchemical_chest": {
+    "criteria": {
+      "has_covalence_dust": "2025-01-03 19:19:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-03 19:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-01-03 19:22:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2025-01-03 19:22:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beef": "2025-01-03 19:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-03 19:22:46 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/beef_to_porkchop": {
+    "criteria": {
+      "has_beef": "2025-01-03 19:22:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2025-01-03 19:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-01-03 19:22:46 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:flux_hammer": {
+    "criteria": {
+      "has_flux_hammer": "2025-01-03 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:flux_sieve": {
+    "criteria": {
+      "has_flux_sieve": "2025-01-03 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-03 19:35:32 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/poppy_to_dandelion": {
+    "criteria": {
+      "has_poppy": "2025-01-03 19:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-03 19:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-03 19:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-03 19:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-03 19:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-01-03 19:36:21 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/moss_block_1x": {
+    "criteria": {
+      "has_moss_block": "2025-01-03 19:36:21 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/building_blocks/compressed_crushed_blackstone": {
+    "criteria": {
+      "has_item": "2025-01-03 19:40:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-03 19:40:42 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-01-03 19:51:06 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-01-03 19:52:54 +0000"
     },
     "done": true
   },
@@ -12622,30 +14012,9 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-01-03 18:55:50 +0000",
-      "minecraft:nether_wastes": "2025-01-03 18:49:41 +0000",
-      "minecraft:soul_sand_valley": "2025-01-03 18:50:09 +0000",
-      "minecraft:basalt_deltas": "2025-01-03 18:48:45 +0000"
-    },
-    "done": false
-  },
-  "pneumaticcraft:recipes/misc/stone_base": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/sinew_fiber": {
-    "criteria": {
-      "has_item": "2025-01-03 18:35:18 +0000"
     },
     "done": true
   },
@@ -12655,21 +14024,9 @@
     },
     "done": true
   },
-  "silentgear:recipes/misc/blaze_gold_dust": {
-    "criteria": {
-      "has_item": "2025-01-03 18:58:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/stripped_green_archwood_wood": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_stone_from_slab": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -12679,33 +14036,9 @@
     },
     "done": true
   },
-  "forcecraft:recipes/tools/force_arrow": {
-    "criteria": {
-      "has_feather": "2025-01-03 18:32:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-01-03 19:35:32 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/blaze_gold_block": {
-    "criteria": {
-      "has_item": "2025-01-03 18:58:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_diorite": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/reinforced_brick_slab": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -12721,33 +14054,15 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_blue": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/spell_prism": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_lime": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/wipe_spell_parchment": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_yellow": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -12763,51 +14078,15 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/thermostat_module": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/nether_bricks_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-01-03 18:59:26 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_cloudshaping": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/reinforced_stone_from_slab": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/archwood_fence": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/liquid_hopper": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-03 19:22:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
     },
     "done": true
   },
@@ -12826,12 +14105,6 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_brick_pillar": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -12859,21 +14132,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/redstone_module": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/blaze_gold_dust_smelting": {
-    "criteria": {
-      "has_item": "2025-01-03 18:58:06 +0000"
     },
     "done": true
   },
@@ -12889,33 +14150,9 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/uranium_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2025-01-03 18:11:49 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/uranium_ingot_from_raw_blasting": {
-    "criteria": {
-      "has_item": "2025-01-03 18:11:27 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_light_blue": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_tuff": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/blaze_gold_ingot_from_block": {
-    "criteria": {
-      "has_item": "2025-01-03 18:58:06 +0000"
     },
     "done": true
   },
@@ -12931,33 +14168,9 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_boots": "2025-01-03 18:56:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_gravity": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-01-03 19:56:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_sword": "2025-01-03 19:00:58 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/reinforced_brick_tile": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -12970,12 +14183,6 @@
   "ars_nouveau:recipes/misc/falseweave": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_cyan": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -12997,18 +14204,6 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
-    "criteria": {
-      "has_planks": "2025-01-03 18:59:26 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/poppy_to_dandelion": {
-    "criteria": {
-      "has_poppy": "2025-01-03 19:35:32 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
@@ -13018,12 +14213,6 @@
   "ars_nouveau:recipes/misc/worn_notebook": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_red": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -13039,39 +14228,15 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/network_registry": {
-    "criteria": {
-      "has_capacitor": "2025-01-03 18:58:22 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/source_gem_block": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
     },
     "done": true
   },
-  "alltheores:recipes/misc/uranium_block": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2025-01-03 18:11:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/archwood_to_chest": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-01-03 19:03:56 +0000"
     },
     "done": true
   },
@@ -13084,12 +14249,6 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_granite": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_shovel": {
-    "criteria": {
-      "has_tool": "2025-01-03 19:56:41 +0000"
     },
     "done": true
   },
@@ -13111,33 +14270,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/wall_lamp_brown": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_caelum:recipes/misc/ritual_conjure_island_village": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_fence": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/pressure_tube": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/uranium_block_1x": {
-    "criteria": {
-      "has_uranium_block": "2025-01-03 18:11:56 +0000"
     },
     "done": true
   },
@@ -13159,39 +14294,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_brick_tile": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_brick_stairs": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_stone_slab": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-01-03 18:56:02 +0000"
     },
     "done": true
   },
@@ -13249,18 +14354,6 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_black": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "exmachinis:netherite_upgrade": {
-    "criteria": {
-      "has_netherite_upgrade": "2025-01-03 20:03:48 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ring_of_potential": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
@@ -13279,12 +14372,6 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/lantern_of_paranoia": {
-    "criteria": {
-      "has_molten_core": "2025-01-03 18:33:07 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_plains": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
@@ -13294,12 +14381,6 @@
   "ars_nouveau:recipes/misc/sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
     },
     "done": true
   },
@@ -13321,39 +14402,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-01-03 19:36:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/skull_banner_pattern": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2025-01-03 18:56:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_large_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_dark": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_gray": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_blue": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
     },
     "done": true
   },
@@ -13381,21 +14432,9 @@
     },
     "done": true
   },
-  "ars_nouveau:imbuement_chamber": {
-    "criteria": {
-      "has_imbuement_chamber": "2025-01-03 19:59:52 +0000"
-    },
-    "done": true
-  },
   "ars_caelum:recipes/misc/ritual_mana_regeneration": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/reinforced_stone_slab": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -13405,33 +14444,9 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/mob_charm_fragments/blaze": {
-    "criteria": {
-      "has_molten_core": "2025-01-03 18:33:07 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/uranium_dust": {
-    "criteria": {
-      "has_uranium": "2025-01-03 18:11:08 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/runic_chalk": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/material_grader": {
-    "criteria": {
-      "has_item": "2025-01-03 18:58:06 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/liquid_compressor": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -13444,18 +14459,6 @@
   "ars_nouveau:recipes/misc/sourcestone": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/midas_touchstone": {
-    "criteria": {
-      "has_molten_core": "2025-01-03 18:33:07 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_black": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -13483,12 +14486,6 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/salamander_eye": {
-    "criteria": {
-      "has_molten_core": "2025-01-03 18:33:07 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
@@ -13507,69 +14504,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-03 19:40:42 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/mob_charm_fragments/wither_skeleton": {
-    "criteria": {
-      "has_withered_rib": "2025-01-03 18:56:55 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/vitalic_sourcelink": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/network_api": {
-    "criteria": {
-      "has_capacitor": "2025-01-03 18:58:22 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_iron_gear": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-01-03 19:22:46 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/logistics_frame_storage": {
-    "criteria": {
-      "has_logistics_core": "2025-01-03 18:58:21 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/kerosene_lamp": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_pink": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/remote": {
-    "criteria": {
-      "has_transistor": "2025-01-03 18:58:00 +0000"
     },
     "done": true
   },
@@ -13585,21 +14528,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/air_canister": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/repair_talisman": {
-    "criteria": {
-      "has_covalence_dust": "2025-01-03 19:19:06 +0000"
     },
     "done": true
   },
@@ -13627,30 +14558,6 @@
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/uranium_dust_from_raw": {
-    "criteria": {
-      "has_raw_uranium": "2025-01-03 18:11:27 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/vortex_cannon": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/hamburger": {
-    "criteria": {
-      "has_beef": "2025-01-03 19:22:46 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
@@ -13663,33 +14570,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/heat_frame": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/nether_bricks": {
-    "criteria": {
-      "has_planks": "2025-01-03 18:59:26 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-01-03 18:56:24 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/crop_support": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -13717,18 +14600,6 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/logistics_configurator": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/golden_nether_banana": {
-    "criteria": {
-      "has_item": "2025-01-03 18:57:56 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
@@ -13747,39 +14618,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/building_blocks/ars_nouveau/sign_post_archwood": {
-    "criteria": {
-      "has_planks": "2025-01-03 19:57:53 +0000"
-    },
-    "done": true
-  },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-01-03 18:57:54 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/arcane_pedestal": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/misc/ores/platinum_tag": {
-    "criteria": {
-      "has_item": "2025-01-03 18:06:20 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/uranium_ingot_from_ore": {
-    "criteria": {
-      "has_item": "2025-01-03 18:11:08 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/stuffed_poblanos": {
-    "criteria": {
-      "has_beef": "2025-01-03 19:22:46 +0000"
     },
     "done": true
   },
@@ -13801,12 +14642,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_stairs": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
-    },
-    "done": true
-  },
   "ars_elemental:recipes/misc/tablet_ritual_squirrels": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
@@ -13825,21 +14660,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/thermal_lagging": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/deny_scroll": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/plate_uranium_hammering": {
-    "criteria": {
-      "has_uranium_ingot": "2025-01-03 18:11:49 +0000"
     },
     "done": true
   },
@@ -13849,51 +14672,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/refinery_output": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/root": {
-    "criteria": {
-      "sword": "2025-01-03 18:58:47 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/pressure_chamber_valve_x1": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/pressure_chamber_valve_x4": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_brick_from_slab": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-01-03 19:36:21 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/nether_bricks_bridge": {
-    "criteria": {
-      "has_planks": "2025-01-03 18:59:26 +0000"
     },
     "done": true
   },
@@ -13927,18 +14708,6 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/reinforced_brick_pillar": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/uranium_ingot_from_raw": {
-    "criteria": {
-      "has_item": "2025-01-03 18:11:27 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_basketweave_stairs": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
@@ -13957,33 +14726,9 @@
     },
     "done": true
   },
-  "silentgear:blaze_gold": {
-    "criteria": {
-      "get_item": "2025-01-03 18:58:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/archwood_sconce": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/seismic_sensor": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-01-03 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/reinforced_brick_stairs": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -13999,57 +14744,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/pneumatic_wrench": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_purple": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/refinery": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/wilden_summon_alt": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_pink": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "silentgear:nether": {
-    "criteria": {
-      "entered_nether": "2025-01-03 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-01-03 19:36:21 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:source_jar": {
-    "criteria": {
-      "has_source_jar": "2025-01-03 19:51:06 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/repair_talisman_alt": {
-    "criteria": {
-      "has_covalence_dust": "2025-01-03 19:19:06 +0000"
     },
     "done": true
   },
@@ -14059,21 +14756,9 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/uncrafting/wither_skeleton_skull": {
-    "criteria": {
-      "has_withered_rib": "2025-01-03 18:56:55 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_wilden_summon": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/omnidirectional_hopper": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -14092,18 +14777,6 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/building_blocks/compressed_crushed_blackstone": {
-    "criteria": {
-      "has_item": "2025-01-03 19:40:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
-    "criteria": {
-      "has_beef": "2025-01-03 19:22:46 +0000"
     },
     "done": true
   },
@@ -14137,39 +14810,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_red": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/uranium_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2025-01-03 18:11:49 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/dried_sinew": {
-    "criteria": {
-      "has_item": "2025-01-03 18:35:18 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/network_io_port": {
-    "criteria": {
-      "has_capacitor": "2025-01-03 18:58:22 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_slab": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/thermal_compressor": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -14188,12 +14831,6 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_stairs": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_light_r": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
     },
     "done": true
   },
@@ -14218,24 +14855,6 @@
   "ars_nouveau:recipes/misc/spike_to_arrow": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/mercy_cross": {
-    "criteria": {
-      "has_withered_rib": "2025-01-03 18:56:55 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/glittery_dust": {
-    "criteria": {
-      "has_item": "2025-01-03 18:57:56 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/uranium_dust_from_ingot": {
-    "criteria": {
-      "has_uranium_ingot": "2025-01-03 18:11:49 +0000"
     },
     "done": true
   },
@@ -14269,33 +14888,9 @@
     },
     "done": true
   },
-  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_sword": {
-    "criteria": {
-      "has_tool": "2025-01-03 19:00:58 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/uranium_gear": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2025-01-03 18:11:49 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/moss_block_1x": {
-    "criteria": {
-      "has_moss_block": "2025-01-03 19:36:21 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/moonfall_2": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/beef_to_porkchop": {
-    "criteria": {
-      "has_beef": "2025-01-03 19:22:46 +0000"
     },
     "done": true
   },
@@ -14329,27 +14924,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/feather_block": {
-    "criteria": {
-      "has_feather": "2025-01-03 18:32:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-01-03 19:35:48 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/archwood_fence_gate": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/vortex_tube": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -14362,12 +14939,6 @@
   "ars_nouveau:recipes/misc/ritual_forestation": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/thermopneumatic_processing_plant": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -14395,21 +14966,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/compressed_bricks": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/warp_scroll": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_light_gray": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -14419,33 +14978,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/wall_lamp_gray": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_iron_boots": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/reinforced_bricks": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:novice_spell_book": {
-    "criteria": {
-      "has_novice_spell_book": "2025-01-03 19:56:53 +0000"
     },
     "done": true
   },
@@ -14479,12 +15014,6 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/minigun": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
@@ -14509,39 +15038,15 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/wall_lamp_magenta": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/heat_sink": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/misc/ores/uranium_tag": {
-    "criteria": {
-      "has_item": "2025-01-03 18:06:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-01-03 18:48:44 +0000"
     },
     "done": true
   },
@@ -14569,21 +15074,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/reinforced_brick_wall": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/archwood_trapdoor": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_magenta": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -14593,51 +15086,15 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/compressed_iron_helmet": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/classify_filter": {
-    "criteria": {
-      "has_logistics_core": "2025-01-03 18:58:21 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/camo_applicator": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "exmachinis:gold_upgrade": {
-    "criteria": {
-      "has_gold_upgrade": "2025-01-03 20:02:11 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/horn_to_bonemeal": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_white": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/pressure_chamber_wall": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -14653,45 +15110,9 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/uncrafting/magma_cream": {
-    "criteria": {
-      "has_molten_core": "2025-01-03 18:33:07 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_orange": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/uranium_ingot_from_ore_blasting": {
-    "criteria": {
-      "has_item": "2025-01-03 18:11:08 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_grass_block": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/mob_charm_fragments/magma_cube": {
-    "criteria": {
-      "has_molten_core": "2025-01-03 18:33:07 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_brick_wall": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_red": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
     },
     "done": true
   },
@@ -14713,27 +15134,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_green": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/logistics_frame_default_storage": {
-    "criteria": {
-      "has_logistics_core": "2025-01-03 18:58:21 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/gas_lift": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -14755,30 +15158,6 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/logistics_core": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-01-03 18:35:42 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/manometer": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_cyan": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_sconce": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
@@ -14788,18 +15167,6 @@
   "ars_nouveau:recipes/misc/magebloom_fiber": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/diagnostic_subroutine": {
-    "criteria": {
-      "has_capacitor": "2025-01-03 18:58:22 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_light": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
     },
     "done": true
   },
@@ -14839,21 +15206,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/reinforced_bricks_from_tile": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/magebloom_block_to_magebloom": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/small_tank": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -14863,21 +15218,9 @@
     },
     "done": true
   },
-  "exmachinis:flux_hammer": {
-    "criteria": {
-      "has_flux_hammer": "2025-01-03 19:33:49 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/dull_trinket": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/spirit_fire/spirit_fire/awakened_feather": {
-    "criteria": {
-      "has_feather": "2025-01-03 18:32:53 +0000"
     },
     "done": true
   },
@@ -14893,19 +15236,6 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/wall_lamp_purple": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "silentgear:nether_plants": {
-    "criteria": {
-      "banana": "2025-01-03 18:57:56 +0000",
-      "sapling": "2025-01-03 18:58:20 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
@@ -14918,21 +15248,9 @@
     },
     "done": true
   },
-  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_red_r": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/platform_to_pedestal": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/pressure_chamber_valve": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -14966,18 +15284,6 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/pressure_gauge": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:root": {
-    "criteria": {
-      "0": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/wing_to_leather": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
@@ -14987,30 +15293,6 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_sword": "2025-01-03 19:00:58 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/nether_bricks_bridge_stair": {
-    "criteria": {
-      "has_planks": "2025-01-03 18:59:26 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/uranium_plate": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2025-01-03 18:11:49 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_beef_stew": {
-    "criteria": {
-      "has_beef": "2025-01-03 19:22:46 +0000"
     },
     "done": true
   },
@@ -15104,18 +15386,6 @@
     },
     "done": true
   },
-  "silentgear:recipes/misc/blaze_gold_nugget": {
-    "criteria": {
-      "has_item": "2025-01-03 18:58:06 +0000"
-    },
-    "done": true
-  },
-  "exmachinis:flux_sieve": {
-    "criteria": {
-      "has_flux_sieve": "2025-01-03 19:33:49 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
@@ -15125,12 +15395,6 @@
   "ars_nouveau:recipes/decorations/sourcestone_20": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_green": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -15146,18 +15410,6 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/compressed_bricks_from_tile": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/regulator_tube_module": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/volcanic_sourcelink": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
@@ -15167,12 +15419,6 @@
   "ars_nouveau:recipes/misc/sourceberry_to_purple": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/network_data_storage": {
-    "criteria": {
-      "has_capacitor": "2025-01-03 18:58:22 +0000"
     },
     "done": true
   },
@@ -15188,27 +15434,9 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/uranium_ingot_from_block": {
-    "criteria": {
-      "has_item": "2025-01-03 18:11:56 +0000"
-    },
-    "done": true
-  },
   "ars_elemental:recipes/redstone/advanced_prism": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/reinforced_chest": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_iron_leggings": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -15224,12 +15452,6 @@
     },
     "done": true
   },
-  "lootr:social": {
-    "criteria": {
-      "opened_chest": "2025-01-03 18:57:54 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/conjuration_essence_to_soul_sand": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
@@ -15242,45 +15464,9 @@
     },
     "done": true
   },
-  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_dark_r": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/raw_uranium_block": {
-    "criteria": {
-      "has_raw_TagKey[minecraft:item / forge:raw_materials/uranium]": "2025-01-03 18:11:27 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/transfer_gadget": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/logistics_frame_requester": {
-    "criteria": {
-      "has_logistics_core": "2025-01-03 18:58:21 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_brown": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/red_archwood_wood": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_white": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -15314,18 +15500,6 @@
     },
     "done": true
   },
-  "mekanism:steel_ingot": {
-    "criteria": {
-      "ingot_steel": "2025-01-03 19:16:41 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/logistics_frame_active_provider": {
-    "criteria": {
-      "has_logistics_core": "2025-01-03 18:58:21 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/source_jar": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
@@ -15335,12 +15509,6 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_pickaxe": {
-    "criteria": {
-      "has_tool": "2025-01-03 19:56:38 +0000"
     },
     "done": true
   },
@@ -15386,27 +15554,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_light_blue": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_blue": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
     },
     "done": true
   },
@@ -15416,27 +15566,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/wall_lamp_lime": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/uncrafting/blaze_rod": {
-    "criteria": {
-      "has_molten_core": "2025-01-03 18:33:07 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/purple_sbed": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/pressure_chamber_glass": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -15452,39 +15584,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-01-03 19:22:46 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_axe": {
-    "criteria": {
-      "has_tool": "2025-01-03 19:56:39 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/reinforced_brick_from_slab": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_light_gray": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/fire_essence_to_charge": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/cannon_barrel": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -15494,27 +15596,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/compressed_brick_slab": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_cascading_sapling": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_iron_block_from_ingot": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/elevator_frame": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -15530,21 +15614,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_slab": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_boots": {
-    "criteria": {
-      "has_armor": "2025-01-03 18:56:03 +0000"
     },
     "done": true
   },
@@ -15566,63 +15638,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/reinforced_stone": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/logistics_module": {
-    "criteria": {
-      "has_logistics_core": "2025-01-03 18:58:21 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/pressure_chamber_glass_x4": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/pressure_chamber_glass_x1": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_yellow": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_green": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/blaze_gold_dust_blasting": {
-    "criteria": {
-      "has_item": "2025-01-03 18:58:06 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/blaze_gold_ingot_from_nugget": {
-    "criteria": {
-      "has_item": "2025-01-03 18:58:06 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_iron_chestplate": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
     },
     "done": true
   },
@@ -15638,39 +15656,15 @@
     },
     "done": true
   },
-  "mekanism:energy_cube": {
-    "criteria": {
-      "basic_energy_cube": "2025-01-03 19:16:37 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/scryers_crystal": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
     },
     "done": true
   },
-  "exmachinis:diamond_upgrade": {
-    "criteria": {
-      "has_diamond_upgrade": "2025-01-03 20:03:12 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/stripped_red_archwood_wood": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/random": {
-    "criteria": {
-      "sword": "2025-01-03 18:58:47 +0000"
-    },
-    "done": true
-  },
-  "constructionwand:recipes/misc/core_angel": {
-    "criteria": {
-      "has_item": "2025-01-03 18:32:53 +0000"
     },
     "done": true
   },
@@ -15701,12 +15695,6 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/decorations/alchemical_chest": {
-    "criteria": {
-      "has_covalence_dust": "2025-01-03 19:19:06 +0000"
     },
     "done": true
   },
@@ -15752,51 +15740,9 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/destruction_catalyst": {
-    "criteria": {
-      "has_molten_core": "2025-01-03 18:33:07 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/interdiction_torch": {
-    "criteria": {
-      "has_molten_core": "2025-01-03 18:33:07 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/logistics_frame_passive_provider": {
-    "criteria": {
-      "has_logistics_core": "2025-01-03 18:58:21 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_blue_r": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/heat_pipe": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/spawner_agitator": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-01-03 18:58:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/nether_bricks_green_r": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-03 18:59:26 +0000"
     },
     "done": true
   },
@@ -15809,12 +15755,6 @@
   "ars_nouveau:recipes/misc/scry_to_blank_parchment": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-01-03 19:35:48 +0000"
     },
     "done": true
   },
@@ -15842,15 +15782,75 @@
     },
     "done": true
   },
-  "projecte:recipes/tools/divining_rod_1": {
-    "criteria": {
-      "has_covalence_dust": "2025-01-03 19:19:00 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-01-03 19:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-03 19:56:38 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_pickaxe": {
+    "criteria": {
+      "has_tool": "2025-01-03 19:56:38 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_axe": {
+    "criteria": {
+      "has_tool": "2025-01-03 19:56:39 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_shovel": {
+    "criteria": {
+      "has_tool": "2025-01-03 19:56:41 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-01-03 19:56:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/building_blocks/ars_nouveau/sign_post_archwood": {
+    "criteria": {
+      "has_planks": "2025-01-03 19:57:53 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2025-01-03 19:59:52 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:gold_upgrade": {
+    "criteria": {
+      "has_gold_upgrade": "2025-01-03 20:02:11 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:diamond_upgrade": {
+    "criteria": {
+      "has_diamond_upgrade": "2025-01-03 20:03:12 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:netherite_upgrade": {
+    "criteria": {
+      "has_netherite_upgrade": "2025-01-03 20:03:48 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2025-01-03 20:22:20 +0000"
     },
     "done": true
   },
