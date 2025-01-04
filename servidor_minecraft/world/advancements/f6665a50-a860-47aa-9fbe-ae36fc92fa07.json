@@ -17276,6 +17276,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-04 18:34:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-01-04 18:09:40 +0000"
@@ -17285,6 +17291,12 @@
   "mekanism:materials": {
     "criteria": {
       "material": "2025-01-04 18:09:40 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-01-04 18:40:50 +0000"
     },
     "done": true
   },
@@ -17327,6 +17339,12 @@
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2025-01-04 18:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-04 18:34:20 +0000"
     },
     "done": true
   },
