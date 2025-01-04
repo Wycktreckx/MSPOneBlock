@@ -15854,5 +15854,11 @@
     },
     "done": true
   },
+  "mekanismgenerators:burn_the_gas": {
+    "criteria": {
+      "gas_burning_generator": "2025-01-04 00:34:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

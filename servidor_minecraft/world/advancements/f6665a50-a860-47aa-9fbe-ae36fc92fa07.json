@@ -16769,6 +16769,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-01-04 00:37:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2025-01-04 00:07:04 +0000"
@@ -16820,6 +16826,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
     "criteria": {
       "has_item": "2025-01-04 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-01-04 00:37:59 +0000"
     },
     "done": true
   },
@@ -16895,6 +16907,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-01-04 00:37:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_drill": {
     "criteria": {
       "has_item": "2025-01-04 00:22:58 +0000"
@@ -16904,6 +16922,12 @@
   "create:shifting_gears": {
     "criteria": {
       "0": "2025-01-04 00:16:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-01-04 00:37:59 +0000"
     },
     "done": true
   },
@@ -16991,9 +17015,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/chute_iron": {
+    "criteria": {
+      "has_plate": "2025-01-04 00:37:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hand_crank": {
     "criteria": {
       "has_item": "2025-01-04 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-01-04 00:37:16 +0000"
     },
     "done": true
   },
@@ -17012,6 +17048,12 @@
   "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_item": "2025-01-04 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_placer": {
+    "criteria": {
+      "has_iron_plate": "2025-01-04 00:37:59 +0000"
     },
     "done": true
   },
@@ -17036,6 +17078,12 @@
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2025-01-04 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_pipe": {
+    "criteria": {
+      "has_iron_plate": "2025-01-04 00:37:59 +0000"
     },
     "done": true
   },
