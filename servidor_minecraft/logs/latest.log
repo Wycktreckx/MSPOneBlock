@@ -1719,3 +1719,5 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [04Jan2025 18:03:40.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV joined the game
 [04Jan2025 18:03:41.220] [Server thread/INFO] [Jade/]: Syncing config to YeferJV (f6665a50-a860-47aa-9fbe-ae36fc92fa07)
 [04Jan2025 18:03:41.223] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 1 (-2 unused), uncached profiles: 0, total profiles: 3
+[04Jan2025 18:09:46.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Shocking]
+[04Jan2025 18:15:16.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,398.3180436384173,0.0
