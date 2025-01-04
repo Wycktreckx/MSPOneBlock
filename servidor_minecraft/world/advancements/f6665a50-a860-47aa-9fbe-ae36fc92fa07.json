@@ -1404,6 +1404,7 @@
       "bread": "2025-01-01 01:50:52 +0000",
       "golden_apple": "2025-01-02 17:27:16 +0000",
       "golden_carrot": "2025-01-03 19:42:37 +0000",
+      "enchanted_golden_apple": "2025-01-04 00:49:21 +0000",
       "carrot": "2025-01-03 02:33:15 +0000"
     },
     "done": false
@@ -16799,6 +16800,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2025-01-04 00:42:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/shaft": {
     "criteria": {
       "has_item": "2025-01-04 00:07:04 +0000"
@@ -16853,6 +16860,12 @@
     },
     "done": true
   },
+  "dankstorage:recipes/tools/dank_1": {
+    "criteria": {
+      "has_barrel": "2025-01-04 00:42:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/basin": {
     "criteria": {
       "has_item": "2025-01-04 00:07:04 +0000"
@@ -16868,6 +16881,12 @@
   "create:recipes/misc/crafting/kinetics/contraption_controls": {
     "criteria": {
       "has_item": "2025-01-04 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-01-04 00:42:31 +0000"
     },
     "done": true
   },
@@ -16919,6 +16938,12 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-01-04 00:48:25 +0000"
+    },
+    "done": true
+  },
   "create:shifting_gears": {
     "criteria": {
       "0": "2025-01-04 00:16:58 +0000"
@@ -16934,6 +16959,12 @@
   "xycraft_override:recipes/building_blocks/shaped/magma_red": {
     "criteria": {
       "has_magma_block": "2025-01-04 00:28:21 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_copper": {
+    "criteria": {
+      "has_plate": "2025-01-04 00:42:54 +0000"
     },
     "done": true
   },
@@ -17099,6 +17130,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-01-04 00:49:06 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/magma_green_r": {
     "criteria": {
       "has_magma_block": "2025-01-04 00:28:21 +0000"
@@ -17108,6 +17145,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2025-01-04 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-01-04 00:42:31 +0000"
     },
     "done": true
   },
