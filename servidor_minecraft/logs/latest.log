@@ -10025,3 +10025,4 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 	... 28 more
 [05Jan2025 01:35:01.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has reached the goal [Postmortal]
 [05Jan2025 01:35:01.171] [Server thread/INFO] [tombstone/]: The player YeferJV has successfully been saved
+[05Jan2025 02:02:36.456] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/1359, l='ServerLevel[world]', x=4140.32, y=67.00, z=53.92] died, message: 'Fletcher was slain by Zombie'
