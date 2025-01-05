@@ -18350,5 +18350,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-01-05 01:35:01 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:burn_the_gas": {
+    "criteria": {
+      "gas_burning_generator": "2025-01-05 01:29:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
