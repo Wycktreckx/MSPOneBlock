@@ -17858,6 +17858,30 @@
     },
     "done": true
   },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-01-04 23:37:16 +0000"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-01-04 23:40:54 +0000"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2025-01-04 23:41:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube_uncrafting": {
+    "criteria": {
+      "has_sugar_cube": "2025-01-04 23:41:40 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/smelting/ingot_nickel_from_blasting": {
     "criteria": {
       "has_ore_nickel": "2025-01-04 23:46:56 +0000"
@@ -17865,6 +17889,30 @@
     "done": true
   },
   "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-01-04 23:46:56 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/emerald_dust": {
+    "criteria": {
+      "has_emerald": "2025-01-04 23:46:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_nickel": {
+    "criteria": {
+      "has_ore_nickel": "2025-01-04 23:46:56 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/emerald_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-01-04 23:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
     "criteria": {
       "has_emerald_ore": "2025-01-04 23:46:56 +0000"
     },
@@ -17885,12 +17933,6 @@
   "productivebees:recipes/misc/stonecutter/driftwood_canvas_expansion_box": {
     "criteria": {
       "has_stonecutter": "2025-01-04 23:53:16 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_dark_oak": {
-    "criteria": {
-      "has_dark_oak_sign": "2025-01-05 00:16:01 +0000"
     },
     "done": true
   },
@@ -17915,12 +17957,6 @@
   "productivebees:recipes/misc/stonecutter/aspen_canvas_hive": {
     "criteria": {
       "has_stonecutter": "2025-01-04 23:53:16 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/ruby_dust": {
-    "criteria": {
-      "has_ruby": "2025-01-05 00:02:29 +0000"
     },
     "done": true
   },
@@ -17951,30 +17987,6 @@
   "productivebees:recipes/misc/stonecutter/bamboo_canvas_hive": {
     "criteria": {
       "has_stonecutter": "2025-01-04 23:53:16 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/emerald_dust": {
-    "criteria": {
-      "has_emerald": "2025-01-04 23:46:56 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/uranium_dust": {
-    "criteria": {
-      "has_uranium": "2025-01-05 00:14:07 +0000"
-    },
-    "done": true
-  },
-  "create:crushing_wheel": {
-    "criteria": {
-      "0": "2025-01-04 23:37:16 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sugar_cube_uncrafting": {
-    "criteria": {
-      "has_sugar_cube": "2025-01-04 23:41:40 +0000"
     },
     "done": true
   },
@@ -18134,12 +18146,6 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/smelting/ingot_nickel": {
-    "criteria": {
-      "has_ore_nickel": "2025-01-04 23:46:56 +0000"
-    },
-    "done": true
-  },
   "productivebees:recipes/misc/stonecutter/dark_oak_canvas_hive": {
     "criteria": {
       "has_stonecutter": "2025-01-04 23:53:16 +0000"
@@ -18167,12 +18173,6 @@
   "productivebees:recipes/misc/stonecutter/comb_canvas_hive": {
     "criteria": {
       "has_stonecutter": "2025-01-04 23:53:16 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/clibano_combustion/emerald_from_clibano_combusting": {
-    "criteria": {
-      "has_item": "2025-01-04 23:46:56 +0000"
     },
     "done": true
   },
@@ -18266,24 +18266,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/force_gem_from_blasting_power_ore": {
-    "criteria": {
-      "has_power_ore": "2025-01-05 00:24:55 +0000"
-    },
-    "done": true
-  },
-  "create:spout": {
-    "criteria": {
-      "0": "2025-01-04 23:41:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/force_gem_from_smelting_power_ore": {
-    "criteria": {
-      "has_power_ore": "2025-01-05 00:24:55 +0000"
-    },
-    "done": true
-  },
   "productivebees:recipes/misc/stonecutter/palm_canvas_expansion_box": {
     "criteria": {
       "has_stonecutter": "2025-01-04 23:53:16 +0000"
@@ -18308,21 +18290,9 @@
     },
     "done": true
   },
-  "create:compacting": {
-    "criteria": {
-      "0": "2025-01-04 23:40:54 +0000"
-    },
-    "done": true
-  },
   "productivebees:recipes/misc/stonecutter/warped_canvas_expansion_box": {
     "criteria": {
       "has_stonecutter": "2025-01-04 23:53:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
-    "criteria": {
-      "has_emerald_ore": "2025-01-04 23:46:56 +0000"
     },
     "done": true
   },
@@ -18347,6 +18317,36 @@
   "productivebees:recipes/misc/stonecutter/cherry_canvas_hive": {
     "criteria": {
       "has_stonecutter": "2025-01-04 23:53:16 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/ruby_dust": {
+    "criteria": {
+      "has_ruby": "2025-01-05 00:02:29 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/uranium_dust": {
+    "criteria": {
+      "has_uranium": "2025-01-05 00:14:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_dark_oak_sign": "2025-01-05 00:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/force_gem_from_blasting_power_ore": {
+    "criteria": {
+      "has_power_ore": "2025-01-05 00:24:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/force_gem_from_smelting_power_ore": {
+    "criteria": {
+      "has_power_ore": "2025-01-05 00:24:55 +0000"
     },
     "done": true
   },
