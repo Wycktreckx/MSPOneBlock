@@ -18266,9 +18266,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/force_gem_from_blasting_power_ore": {
+    "criteria": {
+      "has_power_ore": "2025-01-05 00:24:55 +0000"
+    },
+    "done": true
+  },
   "create:spout": {
     "criteria": {
       "0": "2025-01-04 23:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/force_gem_from_smelting_power_ore": {
+    "criteria": {
+      "has_power_ore": "2025-01-05 00:24:55 +0000"
     },
     "done": true
   },
