@@ -1721,3 +1721,5 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [05Jan2025 04:33:33.431] [Server thread/INFO] [Jade/]: Syncing config to Wycktreckz (18d65aa7-fd92-4638-9071-1c6ee282384e)
 [05Jan2025 04:33:33.435] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 1 (-2 unused), uncached profiles: 0, total profiles: 3
 [05Jan2025 04:36:07.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Busy Hands]
+[05Jan2025 05:05:29.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz lost connection: Disconnected
+[05Jan2025 05:05:29.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz left the game
