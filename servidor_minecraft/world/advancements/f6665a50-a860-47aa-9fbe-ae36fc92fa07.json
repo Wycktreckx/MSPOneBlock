@@ -17912,6 +17912,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/ruby_dust": {
+    "criteria": {
+      "has_ruby": "2025-01-05 00:02:29 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/stonecutter/magic_canvas_expansion_box": {
     "criteria": {
       "has_stonecutter": "2025-01-04 23:53:16 +0000"
