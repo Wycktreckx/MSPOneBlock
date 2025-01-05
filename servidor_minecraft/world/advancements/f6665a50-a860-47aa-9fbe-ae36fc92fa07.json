@@ -17888,6 +17888,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_dark_oak_sign": "2025-01-05 00:16:01 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/stonecutter/cherry_canvas_expansion_box": {
     "criteria": {
       "has_stonecutter": "2025-01-04 23:53:16 +0000"
@@ -17951,6 +17957,12 @@
   "occultism:recipes/crushing/crushing/emerald_dust": {
     "criteria": {
       "has_emerald": "2025-01-04 23:46:56 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/uranium_dust": {
+    "criteria": {
+      "has_uranium": "2025-01-05 00:14:07 +0000"
     },
     "done": true
   },
